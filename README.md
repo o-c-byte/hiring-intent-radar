@@ -1,6 +1,6 @@
 # Hiring Intent Radar
 
-**Live page:** https://otmarcarrion-byte.github.io/hiring-intent-radar/
+**Live page:** https://o-c-byte.github.io/hiring-intent-radar/
 
 Startups publish their plans in their job boards before they announce them. This project reads the public job boards
 of European seed to Series B startups and turns open postings into dated, evidenced strategic signals: market
