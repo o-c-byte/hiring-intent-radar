@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+data/raw/
+node_modules/
+.DS_Store
+.venv/
+data/*.log
+data/llm_cache.jsonl
+data/postings.jsonl
+data/batches/*.in.txt
+CLAUDE.md
+data/portfolio_overlay.md

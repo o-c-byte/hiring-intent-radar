@@ -1,0 +1,397 @@
+name,domain,hq_city,country,stage_approx,sector
+Sesame HR,sesamehr.com,Valencia,ES,B,hr-work
+Kenjo,kenjo.io,Madrid,ES,A,hr-work
+Bizneo,bizneo.com,Madrid,ES,A,hr-work
+Payflow,payflow.es,Madrid,ES,A,fintech
+Embat,embat.io,Madrid,ES,A,fintech
+Abacum,abacum.ai,Barcelona,ES,A,fintech
+Taxdown,taxdown.es,Madrid,ES,A,fintech
+Nemuru,nemuru.com,Valencia,ES,A,fintech
+Sequra,sequra.com,Barcelona,ES,B,fintech
+Devengo,devengo.com,Madrid,ES,seed,fintech
+Ritmo,ritmo.ai,Madrid,ES,seed,fintech
+Goin,goin.app,Madrid,ES,A,fintech
+Okticket,okticket.es,Gijon,ES,A,fintech
+Maisa AI,maisa.ai,Valencia,ES,seed,vertical-ai
+Multiverse Computing,multiversecomputing.com,San Sebastian,ES,B,vertical-ai
+Sherpa.ai,sherpa.ai,Bilbao,ES,B,vertical-ai
+NeuralTrust,neuraltrust.ai,Madrid,ES,seed,security
+Maite.ai,maite.ai,Madrid,ES,seed,legal
+Bigle Legal,biglelegal.com,Barcelona,ES,A,legal
+Signaturit,signaturit.com,Barcelona,ES,B,productivity-saas
+Validated ID,validatedid.com,Barcelona,ES,A,productivity-saas
+Tinybird,tinybird.co,Madrid,ES,A,devtools-data
+Graphext,graphext.com,Madrid,ES,seed,devtools-data
+Voicemod,voicemod.net,Valencia,ES,A,consumer
+Genially,genially.com,Cordoba,ES,B,edtech
+Wuolah,wuolah.com,Seville,ES,A,edtech
+Odilo,odilo.us,Madrid,ES,B,edtech
+Tucuvi,tucuvi.com,Madrid,ES,A,health
+Idoven,idoven.ai,Madrid,ES,A,health
+Mediquo,mediquo.com,Barcelona,ES,A,health
+Ifeel,ifeelonline.com,Madrid,ES,A,health
+Qida,qida.es,Barcelona,ES,A,health
+Iomed,iomed.health,Barcelona,ES,A,health
+Barkibu,barkibu.com,A Coruna,ES,B,insurtech
+Bdeo,bdeo.io,Madrid,ES,A,insurtech
+Tuio,tuio.com,Madrid,ES,A,insurtech
+Cleverea,cleverea.com,Barcelona,ES,seed,insurtech
+Housfy,housfy.com,Barcelona,ES,B,proptech-construction
+Badi,badi.com,Barcelona,ES,B,marketplace
+Witco,witco.io,Madrid,ES,A,proptech-construction
+Mitiga Solutions,mitigasolutions.com,Barcelona,ES,A,climate-energy
+Bewe,bewe.io,Valencia,ES,A,productivity-saas
+Plinng,plinng.com,Barcelona,ES,seed,martech-adtech
+Manfred,getmanfred.com,Madrid,ES,seed,hr-work
+Countercraft,countercraftsec.com,San Sebastian,ES,A,security
+Red Points,redpoints.com,Barcelona,ES,B,martech-adtech
+Clarity AI,clarity.ai,Madrid,ES,B,climate-energy
+Factorial,factorialhr.com,Barcelona,ES,C,hr-work
+Cuideo,cuideo.com,Barcelona,ES,A,health
+Nuclio Digital School,nuclio.school,Barcelona,ES,A,edtech
+Hutch Health,hutch.health,Barcelona,ES,seed,health
+Rauda,rauda.ai,Barcelona,ES,seed,vertical-ai
+Fractus,fractus.ai,Madrid,ES,seed,vertical-ai
+Kave,kave.ai,Madrid,ES,seed,vertical-ai
+Bound,getbound.com,Barcelona,ES,A,hr-work
+Coverflex,coverflex.com,Lisbon,PT,B,hr-work
+Rows,rows.com,Porto,PT,B,productivity-saas
+Infraspeak,infraspeak.com,Porto,PT,B,productivity-saas
+Unbabel,unbabel.com,Lisbon,PT,C,vertical-ai
+Tonic App,tonicapp.com,Porto,PT,A,health
+HUUB,thehuub.io,Porto,PT,A,marketplace
+Codacy,codacy.com,Lisbon,PT,B,devtools-data
+Probely,probely.com,Lisbon,PT,A,security
+Kitch,kitch.io,Lisbon,PT,seed,productivity-saas
+Swonkie,swonkie.com,Porto,PT,seed,martech-adtech
+Indie Campers,indiecampers.com,Lisbon,PT,B,travel-mobility
+Dust,dust.tt,Paris,FR,A,vertical-ai
+Nabla,nabla.com,Paris,FR,B,health
+H Company,hcompany.ai,Paris,FR,seed,vertical-ai
+Photoroom,photoroom.com,Paris,FR,B,consumer
+Kili Technology,kili-technology.com,Paris,FR,A,devtools-data
+Giskard,giskard.ai,Paris,FR,seed,devtools-data
+Gladia,gladia.io,Paris,FR,A,vertical-ai
+Brigad,brigad.co,Paris,FR,B,hr-work
+StaffMe,staffme.fr,Paris,FR,A,hr-work
+Hublo,hublo.com,Paris,FR,B,hr-work
+Skello,skello.io,Paris,FR,B,hr-work
+Combo,combohr.com,Paris,FR,A,hr-work
+Gojob,gojob.com,Aix-en-Provence,FR,B,hr-work
+Moka.care,moka.care,Paris,FR,A,health
+Libeo,libeo.io,Paris,FR,B,fintech
+Defacto,getdefacto.com,Paris,FR,A,fintech
+Indy,indy.fr,Lyon,FR,B,fintech
+Upflow,upflow.io,Paris,FR,A,fintech
+Swan,swan.io,Paris,FR,B,fintech
+Mooncard,mooncard.co,Paris,FR,B,fintech
+Sunday,sundayapp.com,Paris,FR,B,fintech
+Akur8,akur8.com,Paris,FR,B,insurtech
+Livestorm,livestorm.co,Paris,FR,B,productivity-saas
+Folk,folk.app,Paris,FR,A,productivity-saas
+Kolsquare,kolsquare.com,Paris,FR,B,martech-adtech
+Partoo,partoo.co,Paris,FR,B,martech-adtech
+Doctrine,doctrine.fr,Paris,FR,B,legal
+Captain Contrat,captaincontrat.com,Paris,FR,B,legal
+Hiflow,hiflow.com,Paris,FR,B,travel-mobility
+Didask,didask.com,Paris,FR,seed,edtech
+Ector,ector.com,Paris,FR,B,travel-mobility
+Pigment,pigment.com,Paris,FR,D,fintech
+Pennylane,pennylane.com,Paris,FR,D,fintech
+Alma,almapay.com,Paris,FR,C,fintech
+Malt,malt.com,Paris,FR,C,hr-work
+Mistral AI,mistral.ai,Paris,FR,C,vertical-ai
+Pitch,pitch.com,Berlin,DE,B,productivity-saas
+Moss,getmoss.com,Berlin,DE,B,fintech
+Pliant,getpliant.com,Berlin,DE,B,fintech
+Candis,candis.io,Berlin,DE,B,fintech
+Ivy,getivy.de,Munich,DE,B,fintech
+Mondu,mondu.ai,Berlin,DE,B,fintech
+Cloover,cloover.co,Berlin,DE,A,climate-energy
+Ostrom,ostrom.de,Berlin,DE,A,climate-energy
+Trawa,trawa.de,Berlin,DE,seed,climate-energy
+Langdock,langdock.com,Berlin,DE,seed,vertical-ai
+Langfuse,langfuse.com,Berlin,DE,seed,devtools-data
+Parloa,parloa.com,Berlin,DE,C,vertical-ai
+Leapsome,leapsome.com,Berlin,DE,B,hr-work
+Workpath,workpath.com,Munich,DE,B,productivity-saas
+Tacto,tacto.ai,Munich,DE,A,vertical-ai
+Choco,choco.com,Berlin,DE,B,marketplace
+Superchat,superchat.com,Berlin,DE,B,martech-adtech
+Knowunity,knowunity.com,Berlin,DE,B,edtech
+simpleclub,simpleclub.com,Berlin,DE,A,edtech
+Masterplan,masterplan.com,Berlin,DE,A,edtech
+Kaia Health,kaiahealth.com,Munich,DE,C,health
+Avi Medical,avimedical.com,Munich,DE,B,health
+Buynomics,buynomics.com,Cologne,DE,A,vertical-ai
+Sastrify,sastrify.com,Cologne,DE,A,productivity-saas
+Cosuno,cosuno.com,Berlin,DE,B,proptech-construction
+Capmo,capmo.de,Munich,DE,B,proptech-construction
+Bryter,bryter.com,Berlin,DE,B,legal
+Noxtua,noxtua.com,Berlin,DE,B,legal
+Ory,ory.sh,Munich,DE,A,devtools-data
+Tldv,tldv.io,Aachen,DE,A,productivity-saas
+Heyflow,heyflow.com,Hamburg,DE,A,martech-adtech
+Ottonova,ottonova.de,Munich,DE,C,insurtech
+n8n,n8n.io,Berlin,DE,C,devtools-data
+Juro,juro.com,London,GB,B,legal
+Definely,definely.com,London,GB,A,legal
+Robin AI,robinai.com,London,GB,B,legal
+Genie AI,genieai.co,London,GB,A,legal
+Lawhive,lawhive.co.uk,London,GB,A,legal
+Wordsmith,wordsmith.ai,Edinburgh,GB,A,legal
+Flock,flockcover.com,London,GB,B,insurtech
+Laka,laka.co,London,GB,A,insurtech
+Yonder,getyonder.co.uk,London,GB,B,fintech
+9fin,9fin.com,London,GB,B,fintech
+Ophelos,ophelos.com,London,GB,A,fintech
+Yapily,yapily.com,London,GB,B,fintech
+Volt,volt.io,London,GB,B,fintech
+Atom Learning,atomlearning.co.uk,London,GB,B,edtech
+MyTutor,mytutor.co.uk,London,GB,B,edtech
+Kinnu,kinnu.xyz,London,GB,seed,edtech
+Ben,thanksben.com,London,GB,A,hr-work
+Applied,beapplied.com,London,GB,A,hr-work
+Spill,spill.chat,London,GB,A,health
+Flexa,flexa.careers,London,GB,A,hr-work
+Patchwork Health,patchwork.health,London,GB,B,hr-work
+Thriva,thriva.co,London,GB,B,health
+Numan,numan.com,London,GB,B,health
+Peppy,peppy.health,London,GB,B,health
+Birdie,birdie.care,London,GB,B,health
+Lindus Health,lindushealth.com,London,GB,B,health
+Granola,granola.ai,London,GB,B,productivity-saas
+Cogna,cogna.co,London,GB,A,vertical-ai
+Raycast,raycast.com,London,GB,B,productivity-saas
+Attio,attio.com,London,GB,B,productivity-saas
+incident.io,incident.io,London,GB,B,devtools-data
+Plentific,plentific.com,London,GB,B,proptech-construction
+LandTech,land.tech,London,GB,B,proptech-construction
+Coadjute,coadjute.com,London,GB,A,proptech-construction
+Tessl,tessl.io,London,GB,seed,devtools-data
+Synthesia,synthesia.io,London,GB,D,vertical-ai
+PolyAI,poly.ai,London,GB,C,vertical-ai
+Cleo,meetcleo.com,London,GB,C,fintech
+Weaviate,weaviate.io,Amsterdam,NL,B,devtools-data
+Framer,framer.com,Amsterdam,NL,C,productivity-saas
+Otrium,otrium.com,Amsterdam,NL,C,marketplace
+Finom,finom.co,Amsterdam,NL,C,fintech
+Nmbrs,nmbrs.com,Amsterdam,NL,B,hr-work
+Leadinfo,leadinfo.com,Rotterdam,NL,A,martech-adtech
+Fixico,fixico.com,Amsterdam,NL,B,travel-mobility
+Tiqets,tiqets.com,Amsterdam,NL,C,travel-mobility
+Lovable,lovable.dev,Stockholm,SE,A,devtools-data
+Legora,legora.com,Stockholm,SE,C,legal
+Juni,juni.co,Gothenburg,SE,B,fintech
+Brite,britepaymentgroup.com,Stockholm,SE,B,fintech
+Normative,normative.io,Stockholm,SE,B,climate-energy
+Hedvig,hedvig.com,Stockholm,SE,B,insurtech
+Lassie,lassie.co,Stockholm,SE,B,insurtech
+Planhat,planhat.com,Stockholm,SE,B,productivity-saas
+Mentimeter,mentimeter.com,Stockholm,SE,B,productivity-saas
+Funnel,funnel.io,Stockholm,SE,C,martech-adtech
+Corti,corti.ai,Copenhagen,DK,B,health
+Templafy,templafy.com,Copenhagen,DK,C,productivity-saas
+Dixa,dixa.com,Copenhagen,DK,C,productivity-saas
+Ageras,ageras.com,Copenhagen,DK,C,fintech
+Pleo,pleo.io,Copenhagen,DK,C,fintech
+Factbird,factbird.com,Copenhagen,DK,B,vertical-ai
+Oda,oda.com,Oslo,NO,C,marketplace
+Kahoot,kahoot.com,Oslo,NO,D,edtech
+Jet HR,jethr.com,Milan,IT,seed,hr-work
+Indigo.ai,indigo.ai,Milan,IT,A,vertical-ai
+Sibill,sibill.com,Milan,IT,A,fintech
+Contents.com,contents.com,Milan,IT,B,martech-adtech
+Casavo,casavo.com,Milan,IT,C,proptech-construction
+Soldo,soldo.com,London,GB,C,fintech
+Translated,translated.com,Rome,IT,B,vertical-ai
+Evervault,evervault.com,Dublin,IE,B,security
+Flipdish,flipdish.com,Dublin,IE,C,productivity-saas
+Kota,kota.io,Dublin,IE,seed,hr-work
+Jobbio,jobbio.com,Dublin,IE,B,hr-work
+Tines,tines.com,Dublin,IE,C,security
+Unique,unique.ai,Zurich,CH,B,vertical-ai
+Ledgy,ledgy.com,Zurich,CH,B,fintech
+Beekeeper,beekeeper.io,Zurich,CH,C,hr-work
+Coople,coople.com,Zurich,CH,B,hr-work
+Smallpdf,smallpdf.com,Zurich,CH,B,productivity-saas
+Infermedica,infermedica.com,Wroclaw,PL,B,health
+Tidio,tidio.com,Szczecin,PL,B,martech-adtech
+Spacelift,spacelift.io,Warsaw,PL,B,devtools-data
+Survicate,survicate.com,Warsaw,PL,A,martech-adtech
+Zowie,getzowie.com,Warsaw,PL,A,vertical-ai
+Pactum,pactum.com,Tallinn,EE,B,vertical-ai
+Rossum,rossum.ai,Prague,CZ,A,vertical-ai
+Apify,apify.com,Prague,CZ,A,devtools-data
+FintechOS,fintechos.com,Bucharest,RO,B,fintech
+FlowX.AI,flowx.ai,Bucharest,RO,B,devtools-data
+Hack The Box,hackthebox.com,London,GB,B,security
+Orfium,orfium.com,Athens,GR,C,martech-adtech
+Payhawk,payhawk.com,Sofia,BG,C,fintech
+Bitrise,bitrise.io,Budapest,HU,C,devtools-data
+Lokalise,lokalise.com,Riga,LV,B,devtools-data
+Printify,printify.com,Riga,LV,B,marketplace
+Mintos,mintos.com,Riga,LV,B,fintech
+Vinted,vinted.com,Vilnius,LT,E,marketplace
+Nord Security,nordsecurity.com,Vilnius,LT,B,security
+Omnisend,omnisend.com,Vilnius,LT,B,martech-adtech
+Kilo Health,kilo.health,Vilnius,LT,B,health
+Superside,superside.com,Oslo,NO,B,martech-adtech
+Gelato,gelato.com,Oslo,NO,C,marketplace
+Huspy,huspy.com,Dubai,AE,B,proptech-construction
+GoStudent,gostudent.org,Vienna,AT,D,edtech
+Hokify,hokify.com,Vienna,AT,A,hr-work
+Storyblok,storyblok.com,Linz,AT,C,devtools-data
+Prewave,prewave.com,Vienna,AT,B,vertical-ai
+Kickfin,kickfin.com,Vienna,AT,seed,fintech
+Billie,billie.io,Berlin,DE,C,fintech
+Taxfix,taxfix.de,Berlin,DE,D,fintech
+Planerio,planerio.de,Munich,DE,A,health
+Cara Care,cara.care,Berlin,DE,A,health
+Clarisse,clarisse.ai,Munich,DE,seed,vertical-ai
+Black Forest Labs,bfl.ai,Freiburg,DE,B,vertical-ai
+Aleph Alpha,aleph-alpha.com,Heidelberg,DE,B,vertical-ai
+Cognigy,cognigy.com,Dusseldorf,DE,C,vertical-ai
+Make.com,make.com,Prague,CZ,C,devtools-data
+Productboard,productboard.com,Prague,CZ,D,productivity-saas
+Mews,mews.com,Prague,CZ,D,travel-mobility
+Docplanner,docplanner.com,Warsaw,PL,E,health
+Booksy,booksy.com,Warsaw,PL,E,marketplace
+Packhelp,packhelp.com,Warsaw,PL,B,marketplace
+Brand24,brand24.com,Wroclaw,PL,B,martech-adtech
+Veriff,veriff.com,Tallinn,EE,C,security
+Glia,glia.com,Tallinn,EE,D,productivity-saas
+Lightyear,lightyear.com,Tallinn,EE,B,fintech
+Ready Player Me,readyplayer.me,Tallinn,EE,B,consumer
+Wolt,wolt.com,Helsinki,FI,E,marketplace
+Aiven,aiven.io,Helsinki,FI,D,devtools-data
+Supercell,supercell.com,Helsinki,FI,E,consumer
+Smartly,smartly.io,Helsinki,FI,E,martech-adtech
+Oura,ouraring.com,Oulu,FI,E,health
+Swappie,swappie.com,Helsinki,FI,C,marketplace
+Yousician,yousician.com,Helsinki,FI,B,edtech
+ElevenLabs,elevenlabs.io,London,GB,D,vertical-ai
+Paddle,paddle.com,London,GB,D,fintech
+Multiverse,multiverse.io,London,GB,D,edtech
+Marshmallow,marshmallow.com,London,GB,C,insurtech
+Zego,zego.com,London,GB,C,insurtech
+Primer,primer.io,London,GB,B,fintech
+TrueLayer,truelayer.com,London,GB,E,fintech
+Moneybox,moneyboxapp.com,London,GB,C,fintech
+Plum,withplum.com,London,GB,B,fintech
+Kroo,kroo.com,London,GB,B,fintech
+Allica,allica.bank,London,GB,C,fintech
+Wayflyer,wayflyer.com,Dublin,IE,C,fintech
+Tide,tide.co,London,GB,C,fintech
+Cera,ceracare.co.uk,London,GB,C,health
+Accurx,accurx.com,London,GB,C,health
+Juniper,juniperhealth.co.uk,London,GB,B,health
+Hertility,hertilityhealth.com,London,GB,A,health
+Third Space Learning,thirdspacelearning.com,London,GB,B,edtech
+Unibuddy,unibuddy.com,London,GB,B,edtech
+Beamery,beamery.com,London,GB,D,hr-work
+Hibob,hibob.com,London,GB,D,hr-work
+Cord,cord.co,London,GB,A,hr-work
+Jiminny,jiminny.com,London,GB,B,productivity-saas
+Ravelin,ravelin.com,London,GB,B,security
+Thought Machine,thoughtmachine.net,London,GB,D,fintech
+Tractable,tractable.ai,London,GB,D,vertical-ai
+Faculty,faculty.ai,London,GB,C,vertical-ai
+Wayve,wayve.ai,London,GB,C,vertical-ai
+Isomorphic,isomorphiclabs.com,London,GB,B,vertical-ai
+Cleanlab,cleanlab.ai,San Francisco,US,A,devtools-data
+Sana Labs,sanalabs.com,Stockholm,SE,B,edtech
+Kry,kry.se,Stockholm,SE,D,health
+Epidemic Sound,epidemicsound.com,Stockholm,SE,D,martech-adtech
+Tibber,tibber.com,Oslo,NO,C,climate-energy
+Lunar,lunar.app,Aarhus,DK,D,fintech
+Mollie,mollie.com,Amsterdam,NL,D,fintech
+Bunq,bunq.com,Amsterdam,NL,D,fintech
+Remote,remote.com,Lisbon,PT,C,hr-work
+Sword Health,swordhealth.com,Porto,PT,D,health
+Feedzai,feedzai.com,Coimbra,PT,D,fintech
+Talkdesk,talkdesk.com,Lisbon,PT,D,productivity-saas
+Satispay,satispay.com,Milan,IT,D,fintech
+Scalapay,scalapay.com,Milan,IT,C,fintech
+Moneyfarm,moneyfarm.com,Milan,IT,D,fintech
+Bending Spoons,bendingspoons.com,Milan,IT,E,consumer
+Qonto,qonto.com,Paris,FR,D,fintech
+Spendesk,spendesk.com,Paris,FR,C,fintech
+Agicap,agicap.com,Lyon,FR,C,fintech
+Swile,swile.co,Montpellier,FR,D,hr-work
+Payfit,payfit.com,Paris,FR,E,hr-work
+Alan,alan.com,Paris,FR,E,insurtech
+Ankorstore,ankorstore.com,Paris,FR,C,marketplace
+Sorare,sorare.com,Paris,FR,B,consumer
+Aircall,aircall.io,Paris,FR,D,productivity-saas
+Ornikar,ornikar.com,Paris,FR,C,edtech
+Jobteaser,jobteaser.com,Paris,FR,C,hr-work
+Welcome to the Jungle,welcometothejungle.com,Paris,FR,C,hr-work
+Lemlist,lemlist.com,Paris,FR,A,martech-adtech
+Ringover,ringover.com,Paris,FR,A,productivity-saas
+Hivebrite,hivebrite.com,Paris,FR,B,productivity-saas
+Mirakl,mirakl.com,Paris,FR,E,marketplace
+Contentsquare,contentsquare.com,Paris,FR,F,martech-adtech
+Doctolib,doctolib.fr,Paris,FR,F,health
+Owkin,owkin.com,Paris,FR,C,health
+Zama,zama.ai,Paris,FR,B,security
+Personio,personio.com,Munich,DE,E,hr-work
+DeepL,deepl.com,Cologne,DE,E,vertical-ai
+Helsing,helsing.ai,Munich,DE,D,vertical-ai
+Celonis,celonis.com,Munich,DE,D,devtools-data
+Forto,forto.com,Berlin,DE,D,travel-mobility
+Sennder,sennder.com,Berlin,DE,D,travel-mobility
+Enpal,enpal.de,Berlin,DE,D,climate-energy
+1KOMMA5,1komma5.com,Hamburg,DE,C,climate-energy
+Trade Republic,traderepublic.com,Berlin,DE,E,fintech
+Scalable Capital,scalable.capital,Munich,DE,E,fintech
+Vivid Money,vivid.money,Berlin,DE,C,fintech
+CoachHub,coachhub.com,Berlin,DE,C,hr-work
+Wefox,wefox.com,Berlin,DE,D,insurtech
+Doctorflix,doctorflix.com,Madrid,ES,seed,health
+Clikalia,clikalia.com,Madrid,ES,C,proptech-construction
+Fever,feverup.com,Madrid,ES,E,consumer
+Wallapop,wallapop.com,Barcelona,ES,E,marketplace
+Glovo,glovoapp.com,Barcelona,ES,F,marketplace
+Travelperk,travelperk.com,Barcelona,ES,D,travel-mobility
+Typeform,typeform.com,Barcelona,ES,C,productivity-saas
+Domestika,domestika.org,Barcelona,ES,D,edtech
+Holded,holded.com,Barcelona,ES,C,fintech
+Freepik,freepik.com,Malaga,ES,E,consumer
+Bit2Me,bit2me.com,Madrid,ES,B,fintech
+Devo,devo.com,Madrid,ES,E,security
+Cabify,cabify.com,Madrid,ES,E,travel-mobility
+Lleida.net,lleida.net,Lleida,ES,E,productivity-saas
+Seedtag,seedtag.com,Madrid,ES,C,martech-adtech
+Jobandtalent,jobandtalent.com,Madrid,ES,E,hr-work
+Lingokids,lingokids.com,Madrid,ES,C,edtech
+Preply,preply.com,Boston,US,C,edtech
+Voy,joinvoy.com,London,GB,B,health
+Lexroom,lexroom.ai,Milan,IT,A,legal
+Exoticca,exoticca.com,Barcelona,ES,D,travel-mobility
+Fourvenues,fourvenues.com,Valencia,ES,seed,consumer
+Innovamat,innovamat.com,Barcelona,ES,seed,edtech
+Teton,teton.ai,Copenhagen,DK,A,health
+Klearly,klearly.eu,Amsterdam,NL,A,fintech
+Insurama,insurama.com,Madrid,ES,A,insurtech
+Floy,floy.com,Munich,DE,seed,health
+Screenloop,screenloop.com,London,GB,A,hr-work
+Last.app,last.app,Barcelona,ES,A,productivity-saas
+Troop,trooptravel.com,Madrid,ES,B,travel-mobility
+Ironhack,ironhack.com,Madrid,ES,B,edtech
+Refurbed,refurbed.com,Vienna,AT,C,marketplace
+Lookiero,lookiero.com,Bilbao,ES,C,consumer
+Spotahome,spotahome.com,Madrid,ES,C,marketplace
+Paack,paack.co,Barcelona,ES,D,travel-mobility
+Top Doctors,topdoctors.com,Barcelona,ES,B,health
+Lanes & Planes,lanes-planes.com,Munich,DE,B,travel-mobility
+Rabot Energy,rabot-charge.de,Munich,DE,A,climate-energy
+Uncapped,weareuncapped.com,London,GB,B,fintech
+Barkyn,barkyn.com,Lisbon,PT,A,consumer
+ThePower,thepowermba.com,Madrid,ES,B,edtech
+APlanet,aplanet.org,Bilbao,ES,A,climate-energy
+OnTruck,ontruck.com,Madrid,ES,B,travel-mobility
+HeyTeam,heyteam.com,Paris,FR,A,hr-work
+Granular Energy,granular-energy.com,Paris,FR,seed,climate-energy
+ai-coustics,ai-coustics.com,Berlin,DE,seed,vertical-ai
+Heretics,teamheretics.com,Madrid,ES,A,consumer

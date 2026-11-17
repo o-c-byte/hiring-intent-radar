@@ -1,0 +1,22 @@
+{
+  "_note": "Manual review of boards found by slug guessing (2026-11-17). 'reject' = the board belongs to another company with the same name; 'allow' = genuine board that fails the automatic plausibility rule (postings name neither the domain nor mostly the HQ country).",
+  "reject": {
+    "applied": "board 'applied' on Ashby is Applied Intuition (US autonomy), not Applied (London hiring software)",
+    "flexa": "Personio 'flexa' is a Munich energy-trading company",
+    "lassie": "Ashby 'lassie' is a US company building AI agents for doctors' offices",
+    "juro": "careers page linked an unrelated Ashby board ('splose', Adelaide)",
+    "doctorflix": "Personio 'doctorflix' is a German company",
+    "juni": "Personio 'juni' is a German company",
+    "unique": "Personio 'unique' is a German HR agency in Freiburg",
+    "sunday": "Ashby 'sunday' is a US home-robotics startup",
+    "swan": "Ashby 'swan' is a US defence-autonomy startup",
+    "primo": "Recruitee 'primo' is a German coffee-bar chain",
+    "zero": "Recruitee 'zero' is a German fashion retailer (store staff in Hannover)"
+  },
+  "allow": {
+    "ledgy": "postings open with 'At Ledgy, we're on a mission to make Europe a powerhouse of entrepreneurship'",
+    "evervault": "'About Evervault' section; roles in London and New York",
+    "choco": "'Join Choco, where we build and own solutions that reshape a broken food system'",
+    "planhat": "'Planhat OS' product description; US and UK sales roles"
+  }
+}

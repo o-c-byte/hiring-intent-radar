@@ -1,0 +1,1568 @@
+[
+ {
+  "id": "sesame-hr",
+  "name": "Sesame HR",
+  "country": "ES",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "kenjo",
+  "name": "Kenjo",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "bizneo",
+  "name": "Bizneo",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "payflow",
+  "name": "Payflow",
+  "country": "ES",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "embat",
+  "name": "Embat",
+  "country": "ES",
+  "tool": "Site unreachable / bot wall"
+ },
+ {
+  "id": "taxdown",
+  "name": "Taxdown",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "nemuru",
+  "name": "Nemuru",
+  "country": "ES",
+  "tool": "LinkedIn only"
+ },
+ {
+  "id": "devengo",
+  "name": "Devengo",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "ritmo",
+  "name": "Ritmo",
+  "country": "ES",
+  "tool": "Site unreachable / bot wall"
+ },
+ {
+  "id": "goin",
+  "name": "Goin",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "okticket",
+  "name": "Okticket",
+  "country": "ES",
+  "tool": "Email only"
+ },
+ {
+  "id": "maisa-ai",
+  "name": "Maisa AI",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "sherpa-ai",
+  "name": "Sherpa.ai",
+  "country": "ES",
+  "tool": "Site unreachable / bot wall"
+ },
+ {
+  "id": "neuraltrust",
+  "name": "NeuralTrust",
+  "country": "ES",
+  "tool": "LinkedIn only"
+ },
+ {
+  "id": "maite-ai",
+  "name": "Maite.ai",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "bigle-legal",
+  "name": "Bigle Legal",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "signaturit",
+  "name": "Signaturit",
+  "country": "ES",
+  "tool": "Teamtailor (custom domain)"
+ },
+ {
+  "id": "validated-id",
+  "name": "Validated ID",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "graphext",
+  "name": "Graphext",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "genially",
+  "name": "Genially",
+  "country": "ES",
+  "tool": "Email only"
+ },
+ {
+  "id": "wuolah",
+  "name": "Wuolah",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "odilo",
+  "name": "Odilo",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "tucuvi",
+  "name": "Tucuvi",
+  "country": "ES",
+  "tool": "Factorial"
+ },
+ {
+  "id": "mediquo",
+  "name": "Mediquo",
+  "country": "ES",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "ifeel",
+  "name": "Ifeel",
+  "country": "ES",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "iomed",
+  "name": "Iomed",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "barkibu",
+  "name": "Barkibu",
+  "country": "ES",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "bdeo",
+  "name": "Bdeo",
+  "country": "ES",
+  "tool": "Factorial"
+ },
+ {
+  "id": "tuio",
+  "name": "Tuio",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "cleverea",
+  "name": "Cleverea",
+  "country": "ES",
+  "tool": "Factorial"
+ },
+ {
+  "id": "housfy",
+  "name": "Housfy",
+  "country": "ES",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "badi",
+  "name": "Badi",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "witco",
+  "name": "Witco",
+  "country": "ES",
+  "tool": "Welcome to the Jungle"
+ },
+ {
+  "id": "mitiga-solutions",
+  "name": "Mitiga Solutions",
+  "country": "ES",
+  "tool": "Teamtailor (custom domain)"
+ },
+ {
+  "id": "bewe",
+  "name": "Bewe",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "plinng",
+  "name": "Plinng",
+  "country": "ES",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "manfred",
+  "name": "Manfred",
+  "country": "ES",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "countercraft",
+  "name": "Countercraft",
+  "country": "ES",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "red-points",
+  "name": "Red Points",
+  "country": "ES",
+  "tool": "SmartRecruiters"
+ },
+ {
+  "id": "clarity-ai",
+  "name": "Clarity AI",
+  "country": "ES",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "cuideo",
+  "name": "Cuideo",
+  "country": "ES",
+  "tool": "Factorial"
+ },
+ {
+  "id": "nuclio-digital-school",
+  "name": "Nuclio Digital School",
+  "country": "ES",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "hutch-health",
+  "name": "Hutch Health",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "rauda",
+  "name": "Rauda",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "fractus",
+  "name": "Fractus",
+  "country": "ES",
+  "tool": "Site unreachable / bot wall"
+ },
+ {
+  "id": "kave",
+  "name": "Kave",
+  "country": "ES",
+  "tool": "Site unreachable / bot wall"
+ },
+ {
+  "id": "bound",
+  "name": "Bound",
+  "country": "ES",
+  "tool": "Site unreachable / bot wall"
+ },
+ {
+  "id": "rows",
+  "name": "Rows",
+  "country": "PT",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "tonic-app",
+  "name": "Tonic App",
+  "country": "PT",
+  "tool": "Site unreachable / bot wall"
+ },
+ {
+  "id": "codacy",
+  "name": "Codacy",
+  "country": "PT",
+  "tool": "Personio"
+ },
+ {
+  "id": "probely",
+  "name": "Probely",
+  "country": "PT",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "kitch",
+  "name": "Kitch",
+  "country": "PT",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "swonkie",
+  "name": "Swonkie",
+  "country": "PT",
+  "tool": "LinkedIn only"
+ },
+ {
+  "id": "giskard",
+  "name": "Giskard",
+  "country": "FR",
+  "tool": "Welcome to the Jungle"
+ },
+ {
+  "id": "brigad",
+  "name": "Brigad",
+  "country": "FR",
+  "tool": "Welcome to the Jungle"
+ },
+ {
+  "id": "staffme",
+  "name": "StaffMe",
+  "country": "FR",
+  "tool": "Welcome to the Jungle"
+ },
+ {
+  "id": "combo",
+  "name": "Combo",
+  "country": "FR",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "moka-care",
+  "name": "Moka.care",
+  "country": "FR",
+  "tool": "Welcome to the Jungle"
+ },
+ {
+  "id": "libeo",
+  "name": "Libeo",
+  "country": "FR",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "defacto",
+  "name": "Defacto",
+  "country": "FR",
+  "tool": "Notion page"
+ },
+ {
+  "id": "mooncard",
+  "name": "Mooncard",
+  "country": "FR",
+  "tool": "Teamtailor (custom domain)"
+ },
+ {
+  "id": "folk",
+  "name": "Folk",
+  "country": "FR",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "partoo",
+  "name": "Partoo",
+  "country": "FR",
+  "tool": "Welcome to the Jungle"
+ },
+ {
+  "id": "captain-contrat",
+  "name": "Captain Contrat",
+  "country": "FR",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "didask",
+  "name": "Didask",
+  "country": "FR",
+  "tool": "Notion page"
+ },
+ {
+  "id": "ector",
+  "name": "Ector",
+  "country": "FR",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "candis",
+  "name": "Candis",
+  "country": "DE",
+  "tool": "Teamtailor (custom domain)"
+ },
+ {
+  "id": "ivy",
+  "name": "Ivy",
+  "country": "DE",
+  "tool": "Site unreachable / bot wall"
+ },
+ {
+  "id": "mondu",
+  "name": "Mondu",
+  "country": "DE",
+  "tool": "Site unreachable / bot wall"
+ },
+ {
+  "id": "langfuse",
+  "name": "Langfuse",
+  "country": "DE",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "leapsome",
+  "name": "Leapsome",
+  "country": "DE",
+  "tool": "Teamtailor (custom domain)"
+ },
+ {
+  "id": "workpath",
+  "name": "Workpath",
+  "country": "DE",
+  "tool": "Personio"
+ },
+ {
+  "id": "simpleclub",
+  "name": "simpleclub",
+  "country": "DE",
+  "tool": "Greenhouse/Lever/Ashby"
+ },
+ {
+  "id": "sastrify",
+  "name": "Sastrify",
+  "country": "DE",
+  "tool": "Personio"
+ },
+ {
+  "id": "noxtua",
+  "name": "Noxtua",
+  "country": "DE",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "ory",
+  "name": "Ory",
+  "country": "DE",
+  "tool": "Personio"
+ },
+ {
+  "id": "tldv",
+  "name": "Tldv",
+  "country": "DE",
+  "tool": "Notion page"
+ },
+ {
+  "id": "heyflow",
+  "name": "Heyflow",
+  "country": "DE",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "definely",
+  "name": "Definely",
+  "country": "GB",
+  "tool": "Greenhouse/Lever/Ashby"
+ },
+ {
+  "id": "robin-ai",
+  "name": "Robin AI",
+  "country": "GB",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "genie-ai",
+  "name": "Genie AI",
+  "country": "GB",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "volt",
+  "name": "Volt",
+  "country": "GB",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "mytutor",
+  "name": "MyTutor",
+  "country": "GB",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "kinnu",
+  "name": "Kinnu",
+  "country": "GB",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "spill",
+  "name": "Spill",
+  "country": "GB",
+  "tool": "Notion page"
+ },
+ {
+  "id": "thriva",
+  "name": "Thriva",
+  "country": "GB",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "cogna",
+  "name": "Cogna",
+  "country": "GB",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "raycast",
+  "name": "Raycast",
+  "country": "GB",
+  "tool": "Email only"
+ },
+ {
+  "id": "incident-io",
+  "name": "incident.io",
+  "country": "GB",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "landtech",
+  "name": "LandTech",
+  "country": "GB",
+  "tool": "BambooHR"
+ },
+ {
+  "id": "coadjute",
+  "name": "Coadjute",
+  "country": "GB",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "normative",
+  "name": "Normative",
+  "country": "SE",
+  "tool": "Teamtailor (custom domain)"
+ },
+ {
+  "id": "factbird",
+  "name": "Factbird",
+  "country": "DK",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "jet-hr",
+  "name": "Jet HR",
+  "country": "IT",
+  "tool": "Notion page"
+ },
+ {
+  "id": "indigo-ai",
+  "name": "Indigo.ai",
+  "country": "IT",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "contents-com",
+  "name": "Contents.com",
+  "country": "IT",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "translated",
+  "name": "Translated",
+  "country": "IT",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "jobbio",
+  "name": "Jobbio",
+  "country": "IE",
+  "tool": "Site unreachable / bot wall"
+ },
+ {
+  "id": "coople",
+  "name": "Coople",
+  "country": "CH",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "smallpdf",
+  "name": "Smallpdf",
+  "country": "CH",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "infermedica",
+  "name": "Infermedica",
+  "country": "PL",
+  "tool": "Greenhouse/Lever/Ashby"
+ },
+ {
+  "id": "survicate",
+  "name": "Survicate",
+  "country": "PL",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "pactum",
+  "name": "Pactum",
+  "country": "EE",
+  "tool": "Teamtailor (custom domain)"
+ },
+ {
+  "id": "rossum",
+  "name": "Rossum",
+  "country": "CZ",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "fintechos",
+  "name": "FintechOS",
+  "country": "RO",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "flowx-ai",
+  "name": "FlowX.AI",
+  "country": "RO",
+  "tool": "Workable"
+ },
+ {
+  "id": "hack-the-box",
+  "name": "Hack The Box",
+  "country": "GB",
+  "tool": "Workable"
+ },
+ {
+  "id": "kilo-health",
+  "name": "Kilo Health",
+  "country": "LT",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "huspy",
+  "name": "Huspy",
+  "country": "AE",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "kickfin",
+  "name": "Kickfin",
+  "country": "AT",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "planerio",
+  "name": "Planerio",
+  "country": "DE",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "cara-care",
+  "name": "Cara Care",
+  "country": "DE",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "clarisse",
+  "name": "Clarisse",
+  "country": "DE",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "packhelp",
+  "name": "Packhelp",
+  "country": "PL",
+  "tool": "Notion page"
+ },
+ {
+  "id": "brand24",
+  "name": "Brand24",
+  "country": "PL",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "ready-player-me",
+  "name": "Ready Player Me",
+  "country": "EE",
+  "tool": "Site unreachable / bot wall"
+ },
+ {
+  "id": "plum",
+  "name": "Plum",
+  "country": "GB",
+  "tool": "Workable"
+ },
+ {
+  "id": "kroo",
+  "name": "Kroo",
+  "country": "GB",
+  "tool": "Workable"
+ },
+ {
+  "id": "juniper",
+  "name": "Juniper",
+  "country": "GB",
+  "tool": "Site unreachable / bot wall"
+ },
+ {
+  "id": "third-space-learning",
+  "name": "Third Space Learning",
+  "country": "GB",
+  "tool": "Workable"
+ },
+ {
+  "id": "unibuddy",
+  "name": "Unibuddy",
+  "country": "GB",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "cord",
+  "name": "Cord",
+  "country": "GB",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "jiminny",
+  "name": "Jiminny",
+  "country": "GB",
+  "tool": "Teamtailor (custom domain)"
+ },
+ {
+  "id": "ravelin",
+  "name": "Ravelin",
+  "country": "GB",
+  "tool": "Other ATS"
+ },
+ {
+  "id": "cleanlab",
+  "name": "Cleanlab",
+  "country": "US",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "sana-labs",
+  "name": "Sana Labs",
+  "country": "SE",
+  "tool": "Greenhouse/Lever/Ashby"
+ },
+ {
+  "id": "hivebrite",
+  "name": "Hivebrite",
+  "country": "FR",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "zama",
+  "name": "Zama",
+  "country": "FR",
+  "tool": "Welcome to the Jungle"
+ },
+ {
+  "id": "bit2me",
+  "name": "Bit2Me",
+  "country": "ES",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "klearly",
+  "name": "Klearly",
+  "country": "NL",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "insurama",
+  "name": "Insurama",
+  "country": "ES",
+  "tool": "Factorial"
+ },
+ {
+  "id": "screenloop",
+  "name": "Screenloop",
+  "country": "GB",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "last-app",
+  "name": "Last.app",
+  "country": "ES",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "troop",
+  "name": "Troop",
+  "country": "ES",
+  "tool": "Workable"
+ },
+ {
+  "id": "ironhack",
+  "name": "Ironhack",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "rabot-energy",
+  "name": "Rabot Energy",
+  "country": "DE",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "uncapped",
+  "name": "Uncapped",
+  "country": "GB",
+  "tool": "Workable"
+ },
+ {
+  "id": "barkyn",
+  "name": "Barkyn",
+  "country": "PT",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "thepower",
+  "name": "ThePower",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "aplanet",
+  "name": "APlanet",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "ontruck",
+  "name": "OnTruck",
+  "country": "ES",
+  "tool": "Factorial"
+ },
+ {
+  "id": "heyteam",
+  "name": "HeyTeam",
+  "country": "FR",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "ai-coustics",
+  "name": "ai-coustics",
+  "country": "DE",
+  "tool": "Join.com"
+ },
+ {
+  "id": "heretics",
+  "name": "Heretics",
+  "country": "ES",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "orbio",
+  "name": "Orbio",
+  "country": "ES",
+  "tool": "Other ATS"
+ },
+ {
+  "id": "scrapad",
+  "name": "ScrapAd",
+  "country": "ES",
+  "tool": "LinkedIn only"
+ },
+ {
+  "id": "titan-os",
+  "name": "Titan OS",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "dost",
+  "name": "Dost",
+  "country": "ES",
+  "tool": "Site unreachable / bot wall"
+ },
+ {
+  "id": "acoru",
+  "name": "Acoru",
+  "country": "ES",
+  "tool": "LinkedIn only"
+ },
+ {
+  "id": "reveni",
+  "name": "Reveni",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "bookline",
+  "name": "Bookline",
+  "country": "ES",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "vidext",
+  "name": "Vidext",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "optimitive",
+  "name": "Optimitive",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "digitail",
+  "name": "Digitail",
+  "country": "ES",
+  "tool": "Factorial"
+ },
+ {
+  "id": "fermat",
+  "name": "Fermat",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "health-force",
+  "name": "Health Force",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "heydiga",
+  "name": "HeyDiga",
+  "country": "ES",
+  "tool": "Welcome to the Jungle"
+ },
+ {
+  "id": "balance",
+  "name": "Balance",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "didit",
+  "name": "Didit",
+  "country": "ES",
+  "tool": "LinkedIn only"
+ },
+ {
+  "id": "webel",
+  "name": "Webel",
+  "country": "ES",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "delfos-energy",
+  "name": "Delfos Energy",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "zepo-intelligence",
+  "name": "Zepo Intelligence",
+  "country": "ES",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "zynap",
+  "name": "Zynap",
+  "country": "ES",
+  "tool": "Other ATS"
+ },
+ {
+  "id": "alinia-ai",
+  "name": "Alinia AI",
+  "country": "ES",
+  "tool": "Other ATS"
+ },
+ {
+  "id": "adcities",
+  "name": "Adcities",
+  "country": "ES",
+  "tool": "Email only"
+ },
+ {
+  "id": "workfully",
+  "name": "Workfully",
+  "country": "ES",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "remuner",
+  "name": "Remuner",
+  "country": "ES",
+  "tool": "Personio"
+ },
+ {
+  "id": "supersonik",
+  "name": "Supersonik",
+  "country": "ES",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "qbeast",
+  "name": "Qbeast",
+  "country": "ES",
+  "tool": "Factorial"
+ },
+ {
+  "id": "galtea",
+  "name": "Galtea",
+  "country": "ES",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "biorce",
+  "name": "Biorce",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "denarius",
+  "name": "Denarius",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "turingdream",
+  "name": "TuringDream",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "anyformat",
+  "name": "Anyformat",
+  "country": "ES",
+  "tool": "Notion page"
+ },
+ {
+  "id": "kabilio",
+  "name": "Kabilio",
+  "country": "ES",
+  "tool": "Teamtailor (custom domain)"
+ },
+ {
+  "id": "halotech",
+  "name": "HaloTech",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "optiak",
+  "name": "Optiak",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "afori",
+  "name": "Afori",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "omnia",
+  "name": "Omnia",
+  "country": "ES",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "slng",
+  "name": "SLNG",
+  "country": "ES",
+  "tool": "Welcome to the Jungle"
+ },
+ {
+  "id": "hope-care",
+  "name": "Hope Care",
+  "country": "PT",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "brainr",
+  "name": "BRAINR",
+  "country": "PT",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "musiversal",
+  "name": "Musiversal",
+  "country": "PT",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "dojo-ai",
+  "name": "DOJO AI",
+  "country": "PT",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "sybilion",
+  "name": "Sybilion",
+  "country": "PT",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "spotlite",
+  "name": "Spotlite",
+  "country": "PT",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "reckon-ai",
+  "name": "Reckon.ai",
+  "country": "PT",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "lyzer",
+  "name": "Lyzer",
+  "country": "PT",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "frank",
+  "name": "FRANK",
+  "country": "PT",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "humanos",
+  "name": "Humanos",
+  "country": "PT",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "usawa-care",
+  "name": "Usawa Care",
+  "country": "PT",
+  "tool": "Email only"
+ },
+ {
+  "id": "octo-health",
+  "name": "Octo Health",
+  "country": "PT",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "granter",
+  "name": "Granter",
+  "country": "PT",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "augusta-labs",
+  "name": "Augusta Labs",
+  "country": "PT",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "glartek",
+  "name": "Glartek",
+  "country": "PT",
+  "tool": "Join.com"
+ },
+ {
+  "id": "merytu",
+  "name": "merytu",
+  "country": "PT",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "tundr",
+  "name": "Tundr",
+  "country": "IT",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "datapizza",
+  "name": "Datapizza",
+  "country": "IT",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "equixly",
+  "name": "Equixly",
+  "country": "IT",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "cosmico",
+  "name": "Cosmico",
+  "country": "IT",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "smartness",
+  "name": "Smartness",
+  "country": "IT",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "cleafy",
+  "name": "Cleafy",
+  "country": "IT",
+  "tool": "Workable"
+ },
+ {
+  "id": "pillar",
+  "name": "Pillar",
+  "country": "IT",
+  "tool": "Notion page"
+ },
+ {
+  "id": "cato",
+  "name": "Cato",
+  "country": "IT",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "syllotips",
+  "name": "SylloTips",
+  "country": "IT",
+  "tool": "Notion page"
+ },
+ {
+  "id": "soplaya",
+  "name": "Soplaya",
+  "country": "IT",
+  "tool": "Factorial"
+ },
+ {
+  "id": "jutro-medical",
+  "name": "Jutro Medical",
+  "country": "PL",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "doctor-one",
+  "name": "Doctor.One",
+  "country": "PL",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "supernova",
+  "name": "Supernova",
+  "country": "CZ",
+  "tool": "BambooHR"
+ },
+ {
+  "id": "wultra",
+  "name": "Wultra",
+  "country": "CZ",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "choice",
+  "name": "Choice",
+  "country": "CZ",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "veridion",
+  "name": "Veridion",
+  "country": "RO",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "designverse",
+  "name": "DesignVerse",
+  "country": "RO",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "copla",
+  "name": "Copla",
+  "country": "LT",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "allobrain",
+  "name": "AlloBrain",
+  "country": "FR",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "goodweek",
+  "name": "Goodweek",
+  "country": "FR",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "webyn",
+  "name": "Webyn",
+  "country": "FR",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "wealthcome",
+  "name": "Wealthcome",
+  "country": "FR",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "kheops",
+  "name": "Kheops",
+  "country": "FR",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "zeliq",
+  "name": "Zeliq",
+  "country": "FR",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "delos",
+  "name": "Delos",
+  "country": "FR",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "hackuity",
+  "name": "Hackuity",
+  "country": "FR",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "mister-ia",
+  "name": "Mister IA",
+  "country": "FR",
+  "tool": "Welcome to the Jungle"
+ },
+ {
+  "id": "deblock",
+  "name": "Deblock",
+  "country": "FR",
+  "tool": "Workable"
+ },
+ {
+  "id": "getvocal",
+  "name": "GetVocal",
+  "country": "FR",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "qovery",
+  "name": "Qovery",
+  "country": "FR",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "goodvest",
+  "name": "Goodvest",
+  "country": "FR",
+  "tool": "Welcome to the Jungle"
+ },
+ {
+  "id": "procuros",
+  "name": "Procuros",
+  "country": "DE",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "tendos",
+  "name": "Tendos",
+  "country": "DE",
+  "tool": "Notion page"
+ },
+ {
+  "id": "syte",
+  "name": "Syte",
+  "country": "DE",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "mika",
+  "name": "mika",
+  "country": "DE",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "allo",
+  "name": "allO",
+  "country": "DE",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "clearops",
+  "name": "ClearOps",
+  "country": "DE",
+  "tool": "Personio"
+ },
+ {
+  "id": "lawx",
+  "name": "LawX",
+  "country": "DE",
+  "tool": "Notion page"
+ },
+ {
+  "id": "interloom",
+  "name": "Interloom",
+  "country": "DE",
+  "tool": "Email only"
+ },
+ {
+  "id": "oska-health",
+  "name": "Oska Health",
+  "country": "DE",
+  "tool": "Notion page"
+ },
+ {
+  "id": "circuit-mind",
+  "name": "Circuit Mind",
+  "country": "GB",
+  "tool": "Email only"
+ },
+ {
+  "id": "azoma",
+  "name": "Azoma",
+  "country": "GB",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "hyperlayer",
+  "name": "Hyperlayer",
+  "country": "GB",
+  "tool": "Other ATS"
+ },
+ {
+  "id": "mindgard",
+  "name": "Mindgard",
+  "country": "GB",
+  "tool": "Email only"
+ },
+ {
+  "id": "lemonedge",
+  "name": "LemonEdge",
+  "country": "GB",
+  "tool": "BambooHR"
+ },
+ {
+  "id": "axle-energy",
+  "name": "Axle Energy",
+  "country": "GB",
+  "tool": "Greenhouse/Lever/Ashby"
+ },
+ {
+  "id": "arrakis",
+  "name": "Arrakis",
+  "country": "GB",
+  "tool": "Email only"
+ },
+ {
+  "id": "medly-ai",
+  "name": "Medly AI",
+  "country": "GB",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "sprive",
+  "name": "Sprive",
+  "country": "GB",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "marker",
+  "name": "Marker",
+  "country": "GB",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "pubx",
+  "name": "pubX",
+  "country": "GB",
+  "tool": "Careers page, no tool detected"
+ },
+ {
+  "id": "lette",
+  "name": "Lette",
+  "country": "IE",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "seapoint",
+  "name": "Seapoint",
+  "country": "IE",
+  "tool": "Workable"
+ },
+ {
+  "id": "tensorx",
+  "name": "TensorX",
+  "country": "IE",
+  "tool": "Other ATS"
+ },
+ {
+  "id": "finst",
+  "name": "Finst",
+  "country": "NL",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "tract",
+  "name": "TRACT",
+  "country": "NL",
+  "tool": "BambooHR"
+ },
+ {
+  "id": "orq-ai",
+  "name": "Orq.ai",
+  "country": "NL",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "promptwatch",
+  "name": "Promptwatch",
+  "country": "NL",
+  "tool": "Recruitee"
+ },
+ {
+  "id": "neno",
+  "name": "Neno",
+  "country": "NL",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "bits",
+  "name": "Bits",
+  "country": "SE",
+  "tool": "Teamtailor (custom domain)"
+ },
+ {
+  "id": "grasp",
+  "name": "Grasp",
+  "country": "SE",
+  "tool": "Teamtailor (custom domain)"
+ },
+ {
+  "id": "sumary",
+  "name": "Sumary",
+  "country": "DK",
+  "tool": "Email only"
+ },
+ {
+  "id": "claimlane",
+  "name": "Claimlane",
+  "country": "DK",
+  "tool": "No careers link found"
+ },
+ {
+  "id": "getwhy",
+  "name": "GetWhy",
+  "country": "DK",
+  "tool": "BambooHR"
+ },
+ {
+  "id": "comparables-ai",
+  "name": "Comparables.ai",
+  "country": "FI",
+  "tool": "Careers page, no tool detected"
+ }
+]

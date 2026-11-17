@@ -1,0 +1,16 @@
+[
+  {
+    "company": "murphy",
+    "paragraphs": [
+      "Murphy builds AI agents that collect debt for telecoms, utilities, banks and collection agencies, and charges a share of the amounts it recovers. Northzone led its €12.8M round in July 2025, with Lakestar, Seedcamp and ElevenLabs participating. Between July and September 2026 the company posted five \"Market Launcher\" country manager roles, each described as \"Murphy's first person on the ground\" in the Netherlands, Germany, Italy, France or Mexico. It has 65 open roles in total.",
+      "A company that opens five markets in three months, with one launcher in each, is usually converting well in its home market and spending to grow. I expect Murphy to raise a Series A within twelve months. It is a Barcelona company that already has international lead investors, and a Spanish co-investor would add local reach in its home market. The main risk is regulatory, because debt-collection and consumer-contact rules differ by country and an AI agent that calls debtors will face scrutiny in each new market."
+    ]
+  },
+  {
+    "company": "parallel",
+    "paragraphs": [
+      "Parallel builds AI agents for hospital administration, starting with medical coding, and runs in public and private hospitals in France. Index Ventures led its $20M Series A in March 2026, with Y Combinator participating. In October the company posted a GTM Lead Germany role (\"you are our first hire in the country\") and a first RevOps role that will \"adapt our tools and processes as we launch in Germany and the US\".",
+      "Medical coding connects clinical records to reimbursement rules, which makes it hard to automate and valuable to every hospital that employs coders today. That connection is also the main risk: coding systems are national, so entering Germany means rebuilding much of the coding logic for a different system. If Parallel shows traction in Germany within a year, it becomes a pan-European company, and its Series B becomes a round for European co-investors alongside Index."
+    ]
+  }
+]

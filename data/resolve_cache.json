@@ -1,0 +1,5910 @@
+{
+ "abacum": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "abacum",
+  "via": "site",
+  "open_roles": 11
+ },
+ "sequra": {
+  "status": "ok",
+  "platform": "recruitee",
+  "slug": "sequra",
+  "via": "site",
+  "open_roles": 14
+ },
+ "qida": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "qida",
+  "via": "site",
+  "open_roles": 30
+ },
+ "idoven": {
+  "status": "ok",
+  "platform": "workable",
+  "slug": "idoven",
+  "via": "site",
+  "open_roles": 1
+ },
+ "voicemod": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "voicemod",
+  "via": "site",
+  "open_roles": 1
+ },
+ "tinybird": {
+  "status": "ok",
+  "platform": "lever",
+  "slug": "tinybird",
+  "via": "slug-probe",
+  "open_roles": 2
+ },
+ "okticket": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:okticket",
+   "probe:lever:oktickethq",
+   "probe:workable:okticket",
+   "probe:workable:oktickethq",
+   "probe:greenhouse:okticket",
+   "probe:greenhouse:oktickethq",
+   "probe:personio:okticket",
+   "probe:personio:oktickethq",
+   "probe:ashby:okticket",
+   "probe:ashby:oktickethq",
+   "probe:teamtailor:okticket",
+   "probe:teamtailor:oktickethq",
+   "probe:recruitee:okticket",
+   "probe:recruitee:oktickethq"
+  ]
+ },
+ "coverflex": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "coverflex",
+  "via": "slug-probe",
+  "open_roles": 7
+ },
+ "sherpa-ai": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:sherpaai",
+   "probe:greenhouse:sherpa-ai",
+   "probe:lever:sherpaai",
+   "probe:lever:sherpa-ai",
+   "probe:workable:sherpaai",
+   "probe:workable:sherpa-ai",
+   "probe:teamtailor:sherpaai",
+   "probe:teamtailor:sherpa-ai",
+   "probe:personio:sherpaai",
+   "probe:personio:sherpa-ai",
+   "probe:ashby:sherpaai",
+   "probe:ashby:sherpa-ai",
+   "probe:recruitee:sherpaai",
+   "probe:recruitee:sherpa-ai"
+  ]
+ },
+ "witco": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:witco",
+   "probe:lever:witcohq",
+   "probe:greenhouse:witco",
+   "probe:greenhouse:witcohq",
+   "probe:workable:witco",
+   "probe:workable:witcohq",
+   "probe:recruitee:witco",
+   "probe:recruitee:witcohq",
+   "probe:ashby:witco",
+   "probe:ashby:witcohq",
+   "probe:personio:witco",
+   "probe:personio:witcohq",
+   "probe:teamtailor:witco",
+   "probe:teamtailor:witcohq"
+  ]
+ },
+ "graphext": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:graphext",
+   "probe:lever:graphexthq",
+   "probe:greenhouse:graphext",
+   "probe:greenhouse:graphexthq",
+   "probe:personio:graphext",
+   "probe:personio:graphexthq",
+   "probe:recruitee:graphext",
+   "probe:recruitee:graphexthq",
+   "probe:ashby:graphext",
+   "probe:ashby:graphexthq",
+   "probe:workable:graphext",
+   "probe:workable:graphexthq",
+   "probe:teamtailor:graphext",
+   "probe:teamtailor:graphexthq"
+  ]
+ },
+ "iomed": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:iomed",
+   "probe:lever:iomedhq",
+   "probe:workable:iomed",
+   "probe:workable:iomedhq",
+   "probe:greenhouse:iomed",
+   "probe:greenhouse:iomedhq",
+   "probe:teamtailor:iomed",
+   "probe:teamtailor:iomedhq",
+   "probe:personio:iomed",
+   "probe:personio:iomedhq",
+   "probe:recruitee:iomed",
+   "probe:recruitee:iomedhq",
+   "probe:ashby:iomed",
+   "probe:ashby:iomedhq"
+  ]
+ },
+ "housfy": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:housfy",
+   "probe:lever:housfyhq",
+   "probe:personio:housfy",
+   "probe:personio:housfyhq",
+   "probe:workable:housfy",
+   "probe:workable:housfyhq",
+   "probe:greenhouse:housfy",
+   "probe:greenhouse:housfyhq",
+   "probe:recruitee:housfy",
+   "probe:recruitee:housfyhq",
+   "probe:ashby:housfy",
+   "probe:ashby:housfyhq",
+   "probe:teamtailor:housfy",
+   "probe:teamtailor:housfyhq"
+  ]
+ },
+ "nuclio-digital-school": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:nucliodigitalschool",
+   "probe:personio:nuclio-digital-school",
+   "probe:lever:nucliodigitalschool",
+   "probe:lever:nuclio-digital-school",
+   "probe:workable:nucliodigitalschool",
+   "probe:workable:nuclio-digital-school",
+   "probe:recruitee:nucliodigitalschool",
+   "probe:recruitee:nuclio-digital-school",
+   "probe:teamtailor:nucliodigitalschool",
+   "probe:teamtailor:nuclio-digital-school",
+   "probe:greenhouse:nucliodigitalschool",
+   "probe:greenhouse:nuclio-digital-school",
+   "probe:ashby:nucliodigitalschool",
+   "probe:ashby:nuclio-digital-school"
+  ]
+ },
+ "infraspeak": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "infraspeak",
+  "via": "slug-probe",
+  "open_roles": 11
+ },
+ "kenjo": {
+  "status": "not-found",
+  "tried": [
+   "probe:workable:kenjo",
+   "probe:workable:kenjohq",
+   "probe:lever:kenjo",
+   "probe:lever:kenjohq",
+   "probe:ashby:kenjo",
+   "probe:ashby:kenjohq",
+   "probe:recruitee:kenjo",
+   "probe:recruitee:kenjohq",
+   "probe:teamtailor:kenjo",
+   "probe:teamtailor:kenjohq",
+   "probe:personio:kenjo",
+   "probe:personio:kenjohq",
+   "probe:greenhouse:kenjo",
+   "probe:greenhouse:kenjohq"
+  ]
+ },
+ "embat": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:embat",
+   "probe:teamtailor:embathq",
+   "probe:ashby:embat",
+   "probe:ashby:embathq",
+   "probe:personio:embat",
+   "probe:personio:embathq",
+   "probe:greenhouse:embat",
+   "probe:greenhouse:embathq",
+   "probe:lever:embat",
+   "probe:lever:embathq",
+   "probe:recruitee:embat",
+   "probe:recruitee:embathq",
+   "probe:workable:embat",
+   "probe:workable:embathq"
+  ]
+ },
+ "validated-id": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:validatedid",
+   "probe:ashby:validated-id",
+   "probe:lever:validatedid",
+   "probe:lever:validated-id",
+   "probe:personio:validatedid",
+   "probe:personio:validated-id",
+   "probe:recruitee:validatedid",
+   "probe:recruitee:validated-id",
+   "probe:workable:validatedid",
+   "probe:workable:validated-id",
+   "probe:greenhouse:validatedid",
+   "probe:greenhouse:validated-id",
+   "probe:teamtailor:validatedid",
+   "probe:teamtailor:validated-id"
+  ]
+ },
+ "indie-campers": {
+  "status": "ok",
+  "platform": "greenhouse",
+  "slug": "indiecampers",
+  "via": "site",
+  "open_roles": 579
+ },
+ "kave": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:kave",
+   "probe:lever:kavehq",
+   "probe:teamtailor:kave",
+   "probe:teamtailor:kavehq",
+   "probe:greenhouse:kave",
+   "probe:greenhouse:kavehq",
+   "probe:recruitee:kave",
+   "probe:recruitee:kavehq",
+   "probe:personio:kave",
+   "probe:personio:kavehq",
+   "probe:workable:kave",
+   "probe:workable:kavehq",
+   "probe:ashby:kave",
+   "probe:ashby:kavehq"
+  ]
+ },
+ "rauda": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:rauda",
+   "probe:lever:raudahq",
+   "probe:ashby:rauda",
+   "probe:ashby:raudahq",
+   "probe:personio:rauda",
+   "probe:personio:raudahq",
+   "probe:greenhouse:rauda",
+   "probe:greenhouse:raudahq",
+   "probe:recruitee:rauda",
+   "probe:recruitee:raudahq",
+   "probe:teamtailor:rauda",
+   "probe:teamtailor:raudahq",
+   "probe:workable:rauda",
+   "probe:workable:raudahq"
+  ]
+ },
+ "dust": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "dust",
+  "via": "site",
+  "open_roles": 34
+ },
+ "hutch-health": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:hutchhealth",
+   "probe:lever:hutch-health",
+   "probe:personio:hutchhealth",
+   "probe:personio:hutch-health",
+   "probe:greenhouse:hutchhealth",
+   "probe:greenhouse:hutch-health",
+   "probe:ashby:hutchhealth",
+   "probe:ashby:hutch-health",
+   "probe:teamtailor:hutchhealth",
+   "probe:teamtailor:hutch-health",
+   "probe:recruitee:hutchhealth",
+   "probe:recruitee:hutch-health",
+   "probe:workable:hutchhealth",
+   "probe:workable:hutch-health"
+  ]
+ },
+ "photoroom": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "photoroom",
+  "via": "site",
+  "open_roles": 7
+ },
+ "taxdown": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:taxdown",
+   "probe:teamtailor:taxdownhq",
+   "probe:lever:taxdown",
+   "probe:lever:taxdownhq",
+   "probe:ashby:taxdown",
+   "probe:ashby:taxdownhq",
+   "probe:greenhouse:taxdown",
+   "probe:greenhouse:taxdownhq",
+   "probe:recruitee:taxdown",
+   "probe:recruitee:taxdownhq",
+   "probe:personio:taxdown",
+   "probe:personio:taxdownhq",
+   "probe:workable:taxdown",
+   "probe:workable:taxdownhq"
+  ]
+ },
+ "nabla": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "nabla",
+  "via": "site",
+  "open_roles": 7
+ },
+ "maisa-ai": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:maisaai",
+   "probe:recruitee:maisa-ai",
+   "probe:workable:maisaai",
+   "probe:workable:maisa-ai",
+   "probe:lever:maisaai",
+   "probe:lever:maisa-ai",
+   "probe:personio:maisaai",
+   "probe:personio:maisa-ai",
+   "probe:ashby:maisaai",
+   "probe:ashby:maisa-ai",
+   "probe:teamtailor:maisaai",
+   "probe:teamtailor:maisa-ai",
+   "probe:greenhouse:maisaai",
+   "probe:greenhouse:maisa-ai"
+  ]
+ },
+ "h-company": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "hcompany",
+  "via": "site",
+  "open_roles": 25
+ },
+ "gladia": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "gladia",
+  "via": "slug-probe",
+  "open_roles": 3
+ },
+ "huub": {
+  "status": "ok",
+  "platform": "recruitee",
+  "slug": "huub",
+  "via": "slug-probe",
+  "open_roles": 5
+ },
+ "skello": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "skello",
+  "via": "seed-list",
+  "open_roles": 34
+ },
+ "odilo": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:odilo",
+   "probe:recruitee:odilohq",
+   "probe:greenhouse:odilo",
+   "probe:greenhouse:odilohq",
+   "probe:lever:odilo",
+   "probe:lever:odilohq",
+   "probe:ashby:odilo",
+   "probe:ashby:odilohq",
+   "probe:personio:odilo",
+   "probe:personio:odilohq",
+   "probe:teamtailor:odilo",
+   "probe:teamtailor:odilohq",
+   "probe:workable:odilo",
+   "probe:workable:odilohq"
+  ]
+ },
+ "devengo": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:devengo",
+   "probe:recruitee:devengohq",
+   "probe:personio:devengo",
+   "probe:personio:devengohq",
+   "probe:teamtailor:devengo",
+   "probe:teamtailor:devengohq",
+   "probe:ashby:devengo",
+   "probe:ashby:devengohq",
+   "probe:lever:devengo",
+   "probe:lever:devengohq",
+   "probe:workable:devengo",
+   "probe:workable:devengohq",
+   "probe:greenhouse:devengo",
+   "probe:greenhouse:devengohq"
+  ]
+ },
+ "indy": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "indy",
+  "via": "slug-probe",
+  "open_roles": 10
+ },
+ "red-points": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:redpoints",
+   "probe:personio:red-points",
+   "probe:greenhouse:redpoints",
+   "probe:greenhouse:red-points",
+   "probe:workable:redpoints",
+   "probe:workable:red-points",
+   "probe:lever:redpoints",
+   "probe:lever:red-points",
+   "probe:recruitee:redpoints",
+   "probe:recruitee:red-points",
+   "probe:teamtailor:redpoints",
+   "probe:teamtailor:red-points",
+   "probe:ashby:redpoints",
+   "probe:ashby:red-points"
+  ]
+ },
+ "ifeel": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:ifeel",
+   "probe:personio:ifeelonline",
+   "probe:ashby:ifeel",
+   "probe:ashby:ifeelonline",
+   "probe:greenhouse:ifeel",
+   "probe:greenhouse:ifeelonline",
+   "probe:lever:ifeel",
+   "probe:lever:ifeelonline",
+   "probe:recruitee:ifeel",
+   "probe:recruitee:ifeelonline",
+   "probe:workable:ifeel",
+   "probe:workable:ifeelonline",
+   "probe:teamtailor:ifeel",
+   "probe:teamtailor:ifeelonline"
+  ]
+ },
+ "swan": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "swan",
+  "via": "slug-probe",
+  "open_roles": 4
+ },
+ "mediquo": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:mediquo",
+   "probe:ashby:mediquohq",
+   "probe:greenhouse:mediquo",
+   "probe:greenhouse:mediquohq",
+   "probe:workable:mediquo",
+   "probe:workable:mediquohq",
+   "probe:lever:mediquo",
+   "probe:lever:mediquohq",
+   "probe:recruitee:mediquo",
+   "probe:recruitee:mediquohq",
+   "probe:personio:mediquo",
+   "probe:personio:mediquohq",
+   "probe:teamtailor:mediquo",
+   "probe:teamtailor:mediquohq"
+  ]
+ },
+ "sunday": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "sunday",
+  "via": "slug-probe",
+  "open_roles": 26
+ },
+ "cleverea": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:cleverea",
+   "probe:teamtailor:clevereahq",
+   "probe:recruitee:cleverea",
+   "probe:recruitee:clevereahq",
+   "probe:workable:cleverea",
+   "probe:workable:clevereahq",
+   "probe:lever:cleverea",
+   "probe:lever:clevereahq",
+   "probe:personio:cleverea",
+   "probe:personio:clevereahq",
+   "probe:greenhouse:cleverea",
+   "probe:greenhouse:clevereahq",
+   "probe:ashby:cleverea",
+   "probe:ashby:clevereahq"
+  ]
+ },
+ "akur8": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "akur8",
+  "via": "slug-probe",
+  "open_roles": 12
+ },
+ "sesame-hr": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:sesamehr",
+   "probe:teamtailor:sesame-hr",
+   "probe:greenhouse:sesamehr",
+   "probe:greenhouse:sesame-hr",
+   "probe:lever:sesamehr",
+   "probe:lever:sesame-hr",
+   "probe:ashby:sesamehr",
+   "probe:ashby:sesame-hr",
+   "probe:workable:sesamehr",
+   "probe:workable:sesame-hr",
+   "probe:recruitee:sesamehr",
+   "probe:recruitee:sesame-hr",
+   "probe:personio:sesamehr",
+   "probe:personio:sesame-hr"
+  ]
+ },
+ "kolsquare": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "kolsquareteamblue",
+  "via": "site",
+  "open_roles": 3
+ },
+ "maite-ai": {
+  "status": "not-found",
+  "tried": [
+   "probe:workable:maiteai",
+   "probe:workable:maite-ai",
+   "probe:recruitee:maiteai",
+   "probe:recruitee:maite-ai",
+   "probe:teamtailor:maiteai",
+   "probe:teamtailor:maite-ai",
+   "probe:ashby:maiteai",
+   "probe:ashby:maite-ai",
+   "probe:lever:maiteai",
+   "probe:lever:maite-ai",
+   "probe:greenhouse:maiteai",
+   "probe:greenhouse:maite-ai",
+   "probe:personio:maiteai",
+   "probe:personio:maite-ai"
+  ]
+ },
+ "badi": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:badi",
+   "probe:ashby:badihq",
+   "probe:personio:badi",
+   "probe:personio:badihq",
+   "probe:greenhouse:badi",
+   "probe:greenhouse:badihq",
+   "probe:lever:badi",
+   "probe:lever:badihq",
+   "probe:workable:badi",
+   "probe:workable:badihq",
+   "probe:teamtailor:badi",
+   "probe:teamtailor:badihq",
+   "probe:recruitee:badi",
+   "probe:recruitee:badihq"
+  ]
+ },
+ "hiflow": {
+  "status": "ok",
+  "platform": "recruitee",
+  "slug": "hiflow",
+  "via": "slug-probe",
+  "open_roles": 3
+ },
+ "payflow": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:payflow",
+   "probe:greenhouse:payflowhq",
+   "probe:workable:payflow",
+   "probe:workable:payflowhq",
+   "probe:personio:payflow",
+   "probe:personio:payflowhq",
+   "probe:recruitee:payflow",
+   "probe:recruitee:payflowhq",
+   "probe:lever:payflow",
+   "probe:lever:payflowhq",
+   "probe:teamtailor:payflow",
+   "probe:teamtailor:payflowhq",
+   "probe:ashby:payflow",
+   "probe:ashby:payflowhq"
+  ]
+ },
+ "countercraft": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:countercraft",
+   "probe:greenhouse:countercraftsec",
+   "probe:personio:countercraft",
+   "probe:personio:countercraftsec",
+   "probe:recruitee:countercraft",
+   "probe:recruitee:countercraftsec",
+   "probe:ashby:countercraft",
+   "probe:ashby:countercraftsec",
+   "probe:workable:countercraft",
+   "probe:workable:countercraftsec",
+   "probe:teamtailor:countercraft",
+   "probe:teamtailor:countercraftsec",
+   "probe:lever:countercraft",
+   "probe:lever:countercraftsec"
+  ]
+ },
+ "pitch": {
+  "status": "ok",
+  "platform": "workable",
+  "slug": "pitch-software",
+  "via": "site",
+  "open_roles": 2
+ },
+ "tuio": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:tuio",
+   "probe:teamtailor:tuiohq",
+   "probe:recruitee:tuio",
+   "probe:recruitee:tuiohq",
+   "probe:workable:tuio",
+   "probe:workable:tuiohq",
+   "probe:personio:tuio",
+   "probe:personio:tuiohq",
+   "probe:ashby:tuio",
+   "probe:ashby:tuiohq",
+   "probe:lever:tuio",
+   "probe:lever:tuiohq",
+   "probe:greenhouse:tuio",
+   "probe:greenhouse:tuiohq"
+  ]
+ },
+ "multiverse-computing": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "multiversecomputing",
+  "via": "slug-probe",
+  "open_roles": 8
+ },
+ "pliant": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "pliant",
+  "via": "site",
+  "open_roles": 32
+ },
+ "wuolah": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:wuolah",
+   "probe:greenhouse:wuolahhq",
+   "probe:personio:wuolah",
+   "probe:personio:wuolahhq",
+   "probe:recruitee:wuolah",
+   "probe:recruitee:wuolahhq",
+   "probe:teamtailor:wuolah",
+   "probe:teamtailor:wuolahhq",
+   "probe:lever:wuolah",
+   "probe:lever:wuolahhq",
+   "probe:ashby:wuolah",
+   "probe:ashby:wuolahhq",
+   "probe:workable:wuolah",
+   "probe:workable:wuolahhq"
+  ]
+ },
+ "bizneo": {
+  "status": "not-found",
+  "tried": [
+   "probe:workable:bizneo",
+   "probe:workable:bizneohq",
+   "probe:greenhouse:bizneo",
+   "probe:greenhouse:bizneohq",
+   "probe:personio:bizneo",
+   "probe:personio:bizneohq",
+   "probe:ashby:bizneo",
+   "probe:ashby:bizneohq",
+   "probe:recruitee:bizneo",
+   "probe:recruitee:bizneohq",
+   "probe:lever:bizneo",
+   "probe:lever:bizneohq",
+   "probe:teamtailor:bizneo",
+   "probe:teamtailor:bizneohq"
+  ]
+ },
+ "cloover": {
+  "status": "ok",
+  "platform": "personio",
+  "slug": "cloover",
+  "via": "slug-probe",
+  "open_roles": 32
+ },
+ "gojob": {
+  "status": "ok",
+  "platform": "lever",
+  "slug": "gojob",
+  "via": "slug-probe",
+  "open_roles": 77
+ },
+ "ostrom": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "Ostrom",
+  "via": "site",
+  "open_roles": 3
+ },
+ "cuideo": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:cuideo",
+   "probe:recruitee:cuideohq",
+   "probe:workable:cuideo",
+   "probe:workable:cuideohq",
+   "probe:personio:cuideo",
+   "probe:personio:cuideohq",
+   "probe:greenhouse:cuideo",
+   "probe:greenhouse:cuideohq",
+   "probe:teamtailor:cuideo",
+   "probe:teamtailor:cuideohq",
+   "probe:lever:cuideo",
+   "probe:lever:cuideohq",
+   "probe:ashby:cuideo",
+   "probe:ashby:cuideohq"
+  ]
+ },
+ "mitiga-solutions": {
+  "status": "not-found",
+  "tried": [
+   "probe:workable:mitigasolutions",
+   "probe:workable:mitiga-solutions",
+   "probe:teamtailor:mitigasolutions",
+   "probe:teamtailor:mitiga-solutions",
+   "probe:ashby:mitigasolutions",
+   "probe:ashby:mitiga-solutions",
+   "probe:greenhouse:mitigasolutions",
+   "probe:greenhouse:mitiga-solutions",
+   "probe:recruitee:mitigasolutions",
+   "probe:recruitee:mitiga-solutions",
+   "probe:lever:mitigasolutions",
+   "probe:lever:mitiga-solutions",
+   "probe:personio:mitigasolutions",
+   "probe:personio:mitiga-solutions"
+  ]
+ },
+ "goin": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:goin",
+   "probe:recruitee:goinhq",
+   "probe:ashby:goin",
+   "probe:ashby:goinhq",
+   "probe:workable:goin",
+   "probe:workable:goinhq",
+   "probe:greenhouse:goin",
+   "probe:greenhouse:goinhq",
+   "probe:teamtailor:goin",
+   "probe:teamtailor:goinhq",
+   "probe:personio:goin",
+   "probe:personio:goinhq",
+   "probe:lever:goin",
+   "probe:lever:goinhq"
+  ]
+ },
+ "bewe": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:bewe",
+   "probe:greenhouse:bewehq",
+   "probe:recruitee:bewe",
+   "probe:recruitee:bewehq",
+   "probe:personio:bewe",
+   "probe:personio:bewehq",
+   "probe:teamtailor:bewe",
+   "probe:teamtailor:bewehq",
+   "probe:ashby:bewe",
+   "probe:ashby:bewehq",
+   "probe:workable:bewe",
+   "probe:workable:bewehq",
+   "probe:lever:bewe",
+   "probe:lever:bewehq"
+  ]
+ },
+ "tacto": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "tacto",
+  "via": "site",
+  "open_roles": 20
+ },
+ "manfred": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:manfred",
+   "probe:teamtailor:getmanfred",
+   "probe:recruitee:manfred",
+   "probe:recruitee:getmanfred",
+   "probe:personio:manfred",
+   "probe:personio:getmanfred",
+   "probe:ashby:manfred",
+   "probe:ashby:getmanfred",
+   "probe:lever:manfred",
+   "probe:lever:getmanfred",
+   "probe:greenhouse:manfred",
+   "probe:greenhouse:getmanfred",
+   "probe:workable:manfred",
+   "probe:workable:getmanfred"
+  ]
+ },
+ "superchat": {
+  "status": "ok",
+  "platform": "greenhouse",
+  "slug": "superchat",
+  "via": "site",
+  "open_roles": 23
+ },
+ "clarity-ai": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:clarityai",
+   "probe:recruitee:clarity-ai",
+   "probe:personio:clarityai",
+   "probe:personio:clarity-ai",
+   "probe:ashby:clarityai",
+   "probe:ashby:clarity-ai",
+   "probe:teamtailor:clarityai",
+   "probe:teamtailor:clarity-ai",
+   "probe:greenhouse:clarityai",
+   "probe:greenhouse:clarity-ai",
+   "probe:workable:clarityai",
+   "probe:workable:clarity-ai",
+   "probe:lever:clarityai",
+   "probe:lever:clarity-ai"
+  ]
+ },
+ "knowunity": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "knowunity",
+  "via": "site",
+  "open_roles": 5
+ },
+ "ritmo": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:ritmo",
+   "probe:greenhouse:ritmohq",
+   "probe:personio:ritmo",
+   "probe:personio:ritmohq",
+   "probe:recruitee:ritmo",
+   "probe:recruitee:ritmohq",
+   "probe:ashby:ritmo",
+   "probe:ashby:ritmohq",
+   "probe:lever:ritmo",
+   "probe:lever:ritmohq",
+   "probe:teamtailor:ritmo",
+   "probe:teamtailor:ritmohq",
+   "probe:workable:ritmo",
+   "probe:workable:ritmohq"
+  ]
+ },
+ "bigle-legal": {
+  "status": "not-found",
+  "tried": [
+   "probe:workable:biglelegal",
+   "probe:workable:bigle-legal",
+   "probe:teamtailor:biglelegal",
+   "probe:teamtailor:bigle-legal",
+   "probe:personio:biglelegal",
+   "probe:personio:bigle-legal",
+   "probe:ashby:biglelegal",
+   "probe:ashby:bigle-legal",
+   "probe:greenhouse:biglelegal",
+   "probe:greenhouse:bigle-legal",
+   "probe:recruitee:biglelegal",
+   "probe:recruitee:bigle-legal",
+   "probe:lever:biglelegal",
+   "probe:lever:bigle-legal"
+  ]
+ },
+ "avi-medical": {
+  "status": "ok",
+  "platform": "greenhouse",
+  "slug": "avimedical",
+  "via": "site",
+  "open_roles": 42
+ },
+ "buynomics": {
+  "status": "ok",
+  "platform": "greenhouse",
+  "slug": "buynomics",
+  "via": "site",
+  "open_roles": 13
+ },
+ "tucuvi": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:tucuvi",
+   "probe:greenhouse:tucuvihq",
+   "probe:recruitee:tucuvi",
+   "probe:recruitee:tucuvihq",
+   "probe:teamtailor:tucuvi",
+   "probe:teamtailor:tucuvihq",
+   "probe:ashby:tucuvi",
+   "probe:ashby:tucuvihq",
+   "probe:personio:tucuvi",
+   "probe:personio:tucuvihq",
+   "probe:lever:tucuvi",
+   "probe:lever:tucuvihq",
+   "probe:workable:tucuvi",
+   "probe:workable:tucuvihq"
+  ]
+ },
+ "plinng": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:plinng",
+   "probe:greenhouse:plinnghq",
+   "probe:ashby:plinng",
+   "probe:ashby:plinnghq",
+   "probe:teamtailor:plinng",
+   "probe:teamtailor:plinnghq",
+   "probe:recruitee:plinng",
+   "probe:recruitee:plinnghq",
+   "probe:workable:plinng",
+   "probe:workable:plinnghq",
+   "probe:personio:plinng",
+   "probe:personio:plinnghq",
+   "probe:lever:plinng",
+   "probe:lever:plinnghq"
+  ]
+ },
+ "cosuno": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "cosuno",
+  "via": "site",
+  "open_roles": 26
+ },
+ "capmo": {
+  "status": "ok",
+  "platform": "personio",
+  "slug": "capmo",
+  "via": "site",
+  "open_roles": 9
+ },
+ "bryter": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "bryter",
+  "via": "site",
+  "open_roles": 8
+ },
+ "barkibu": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:barkibu",
+   "probe:ashby:barkibuhq",
+   "probe:teamtailor:barkibu",
+   "probe:teamtailor:barkibuhq",
+   "probe:workable:barkibu",
+   "probe:workable:barkibuhq",
+   "probe:greenhouse:barkibu",
+   "probe:greenhouse:barkibuhq",
+   "probe:recruitee:barkibu",
+   "probe:recruitee:barkibuhq",
+   "probe:lever:barkibu",
+   "probe:lever:barkibuhq",
+   "probe:personio:barkibu",
+   "probe:personio:barkibuhq"
+  ]
+ },
+ "bdeo": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:bdeo",
+   "probe:teamtailor:bdeohq",
+   "probe:ashby:bdeo",
+   "probe:ashby:bdeohq",
+   "probe:recruitee:bdeo",
+   "probe:recruitee:bdeohq",
+   "probe:greenhouse:bdeo",
+   "probe:greenhouse:bdeohq",
+   "probe:personio:bdeo",
+   "probe:personio:bdeohq",
+   "probe:lever:bdeo",
+   "probe:lever:bdeohq",
+   "probe:workable:bdeo",
+   "probe:workable:bdeohq"
+  ]
+ },
+ "juro": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "splose",
+  "via": "site",
+  "open_roles": 3
+ },
+ "signaturit": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:signaturit",
+   "probe:teamtailor:signaturithq",
+   "probe:workable:signaturit",
+   "probe:workable:signaturithq",
+   "probe:recruitee:signaturit",
+   "probe:recruitee:signaturithq",
+   "probe:greenhouse:signaturit",
+   "probe:greenhouse:signaturithq",
+   "probe:lever:signaturit",
+   "probe:lever:signaturithq",
+   "probe:personio:signaturit",
+   "probe:personio:signaturithq",
+   "probe:ashby:signaturit",
+   "probe:ashby:signaturithq"
+  ]
+ },
+ "neuraltrust": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:neuraltrust",
+   "probe:teamtailor:neuraltrusthq",
+   "probe:personio:neuraltrust",
+   "probe:personio:neuraltrusthq",
+   "probe:recruitee:neuraltrust",
+   "probe:recruitee:neuraltrusthq",
+   "probe:ashby:neuraltrust",
+   "probe:ashby:neuraltrusthq",
+   "probe:greenhouse:neuraltrust",
+   "probe:greenhouse:neuraltrusthq",
+   "probe:lever:neuraltrust",
+   "probe:lever:neuraltrusthq",
+   "probe:workable:neuraltrust",
+   "probe:workable:neuraltrusthq"
+  ]
+ },
+ "fractus": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:fractus",
+   "probe:personio:fractushq",
+   "probe:workable:fractus",
+   "probe:workable:fractushq",
+   "probe:recruitee:fractus",
+   "probe:recruitee:fractushq",
+   "probe:ashby:fractus",
+   "probe:ashby:fractushq",
+   "probe:teamtailor:fractus",
+   "probe:teamtailor:fractushq",
+   "probe:greenhouse:fractus",
+   "probe:greenhouse:fractushq",
+   "probe:lever:fractus",
+   "probe:lever:fractushq"
+  ]
+ },
+ "nemuru": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:nemuru",
+   "probe:recruitee:nemuruhq",
+   "probe:teamtailor:nemuru",
+   "probe:teamtailor:nemuruhq",
+   "probe:workable:nemuru",
+   "probe:workable:nemuruhq",
+   "probe:ashby:nemuru",
+   "probe:ashby:nemuruhq",
+   "probe:personio:nemuru",
+   "probe:personio:nemuruhq",
+   "probe:greenhouse:nemuru",
+   "probe:greenhouse:nemuruhq",
+   "probe:lever:nemuru",
+   "probe:lever:nemuruhq"
+  ]
+ },
+ "wordsmith": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "wordsmith",
+  "via": "site",
+  "open_roles": 25
+ },
+ "genially": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:genially",
+   "probe:ashby:geniallyhq",
+   "probe:teamtailor:genially",
+   "probe:teamtailor:geniallyhq",
+   "probe:personio:genially",
+   "probe:personio:geniallyhq",
+   "probe:recruitee:genially",
+   "probe:recruitee:geniallyhq",
+   "probe:workable:genially",
+   "probe:workable:geniallyhq",
+   "probe:greenhouse:genially",
+   "probe:greenhouse:geniallyhq",
+   "probe:lever:genially",
+   "probe:lever:geniallyhq"
+  ]
+ },
+ "flock": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "flock",
+  "via": "site",
+  "open_roles": 11
+ },
+ "laka": {
+  "status": "ok",
+  "platform": "workable",
+  "slug": "laka",
+  "via": "slug-probe",
+  "open_roles": 12
+ },
+ "doctrine": {
+  "status": "ok",
+  "platform": "lever",
+  "slug": "doctrine",
+  "via": "site",
+  "open_roles": 37
+ },
+ "9fin": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "9fin",
+  "via": "site",
+  "open_roles": 35
+ },
+ "ophelos": {
+  "status": "ok",
+  "platform": "greenhouse",
+  "slug": "ophelos",
+  "via": "site",
+  "open_roles": 5
+ },
+ "yapily": {
+  "status": "ok",
+  "platform": "workable",
+  "slug": "yapily",
+  "via": "site",
+  "open_roles": 2
+ },
+ "rows": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:rows",
+   "probe:recruitee:rowshq",
+   "probe:workable:rows",
+   "probe:workable:rowshq",
+   "probe:lever:rows",
+   "probe:lever:rowshq",
+   "probe:personio:rows",
+   "probe:personio:rowshq",
+   "probe:ashby:rows",
+   "probe:ashby:rowshq",
+   "probe:greenhouse:rows",
+   "probe:greenhouse:rowshq",
+   "probe:teamtailor:rows",
+   "probe:teamtailor:rowshq"
+  ]
+ },
+ "bound": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:bound",
+   "probe:teamtailor:getbound",
+   "probe:ashby:bound",
+   "probe:ashby:getbound",
+   "probe:greenhouse:bound",
+   "probe:greenhouse:getbound",
+   "probe:workable:bound",
+   "probe:workable:getbound",
+   "probe:lever:bound",
+   "probe:lever:getbound",
+   "probe:recruitee:bound",
+   "probe:recruitee:getbound",
+   "probe:personio:bound",
+   "probe:personio:getbound"
+  ]
+ },
+ "atom-learning": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "atomlearning",
+  "via": "slug-probe",
+  "open_roles": 2
+ },
+ "kitch": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:kitch",
+   "probe:lever:kitchhq",
+   "probe:ashby:kitch",
+   "probe:ashby:kitchhq",
+   "probe:teamtailor:kitch",
+   "probe:teamtailor:kitchhq",
+   "probe:recruitee:kitch",
+   "probe:recruitee:kitchhq",
+   "probe:greenhouse:kitch",
+   "probe:greenhouse:kitchhq",
+   "probe:workable:kitch",
+   "probe:workable:kitchhq",
+   "probe:personio:kitch",
+   "probe:personio:kitchhq"
+  ]
+ },
+ "codacy": {
+  "status": "not-found",
+  "tried": [
+   "site:personio:qamine-portugal",
+   "probe:lever:codacy",
+   "probe:lever:codacyhq",
+   "probe:teamtailor:codacy",
+   "probe:teamtailor:codacyhq",
+   "probe:greenhouse:codacy",
+   "probe:greenhouse:codacyhq",
+   "probe:personio:codacy",
+   "probe:personio:codacyhq",
+   "probe:workable:codacy",
+   "probe:workable:codacyhq",
+   "probe:recruitee:codacy",
+   "probe:recruitee:codacyhq",
+   "probe:ashby:codacy",
+   "probe:ashby:codacyhq"
+  ]
+ },
+ "probely": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:probely",
+   "probe:ashby:probelyhq",
+   "probe:workable:probely",
+   "probe:workable:probelyhq",
+   "probe:greenhouse:probely",
+   "probe:greenhouse:probelyhq",
+   "probe:lever:probely",
+   "probe:lever:probelyhq",
+   "probe:recruitee:probely",
+   "probe:recruitee:probelyhq",
+   "probe:personio:probely",
+   "probe:personio:probelyhq",
+   "probe:teamtailor:probely",
+   "probe:teamtailor:probelyhq"
+  ]
+ },
+ "tonic-app": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:tonicapp",
+   "probe:teamtailor:tonic-app",
+   "probe:ashby:tonicapp",
+   "probe:ashby:tonic-app",
+   "probe:workable:tonicapp",
+   "probe:workable:tonic-app",
+   "probe:lever:tonicapp",
+   "probe:lever:tonic-app",
+   "probe:recruitee:tonicapp",
+   "probe:recruitee:tonic-app",
+   "probe:personio:tonicapp",
+   "probe:personio:tonic-app",
+   "probe:greenhouse:tonicapp",
+   "probe:greenhouse:tonic-app"
+  ]
+ },
+ "kili-technology": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "kilitechnology",
+  "via": "slug-probe",
+  "open_roles": 1
+ },
+ "swonkie": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:swonkie",
+   "probe:greenhouse:swonkiehq",
+   "probe:teamtailor:swonkie",
+   "probe:teamtailor:swonkiehq",
+   "probe:workable:swonkie",
+   "probe:workable:swonkiehq",
+   "probe:ashby:swonkie",
+   "probe:ashby:swonkiehq",
+   "probe:personio:swonkie",
+   "probe:personio:swonkiehq",
+   "probe:lever:swonkie",
+   "probe:lever:swonkiehq",
+   "probe:recruitee:swonkie",
+   "probe:recruitee:swonkiehq"
+  ]
+ },
+ "brigad": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:brigad",
+   "probe:lever:brigadhq",
+   "probe:teamtailor:brigad",
+   "probe:teamtailor:brigadhq",
+   "probe:recruitee:brigad",
+   "probe:recruitee:brigadhq",
+   "probe:ashby:brigad",
+   "probe:ashby:brigadhq",
+   "probe:workable:brigad",
+   "probe:workable:brigadhq",
+   "probe:greenhouse:brigad",
+   "probe:greenhouse:brigadhq",
+   "probe:personio:brigad",
+   "probe:personio:brigadhq"
+  ]
+ },
+ "giskard": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:giskard",
+   "probe:greenhouse:giskardhq",
+   "probe:personio:giskard",
+   "probe:personio:giskardhq",
+   "probe:teamtailor:giskard",
+   "probe:teamtailor:giskardhq",
+   "probe:workable:giskard",
+   "probe:workable:giskardhq",
+   "probe:recruitee:giskard",
+   "probe:recruitee:giskardhq",
+   "probe:ashby:giskard",
+   "probe:ashby:giskardhq",
+   "probe:lever:giskard",
+   "probe:lever:giskardhq"
+  ]
+ },
+ "libeo": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:libeo",
+   "probe:ashby:libeohq",
+   "probe:workable:libeo",
+   "probe:workable:libeohq",
+   "probe:personio:libeo",
+   "probe:personio:libeohq",
+   "probe:greenhouse:libeo",
+   "probe:greenhouse:libeohq",
+   "probe:lever:libeo",
+   "probe:lever:libeohq",
+   "probe:recruitee:libeo",
+   "probe:recruitee:libeohq",
+   "probe:teamtailor:libeo",
+   "probe:teamtailor:libeohq"
+  ]
+ },
+ "lindus-health": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "lindus",
+  "via": "site",
+  "open_roles": 4
+ },
+ "flexa": {
+  "status": "ok",
+  "platform": "personio",
+  "slug": "flexa",
+  "via": "slug-probe",
+  "open_roles": 8
+ },
+ "birdie": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "birdie",
+  "via": "site",
+  "open_roles": 2
+ },
+ "granola": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "granola",
+  "via": "site",
+  "open_roles": 20
+ },
+ "hublo": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "hublo",
+  "via": "slug-probe",
+  "open_roles": 27
+ },
+ "patchwork-health": {
+  "status": "ok",
+  "platform": "workable",
+  "slug": "patchworkhealth",
+  "via": "slug-probe",
+  "open_roles": 1
+ },
+ "attio": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "attio",
+  "via": "site",
+  "open_roles": 22
+ },
+ "staffme": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:staffme",
+   "probe:personio:staffmehq",
+   "probe:recruitee:staffme",
+   "probe:recruitee:staffmehq",
+   "probe:workable:staffme",
+   "probe:workable:staffmehq",
+   "probe:teamtailor:staffme",
+   "probe:teamtailor:staffmehq",
+   "probe:greenhouse:staffme",
+   "probe:greenhouse:staffmehq",
+   "probe:ashby:staffme",
+   "probe:ashby:staffmehq",
+   "probe:lever:staffme",
+   "probe:lever:staffmehq"
+  ]
+ },
+ "landtech": {
+  "status": "unsupported",
+  "platform": "bamboohr",
+  "slug": "landtech",
+  "tried": [
+   "site:bamboohr:landtech"
+  ]
+ },
+ "plentific": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "plentific",
+  "via": "site",
+  "open_roles": 15
+ },
+ "combo": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:combo",
+   "probe:personio:combohr",
+   "probe:teamtailor:combo",
+   "probe:teamtailor:combohr",
+   "probe:greenhouse:combo",
+   "probe:greenhouse:combohr",
+   "probe:workable:combo",
+   "probe:workable:combohr",
+   "probe:lever:combo",
+   "probe:lever:combohr",
+   "probe:recruitee:combo",
+   "probe:recruitee:combohr",
+   "probe:ashby:combo",
+   "probe:ashby:combohr"
+  ]
+ },
+ "moka-care": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:mokacare",
+   "probe:lever:moka-care",
+   "probe:ashby:mokacare",
+   "probe:ashby:moka-care",
+   "probe:workable:mokacare",
+   "probe:workable:moka-care",
+   "probe:teamtailor:mokacare",
+   "probe:teamtailor:moka-care",
+   "probe:recruitee:mokacare",
+   "probe:recruitee:moka-care",
+   "probe:personio:mokacare",
+   "probe:personio:moka-care",
+   "probe:greenhouse:mokacare",
+   "probe:greenhouse:moka-care"
+  ]
+ },
+ "defacto": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:defacto",
+   "probe:recruitee:getdefacto",
+   "probe:personio:defacto",
+   "probe:personio:getdefacto",
+   "probe:ashby:defacto",
+   "probe:ashby:getdefacto",
+   "probe:workable:defacto",
+   "probe:workable:getdefacto",
+   "probe:teamtailor:defacto",
+   "probe:teamtailor:getdefacto",
+   "probe:greenhouse:defacto",
+   "probe:greenhouse:getdefacto",
+   "probe:lever:defacto",
+   "probe:lever:getdefacto"
+  ]
+ },
+ "tessl": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "tesslcareers",
+  "via": "site",
+  "open_roles": 6
+ },
+ "fixico": {
+  "status": "ok",
+  "platform": "recruitee",
+  "slug": "fixico",
+  "via": "slug-probe",
+  "open_roles": 3
+ },
+ "weaviate": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "weaviate",
+  "via": "slug-probe",
+  "open_roles": 2
+ },
+ "juni": {
+  "status": "ok",
+  "platform": "personio",
+  "slug": "juni",
+  "via": "slug-probe",
+  "open_roles": 5
+ },
+ "upflow": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "upflow",
+  "via": "slug-probe",
+  "open_roles": 1
+ },
+ "hedvig": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "hedvig",
+  "via": "site",
+  "open_roles": 2
+ },
+ "lassie": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "lassie",
+  "via": "slug-probe",
+  "open_roles": 15
+ },
+ "planhat": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "planhat",
+  "via": "slug-probe",
+  "open_roles": 43
+ },
+ "mentimeter": {
+  "status": "ok",
+  "platform": "greenhouse",
+  "slug": "mentimeter",
+  "via": "site",
+  "open_roles": 16
+ },
+ "corti": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "corti",
+  "via": "slug-probe",
+  "open_roles": 4
+ },
+ "mooncard": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:mooncard",
+   "probe:greenhouse:mooncardhq",
+   "probe:lever:mooncard",
+   "probe:lever:mooncardhq",
+   "probe:personio:mooncard",
+   "probe:personio:mooncardhq",
+   "probe:ashby:mooncard",
+   "probe:ashby:mooncardhq",
+   "probe:recruitee:mooncard",
+   "probe:recruitee:mooncardhq",
+   "probe:teamtailor:mooncard",
+   "probe:teamtailor:mooncardhq",
+   "probe:workable:mooncard",
+   "probe:workable:mooncardhq"
+  ]
+ },
+ "livestorm": {
+  "status": "ok",
+  "platform": "recruitee",
+  "slug": "livestorm",
+  "via": "slug-probe",
+  "open_roles": 2
+ },
+ "folk": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:folk",
+   "probe:personio:folkhq",
+   "probe:greenhouse:folk",
+   "probe:greenhouse:folkhq",
+   "probe:workable:folk",
+   "probe:workable:folkhq",
+   "probe:recruitee:folk",
+   "probe:recruitee:folkhq",
+   "probe:lever:folk",
+   "probe:lever:folkhq",
+   "probe:teamtailor:folk",
+   "probe:teamtailor:folkhq",
+   "probe:ashby:folk",
+   "probe:ashby:folkhq"
+  ]
+ },
+ "partoo": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:partoo",
+   "probe:teamtailor:partoohq",
+   "probe:recruitee:partoo",
+   "probe:recruitee:partoohq",
+   "probe:workable:partoo",
+   "probe:workable:partoohq",
+   "probe:personio:partoo",
+   "probe:personio:partoohq",
+   "probe:lever:partoo",
+   "probe:lever:partoohq",
+   "probe:greenhouse:partoo",
+   "probe:greenhouse:partoohq",
+   "probe:ashby:partoo",
+   "probe:ashby:partoohq"
+  ]
+ },
+ "captain-contrat": {
+  "status": "not-found",
+  "tried": [
+   "probe:workable:captaincontrat",
+   "probe:workable:captain-contrat",
+   "probe:greenhouse:captaincontrat",
+   "probe:greenhouse:captain-contrat",
+   "probe:teamtailor:captaincontrat",
+   "probe:teamtailor:captain-contrat",
+   "probe:personio:captaincontrat",
+   "probe:personio:captain-contrat",
+   "probe:lever:captaincontrat",
+   "probe:lever:captain-contrat",
+   "probe:ashby:captaincontrat",
+   "probe:ashby:captain-contrat",
+   "probe:recruitee:captaincontrat",
+   "probe:recruitee:captain-contrat"
+  ]
+ },
+ "moss": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "moss",
+  "via": "slug-probe",
+  "open_roles": 33
+ },
+ "ector": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:ector",
+   "probe:teamtailor:ectorhq",
+   "probe:lever:ector",
+   "probe:lever:ectorhq",
+   "probe:ashby:ector",
+   "probe:ashby:ectorhq",
+   "probe:workable:ector",
+   "probe:workable:ectorhq",
+   "probe:personio:ector",
+   "probe:personio:ectorhq",
+   "probe:recruitee:ector",
+   "probe:recruitee:ectorhq",
+   "probe:greenhouse:ector",
+   "probe:greenhouse:ectorhq"
+  ]
+ },
+ "candis": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:candis",
+   "probe:lever:candishq",
+   "probe:personio:candis",
+   "probe:personio:candishq",
+   "probe:recruitee:candis",
+   "probe:recruitee:candishq",
+   "probe:teamtailor:candis",
+   "probe:teamtailor:candishq",
+   "probe:greenhouse:candis",
+   "probe:greenhouse:candishq",
+   "probe:workable:candis",
+   "probe:workable:candishq",
+   "probe:ashby:candis",
+   "probe:ashby:candishq"
+  ]
+ },
+ "numan": {
+  "status": "ok",
+  "platform": "lever",
+  "slug": "numan",
+  "via": "site",
+  "open_roles": 16
+ },
+ "kota": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "Kota",
+  "via": "site",
+  "open_roles": 13
+ },
+ "mondu": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:mondu",
+   "probe:ashby:monduhq",
+   "probe:recruitee:mondu",
+   "probe:recruitee:monduhq",
+   "probe:workable:mondu",
+   "probe:workable:monduhq",
+   "probe:teamtailor:mondu",
+   "probe:teamtailor:monduhq",
+   "probe:lever:mondu",
+   "probe:lever:monduhq",
+   "probe:greenhouse:mondu",
+   "probe:greenhouse:monduhq",
+   "probe:personio:mondu",
+   "probe:personio:monduhq"
+  ]
+ },
+ "trawa": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "trawa",
+  "via": "slug-probe",
+  "open_roles": 14
+ },
+ "didask": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:didask",
+   "probe:lever:didaskhq",
+   "probe:teamtailor:didask",
+   "probe:teamtailor:didaskhq",
+   "probe:greenhouse:didask",
+   "probe:greenhouse:didaskhq",
+   "probe:workable:didask",
+   "probe:workable:didaskhq",
+   "probe:ashby:didask",
+   "probe:ashby:didaskhq",
+   "probe:recruitee:didask",
+   "probe:recruitee:didaskhq",
+   "probe:personio:didask",
+   "probe:personio:didaskhq"
+  ]
+ },
+ "peppy": {
+  "status": "ok",
+  "platform": "lever",
+  "slug": "peppy",
+  "via": "slug-probe",
+  "open_roles": 2
+ },
+ "coople": {
+  "status": "unsupported",
+  "platform": "bamboohr",
+  "slug": "coople",
+  "tried": [
+   "site:bamboohr:coople"
+  ]
+ },
+ "langdock": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "langdock",
+  "via": "slug-probe",
+  "open_roles": 11
+ },
+ "ivy": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:ivy",
+   "probe:ashby:getivy",
+   "probe:workable:ivy",
+   "probe:workable:getivy",
+   "probe:lever:ivy",
+   "probe:lever:getivy",
+   "probe:personio:ivy",
+   "probe:personio:getivy",
+   "probe:teamtailor:ivy",
+   "probe:teamtailor:getivy",
+   "probe:recruitee:ivy",
+   "probe:recruitee:getivy",
+   "probe:greenhouse:ivy",
+   "probe:greenhouse:getivy"
+  ]
+ },
+ "unique": {
+  "status": "ok",
+  "platform": "personio",
+  "slug": "unique",
+  "via": "slug-probe",
+  "open_roles": 3
+ },
+ "spacelift": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "spacelift",
+  "via": "slug-probe",
+  "open_roles": 8
+ },
+ "tidio": {
+  "status": "ok",
+  "platform": "recruitee",
+  "slug": "tidiocareer",
+  "via": "site",
+  "open_roles": 1
+ },
+ "langfuse": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:langfuse",
+   "probe:recruitee:langfusehq",
+   "probe:greenhouse:langfuse",
+   "probe:greenhouse:langfusehq",
+   "probe:workable:langfuse",
+   "probe:workable:langfusehq",
+   "probe:teamtailor:langfuse",
+   "probe:teamtailor:langfusehq",
+   "probe:ashby:langfuse",
+   "probe:ashby:langfusehq",
+   "probe:lever:langfuse",
+   "probe:lever:langfusehq",
+   "probe:personio:langfuse",
+   "probe:personio:langfusehq"
+  ]
+ },
+ "zowie": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "zowie",
+  "via": "slug-probe",
+  "open_roles": 7
+ },
+ "apify": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "apify",
+  "via": "site",
+  "open_roles": 15
+ },
+ "leapsome": {
+  "status": "not-found",
+  "tried": [
+   "site:ashby:Leapsome",
+   "probe:lever:leapsome",
+   "probe:lever:leapsomehq",
+   "probe:teamtailor:leapsome",
+   "probe:teamtailor:leapsomehq",
+   "probe:recruitee:leapsome",
+   "probe:recruitee:leapsomehq",
+   "probe:greenhouse:leapsome",
+   "probe:greenhouse:leapsomehq",
+   "probe:workable:leapsome",
+   "probe:workable:leapsomehq",
+   "probe:ashby:leapsome",
+   "probe:ashby:leapsomehq",
+   "probe:personio:leapsome",
+   "probe:personio:leapsomehq"
+  ]
+ },
+ "workpath": {
+  "status": "not-found",
+  "tried": [
+   "site:personio:workpath",
+   "probe:personio:workpath",
+   "probe:personio:workpathhq",
+   "probe:lever:workpath",
+   "probe:lever:workpathhq",
+   "probe:teamtailor:workpath",
+   "probe:teamtailor:workpathhq",
+   "probe:workable:workpath",
+   "probe:workable:workpathhq",
+   "probe:recruitee:workpath",
+   "probe:recruitee:workpathhq",
+   "probe:greenhouse:workpath",
+   "probe:greenhouse:workpathhq",
+   "probe:ashby:workpath",
+   "probe:ashby:workpathhq"
+  ]
+ },
+ "lokalise": {
+  "status": "ok",
+  "platform": "greenhouse",
+  "slug": "lokalise",
+  "via": "site",
+  "open_roles": 4
+ },
+ "printify": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "printfulinc",
+  "via": "site",
+  "open_roles": 30
+ },
+ "mintos": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "mintos",
+  "via": "site",
+  "open_roles": 10
+ },
+ "masterplan": {
+  "status": "ok",
+  "platform": "recruitee",
+  "slug": "masterplan",
+  "via": "slug-probe",
+  "open_roles": 2
+ },
+ "choco": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "choco",
+  "via": "slug-probe",
+  "open_roles": 5
+ },
+ "simpleclub": {
+  "status": "not-found",
+  "tried": [
+   "site:greenhouse:simpleclub",
+   "probe:teamtailor:simpleclub",
+   "probe:teamtailor:simpleclubhq",
+   "probe:personio:simpleclub",
+   "probe:personio:simpleclubhq",
+   "probe:recruitee:simpleclub",
+   "probe:recruitee:simpleclubhq",
+   "probe:greenhouse:simpleclub",
+   "probe:greenhouse:simpleclubhq",
+   "probe:ashby:simpleclub",
+   "probe:ashby:simpleclubhq",
+   "probe:workable:simpleclub",
+   "probe:workable:simpleclubhq",
+   "probe:lever:simpleclub",
+   "probe:lever:simpleclubhq"
+  ]
+ },
+ "sastrify": {
+  "status": "not-found",
+  "tried": [
+   "site:personio:sastrify",
+   "probe:ashby:sastrify",
+   "probe:ashby:sastrifyhq",
+   "probe:recruitee:sastrify",
+   "probe:recruitee:sastrifyhq",
+   "probe:greenhouse:sastrify",
+   "probe:greenhouse:sastrifyhq",
+   "probe:personio:sastrify",
+   "probe:personio:sastrifyhq",
+   "probe:lever:sastrify",
+   "probe:lever:sastrifyhq",
+   "probe:teamtailor:sastrify",
+   "probe:teamtailor:sastrifyhq",
+   "probe:workable:sastrify",
+   "probe:workable:sastrifyhq"
+  ]
+ },
+ "tldv": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:tldv",
+   "probe:personio:tldvhq",
+   "probe:recruitee:tldv",
+   "probe:recruitee:tldvhq",
+   "probe:teamtailor:tldv",
+   "probe:teamtailor:tldvhq",
+   "probe:greenhouse:tldv",
+   "probe:greenhouse:tldvhq",
+   "probe:workable:tldv",
+   "probe:workable:tldvhq",
+   "probe:ashby:tldv",
+   "probe:ashby:tldvhq",
+   "probe:lever:tldv",
+   "probe:lever:tldvhq"
+  ]
+ },
+ "prewave": {
+  "status": "ok",
+  "platform": "personio",
+  "slug": "prewave",
+  "via": "site",
+  "open_roles": 6
+ },
+ "heyflow": {
+  "status": "not-found",
+  "tried": [
+   "probe:workable:heyflow",
+   "probe:workable:heyflowhq",
+   "probe:personio:heyflow",
+   "probe:personio:heyflowhq",
+   "probe:lever:heyflow",
+   "probe:lever:heyflowhq",
+   "probe:teamtailor:heyflow",
+   "probe:teamtailor:heyflowhq",
+   "probe:greenhouse:heyflow",
+   "probe:greenhouse:heyflowhq",
+   "probe:recruitee:heyflow",
+   "probe:recruitee:heyflowhq",
+   "probe:ashby:heyflow",
+   "probe:ashby:heyflowhq"
+  ]
+ },
+ "ory": {
+  "status": "not-found",
+  "tried": [
+   "site:personio:ory",
+   "probe:personio:ory",
+   "probe:personio:oryhq",
+   "probe:lever:ory",
+   "probe:lever:oryhq",
+   "probe:greenhouse:ory",
+   "probe:greenhouse:oryhq",
+   "probe:recruitee:ory",
+   "probe:recruitee:oryhq",
+   "probe:workable:ory",
+   "probe:workable:oryhq",
+   "probe:teamtailor:ory",
+   "probe:teamtailor:oryhq",
+   "probe:ashby:ory",
+   "probe:ashby:oryhq"
+  ]
+ },
+ "robin-ai": {
+  "status": "not-found",
+  "tried": [
+   "site:ashby:robin-ai",
+   "probe:ashby:robinai",
+   "probe:ashby:robin-ai",
+   "probe:teamtailor:robinai",
+   "probe:teamtailor:robin-ai",
+   "probe:personio:robinai",
+   "probe:personio:robin-ai",
+   "probe:recruitee:robinai",
+   "probe:recruitee:robin-ai",
+   "probe:lever:robinai",
+   "probe:lever:robin-ai",
+   "probe:workable:robinai",
+   "probe:workable:robin-ai",
+   "probe:greenhouse:robinai",
+   "probe:greenhouse:robin-ai"
+  ]
+ },
+ "hokify": {
+  "status": "ok",
+  "platform": "personio",
+  "slug": "hokify",
+  "via": "slug-probe",
+  "open_roles": 1
+ },
+ "noxtua": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:noxtua",
+   "probe:greenhouse:noxtuahq",
+   "probe:recruitee:noxtua",
+   "probe:recruitee:noxtuahq",
+   "probe:workable:noxtua",
+   "probe:workable:noxtuahq",
+   "probe:personio:noxtua",
+   "probe:personio:noxtuahq",
+   "probe:lever:noxtua",
+   "probe:lever:noxtuahq",
+   "probe:teamtailor:noxtua",
+   "probe:teamtailor:noxtuahq",
+   "probe:ashby:noxtua",
+   "probe:ashby:noxtuahq"
+  ]
+ },
+ "definely": {
+  "status": "not-found",
+  "tried": [
+   "site:ashby:definelycareers",
+   "probe:personio:definely",
+   "probe:personio:definelyhq",
+   "probe:recruitee:definely",
+   "probe:recruitee:definelyhq",
+   "probe:ashby:definely",
+   "probe:ashby:definelyhq",
+   "probe:greenhouse:definely",
+   "probe:greenhouse:definelyhq",
+   "probe:lever:definely",
+   "probe:lever:definelyhq",
+   "probe:teamtailor:definely",
+   "probe:teamtailor:definelyhq",
+   "probe:workable:definely",
+   "probe:workable:definelyhq"
+  ]
+ },
+ "genie-ai": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:genieai",
+   "probe:ashby:genie-ai",
+   "probe:greenhouse:genieai",
+   "probe:greenhouse:genie-ai",
+   "probe:workable:genieai",
+   "probe:workable:genie-ai",
+   "probe:teamtailor:genieai",
+   "probe:teamtailor:genie-ai",
+   "probe:lever:genieai",
+   "probe:lever:genie-ai",
+   "probe:personio:genieai",
+   "probe:personio:genie-ai",
+   "probe:recruitee:genieai",
+   "probe:recruitee:genie-ai"
+  ]
+ },
+ "aleph-alpha": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "AlephAlpha",
+  "via": "site",
+  "open_roles": 4
+ },
+ "lightyear": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "lightyear",
+  "via": "site",
+  "open_roles": 2
+ },
+ "black-forest-labs": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "black-forest-labs",
+  "via": "slug-probe",
+  "open_roles": 16
+ },
+ "yousician": {
+  "status": "ok",
+  "platform": "greenhouse",
+  "slug": "yousician",
+  "via": "site",
+  "open_roles": 2
+ },
+ "lawhive": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "lawhive",
+  "via": "slug-probe",
+  "open_roles": 9
+ },
+ "primer": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "primer.io",
+  "via": "site",
+  "open_roles": 22
+ },
+ "yonder": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "yonder",
+  "via": "slug-probe",
+  "open_roles": 8
+ },
+ "mytutor": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:mytutor",
+   "probe:recruitee:mytutorhq",
+   "probe:ashby:mytutor",
+   "probe:ashby:mytutorhq",
+   "probe:personio:mytutor",
+   "probe:personio:mytutorhq",
+   "probe:greenhouse:mytutor",
+   "probe:greenhouse:mytutorhq",
+   "probe:teamtailor:mytutor",
+   "probe:teamtailor:mytutorhq",
+   "probe:lever:mytutor",
+   "probe:lever:mytutorhq",
+   "probe:workable:mytutor",
+   "probe:workable:mytutorhq"
+  ]
+ },
+ "hertility": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "hertility",
+  "via": "site",
+  "open_roles": 3
+ },
+ "ben": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "ben",
+  "via": "slug-probe",
+  "open_roles": 3
+ },
+ "volt": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:volt",
+   "probe:greenhouse:volthq",
+   "probe:workable:volt",
+   "probe:workable:volthq",
+   "probe:recruitee:volt",
+   "probe:recruitee:volthq",
+   "probe:lever:volt",
+   "probe:lever:volthq",
+   "probe:personio:volt",
+   "probe:personio:volthq",
+   "probe:ashby:volt",
+   "probe:ashby:volthq",
+   "probe:teamtailor:volt",
+   "probe:teamtailor:volthq"
+  ]
+ },
+ "cogna": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:cogna",
+   "probe:personio:cognahq",
+   "probe:lever:cogna",
+   "probe:lever:cognahq",
+   "probe:ashby:cogna",
+   "probe:ashby:cognahq",
+   "probe:workable:cogna",
+   "probe:workable:cognahq",
+   "probe:recruitee:cogna",
+   "probe:recruitee:cognahq",
+   "probe:greenhouse:cogna",
+   "probe:greenhouse:cognahq",
+   "probe:teamtailor:cogna",
+   "probe:teamtailor:cognahq"
+  ]
+ },
+ "kinnu": {
+  "status": "not-found",
+  "tried": [
+   "probe:workable:kinnu",
+   "probe:workable:kinnuhq",
+   "probe:teamtailor:kinnu",
+   "probe:teamtailor:kinnuhq",
+   "probe:lever:kinnu",
+   "probe:lever:kinnuhq",
+   "probe:greenhouse:kinnu",
+   "probe:greenhouse:kinnuhq",
+   "probe:ashby:kinnu",
+   "probe:ashby:kinnuhq",
+   "probe:personio:kinnu",
+   "probe:personio:kinnuhq",
+   "probe:recruitee:kinnu",
+   "probe:recruitee:kinnuhq"
+  ]
+ },
+ "spill": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:spill",
+   "probe:lever:spillhq",
+   "probe:ashby:spill",
+   "probe:ashby:spillhq",
+   "probe:teamtailor:spill",
+   "probe:teamtailor:spillhq",
+   "probe:personio:spill",
+   "probe:personio:spillhq",
+   "probe:workable:spill",
+   "probe:workable:spillhq",
+   "probe:recruitee:spill",
+   "probe:recruitee:spillhq",
+   "probe:greenhouse:spill",
+   "probe:greenhouse:spillhq"
+  ]
+ },
+ "thriva": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:thriva",
+   "probe:personio:thrivahq",
+   "probe:teamtailor:thriva",
+   "probe:teamtailor:thrivahq",
+   "probe:recruitee:thriva",
+   "probe:recruitee:thrivahq",
+   "probe:lever:thriva",
+   "probe:lever:thrivahq",
+   "probe:ashby:thriva",
+   "probe:ashby:thrivahq",
+   "probe:workable:thriva",
+   "probe:workable:thrivahq",
+   "probe:greenhouse:thriva",
+   "probe:greenhouse:thrivahq"
+  ]
+ },
+ "raycast": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:raycast",
+   "probe:teamtailor:raycasthq",
+   "probe:workable:raycast",
+   "probe:workable:raycasthq",
+   "probe:ashby:raycast",
+   "probe:ashby:raycasthq",
+   "probe:lever:raycast",
+   "probe:lever:raycasthq",
+   "probe:personio:raycast",
+   "probe:personio:raycasthq",
+   "probe:greenhouse:raycast",
+   "probe:greenhouse:raycasthq",
+   "probe:recruitee:raycast",
+   "probe:recruitee:raycasthq"
+  ]
+ },
+ "applied": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "applied",
+  "via": "slug-probe",
+  "open_roles": 330
+ },
+ "nmbrs": {
+  "status": "ok",
+  "platform": "recruitee",
+  "slug": "nmbrs",
+  "via": "slug-probe",
+  "open_roles": 9
+ },
+ "coadjute": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:coadjute",
+   "probe:personio:coadjutehq",
+   "probe:lever:coadjute",
+   "probe:lever:coadjutehq",
+   "probe:teamtailor:coadjute",
+   "probe:teamtailor:coadjutehq",
+   "probe:ashby:coadjute",
+   "probe:ashby:coadjutehq",
+   "probe:greenhouse:coadjute",
+   "probe:greenhouse:coadjutehq",
+   "probe:recruitee:coadjute",
+   "probe:recruitee:coadjutehq",
+   "probe:workable:coadjute",
+   "probe:workable:coadjutehq"
+  ]
+ },
+ "lemlist": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "lemlist",
+  "via": "site",
+  "open_roles": 18
+ },
+ "ringover": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "ringover",
+  "via": "slug-probe",
+  "open_roles": 20
+ },
+ "incident-io": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:incidentio",
+   "probe:greenhouse:incident-io",
+   "probe:teamtailor:incidentio",
+   "probe:teamtailor:incident-io",
+   "probe:personio:incidentio",
+   "probe:personio:incident-io",
+   "probe:workable:incidentio",
+   "probe:workable:incident-io",
+   "probe:lever:incidentio",
+   "probe:lever:incident-io",
+   "probe:ashby:incidentio",
+   "probe:ashby:incident-io",
+   "probe:recruitee:incidentio",
+   "probe:recruitee:incident-io"
+  ]
+ },
+ "lovable": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "lovable",
+  "via": "slug-probe",
+  "open_roles": 78
+ },
+ "brite": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "brite",
+  "via": "slug-probe",
+  "open_roles": 5
+ },
+ "leadinfo": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "leadinfo",
+  "via": "slug-probe",
+  "open_roles": 7
+ },
+ "omnisend": {
+  "status": "ok",
+  "platform": "lever",
+  "slug": "omnisend",
+  "via": "slug-probe",
+  "open_roles": 15
+ },
+ "fourvenues": {
+  "status": "ok",
+  "platform": "personio",
+  "slug": "fourvenues",
+  "via": "site",
+  "open_roles": 13
+ },
+ "lexroom": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "lexroom",
+  "via": "site",
+  "open_roles": 50
+ },
+ "innovamat": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "innovamat",
+  "via": "site",
+  "open_roles": 65
+ },
+ "teton": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "teton",
+  "via": "site",
+  "open_roles": 32
+ },
+ "superside": {
+  "status": "ok",
+  "platform": "lever",
+  "slug": "superside",
+  "via": "slug-probe",
+  "open_roles": 17
+ },
+ "normative": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:normative",
+   "probe:personio:normativehq",
+   "probe:ashby:normative",
+   "probe:ashby:normativehq",
+   "probe:lever:normative",
+   "probe:lever:normativehq",
+   "probe:teamtailor:normative",
+   "probe:teamtailor:normativehq",
+   "probe:greenhouse:normative",
+   "probe:greenhouse:normativehq",
+   "probe:recruitee:normative",
+   "probe:recruitee:normativehq",
+   "probe:workable:normative",
+   "probe:workable:normativehq"
+  ]
+ },
+ "floy": {
+  "status": "ok",
+  "platform": "personio",
+  "slug": "floy",
+  "via": "site",
+  "open_roles": 3
+ },
+ "factbird": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:factbird",
+   "probe:recruitee:factbirdhq",
+   "probe:personio:factbird",
+   "probe:personio:factbirdhq",
+   "probe:workable:factbird",
+   "probe:workable:factbirdhq",
+   "probe:teamtailor:factbird",
+   "probe:teamtailor:factbirdhq",
+   "probe:greenhouse:factbird",
+   "probe:greenhouse:factbirdhq",
+   "probe:lever:factbird",
+   "probe:lever:factbirdhq",
+   "probe:ashby:factbird",
+   "probe:ashby:factbirdhq"
+  ]
+ },
+ "sibill": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "sibill",
+  "via": "slug-probe",
+  "open_roles": 15
+ },
+ "jet-hr": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:jethr",
+   "probe:greenhouse:jet-hr",
+   "probe:teamtailor:jethr",
+   "probe:teamtailor:jet-hr",
+   "probe:ashby:jethr",
+   "probe:ashby:jet-hr",
+   "probe:workable:jethr",
+   "probe:workable:jet-hr",
+   "probe:personio:jethr",
+   "probe:personio:jet-hr",
+   "probe:recruitee:jethr",
+   "probe:recruitee:jet-hr",
+   "probe:lever:jethr",
+   "probe:lever:jet-hr"
+  ]
+ },
+ "evervault": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "evervault",
+  "via": "slug-probe",
+  "open_roles": 6
+ },
+ "top-doctors": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "topdoctors",
+  "via": "site",
+  "open_roles": 12
+ },
+ "indigo-ai": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:indigoai",
+   "probe:personio:indigo-ai",
+   "probe:greenhouse:indigoai",
+   "probe:greenhouse:indigo-ai",
+   "probe:ashby:indigoai",
+   "probe:ashby:indigo-ai",
+   "probe:teamtailor:indigoai",
+   "probe:teamtailor:indigo-ai",
+   "probe:recruitee:indigoai",
+   "probe:recruitee:indigo-ai",
+   "probe:lever:indigoai",
+   "probe:lever:indigo-ai",
+   "probe:workable:indigoai",
+   "probe:workable:indigo-ai"
+  ]
+ },
+ "contents-com": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:contentscom",
+   "probe:personio:contents-com",
+   "probe:lever:contentscom",
+   "probe:lever:contents-com",
+   "probe:ashby:contentscom",
+   "probe:ashby:contents-com",
+   "probe:recruitee:contentscom",
+   "probe:recruitee:contents-com",
+   "probe:teamtailor:contentscom",
+   "probe:teamtailor:contents-com",
+   "probe:workable:contentscom",
+   "probe:workable:contents-com",
+   "probe:greenhouse:contentscom",
+   "probe:greenhouse:contents-com"
+  ]
+ },
+ "ledgy": {
+  "status": "ok",
+  "platform": "greenhouse",
+  "slug": "ledgy",
+  "via": "slug-probe",
+  "open_roles": 3
+ },
+ "jobbio": {
+  "status": "not-found",
+  "tried": [
+   "probe:workable:jobbio",
+   "probe:workable:jobbiohq",
+   "probe:ashby:jobbio",
+   "probe:ashby:jobbiohq",
+   "probe:recruitee:jobbio",
+   "probe:recruitee:jobbiohq",
+   "probe:teamtailor:jobbio",
+   "probe:teamtailor:jobbiohq",
+   "probe:personio:jobbio",
+   "probe:personio:jobbiohq",
+   "probe:lever:jobbio",
+   "probe:lever:jobbiohq",
+   "probe:greenhouse:jobbio",
+   "probe:greenhouse:jobbiohq"
+  ]
+ },
+ "translated": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:translated",
+   "probe:recruitee:translatedhq",
+   "probe:greenhouse:translated",
+   "probe:greenhouse:translatedhq",
+   "probe:personio:translated",
+   "probe:personio:translatedhq",
+   "probe:ashby:translated",
+   "probe:ashby:translatedhq",
+   "probe:teamtailor:translated",
+   "probe:teamtailor:translatedhq",
+   "probe:lever:translated",
+   "probe:lever:translatedhq",
+   "probe:workable:translated",
+   "probe:workable:translatedhq"
+  ]
+ },
+ "smallpdf": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:smallpdf",
+   "probe:lever:smallpdfhq",
+   "probe:workable:smallpdf",
+   "probe:workable:smallpdfhq",
+   "probe:personio:smallpdf",
+   "probe:personio:smallpdfhq",
+   "probe:ashby:smallpdf",
+   "probe:ashby:smallpdfhq",
+   "probe:greenhouse:smallpdf",
+   "probe:greenhouse:smallpdfhq",
+   "probe:recruitee:smallpdf",
+   "probe:recruitee:smallpdfhq",
+   "probe:teamtailor:smallpdf",
+   "probe:teamtailor:smallpdfhq"
+  ]
+ },
+ "pactum": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:pactum",
+   "probe:lever:pactumhq",
+   "probe:recruitee:pactum",
+   "probe:recruitee:pactumhq",
+   "probe:personio:pactum",
+   "probe:personio:pactumhq",
+   "probe:greenhouse:pactum",
+   "probe:greenhouse:pactumhq",
+   "probe:workable:pactum",
+   "probe:workable:pactumhq",
+   "probe:teamtailor:pactum",
+   "probe:teamtailor:pactumhq",
+   "probe:ashby:pactum",
+   "probe:ashby:pactumhq"
+  ]
+ },
+ "granular-energy": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "granular-energy.com",
+  "via": "site",
+  "open_roles": 3
+ },
+ "infermedica": {
+  "status": "not-found",
+  "tried": [
+   "probe:workable:infermedica",
+   "probe:workable:infermedicahq",
+   "probe:recruitee:infermedica",
+   "probe:recruitee:infermedicahq",
+   "probe:lever:infermedica",
+   "probe:lever:infermedicahq",
+   "probe:ashby:infermedica",
+   "probe:ashby:infermedicahq",
+   "probe:teamtailor:infermedica",
+   "probe:teamtailor:infermedicahq",
+   "probe:greenhouse:infermedica",
+   "probe:greenhouse:infermedicahq",
+   "probe:personio:infermedica",
+   "probe:personio:infermedicahq"
+  ]
+ },
+ "flowx-ai": {
+  "status": "not-found",
+  "tried": [
+   "site:workable:flowxai",
+   "probe:personio:flowxai",
+   "probe:personio:flowx-ai",
+   "probe:lever:flowxai",
+   "probe:lever:flowx-ai",
+   "probe:teamtailor:flowxai",
+   "probe:teamtailor:flowx-ai",
+   "probe:ashby:flowxai",
+   "probe:ashby:flowx-ai",
+   "probe:recruitee:flowxai",
+   "probe:recruitee:flowx-ai",
+   "probe:workable:flowxai",
+   "probe:workable:flowx-ai",
+   "probe:greenhouse:flowxai",
+   "probe:greenhouse:flowx-ai"
+  ]
+ },
+ "hack-the-box": {
+  "status": "not-found",
+  "tried": [
+   "site:workable:hack-the-box-ltd",
+   "probe:lever:hackthebox",
+   "probe:lever:hack-the-box",
+   "probe:greenhouse:hackthebox",
+   "probe:greenhouse:hack-the-box",
+   "probe:teamtailor:hackthebox",
+   "probe:teamtailor:hack-the-box",
+   "probe:personio:hackthebox",
+   "probe:personio:hack-the-box",
+   "probe:workable:hackthebox",
+   "probe:workable:hack-the-box",
+   "probe:ashby:hackthebox",
+   "probe:ashby:hack-the-box",
+   "probe:recruitee:hackthebox",
+   "probe:recruitee:hack-the-box"
+  ]
+ },
+ "rossum": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:rossum",
+   "probe:ashby:rossumhq",
+   "probe:greenhouse:rossum",
+   "probe:greenhouse:rossumhq",
+   "probe:recruitee:rossum",
+   "probe:recruitee:rossumhq",
+   "probe:workable:rossum",
+   "probe:workable:rossumhq",
+   "probe:teamtailor:rossum",
+   "probe:teamtailor:rossumhq",
+   "probe:personio:rossum",
+   "probe:personio:rossumhq",
+   "probe:lever:rossum",
+   "probe:lever:rossumhq"
+  ]
+ },
+ "fintechos": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:fintechos",
+   "probe:recruitee:fintechoshq",
+   "probe:ashby:fintechos",
+   "probe:ashby:fintechoshq",
+   "probe:teamtailor:fintechos",
+   "probe:teamtailor:fintechoshq",
+   "probe:workable:fintechos",
+   "probe:workable:fintechoshq",
+   "probe:greenhouse:fintechos",
+   "probe:greenhouse:fintechoshq",
+   "probe:personio:fintechos",
+   "probe:personio:fintechoshq",
+   "probe:lever:fintechos",
+   "probe:lever:fintechoshq"
+  ]
+ },
+ "survicate": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:survicate",
+   "probe:recruitee:survicatehq",
+   "probe:teamtailor:survicate",
+   "probe:teamtailor:survicatehq",
+   "probe:lever:survicate",
+   "probe:lever:survicatehq",
+   "probe:personio:survicate",
+   "probe:personio:survicatehq",
+   "probe:greenhouse:survicate",
+   "probe:greenhouse:survicatehq",
+   "probe:workable:survicate",
+   "probe:workable:survicatehq",
+   "probe:ashby:survicate",
+   "probe:ashby:survicatehq"
+  ]
+ },
+ "nord-security": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "nord-security",
+  "via": "slug-probe",
+  "open_roles": 109
+ },
+ "kilo-health": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:kilohealth",
+   "probe:recruitee:kilo-health",
+   "probe:lever:kilohealth",
+   "probe:lever:kilo-health",
+   "probe:greenhouse:kilohealth",
+   "probe:greenhouse:kilo-health",
+   "probe:teamtailor:kilohealth",
+   "probe:teamtailor:kilo-health",
+   "probe:ashby:kilohealth",
+   "probe:ashby:kilo-health",
+   "probe:personio:kilohealth",
+   "probe:personio:kilo-health",
+   "probe:workable:kilohealth",
+   "probe:workable:kilo-health"
+  ]
+ },
+ "huspy": {
+  "status": "not-found",
+  "tried": [
+   "probe:workable:huspy",
+   "probe:workable:huspyhq",
+   "probe:lever:huspy",
+   "probe:lever:huspyhq",
+   "probe:personio:huspy",
+   "probe:personio:huspyhq",
+   "probe:teamtailor:huspy",
+   "probe:teamtailor:huspyhq",
+   "probe:ashby:huspy",
+   "probe:ashby:huspyhq",
+   "probe:recruitee:huspy",
+   "probe:recruitee:huspyhq",
+   "probe:greenhouse:huspy",
+   "probe:greenhouse:huspyhq"
+  ]
+ },
+ "plum": {
+  "status": "not-found",
+  "tried": [
+   "site:workable:withplum",
+   "probe:workable:plum",
+   "probe:workable:withplum",
+   "probe:recruitee:plum",
+   "probe:recruitee:withplum",
+   "probe:greenhouse:plum",
+   "probe:greenhouse:withplum",
+   "probe:lever:plum",
+   "probe:lever:withplum",
+   "probe:teamtailor:plum",
+   "probe:teamtailor:withplum",
+   "probe:personio:plum",
+   "probe:personio:withplum",
+   "probe:ashby:plum",
+   "probe:ashby:withplum"
+  ]
+ },
+ "kickfin": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:kickfin",
+   "probe:personio:kickfinhq",
+   "probe:ashby:kickfin",
+   "probe:ashby:kickfinhq",
+   "probe:recruitee:kickfin",
+   "probe:recruitee:kickfinhq",
+   "probe:lever:kickfin",
+   "probe:lever:kickfinhq",
+   "probe:teamtailor:kickfin",
+   "probe:teamtailor:kickfinhq",
+   "probe:workable:kickfin",
+   "probe:workable:kickfinhq",
+   "probe:greenhouse:kickfin",
+   "probe:greenhouse:kickfinhq"
+  ]
+ },
+ "planerio": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:planerio",
+   "probe:ashby:planeriohq",
+   "probe:recruitee:planerio",
+   "probe:recruitee:planeriohq",
+   "probe:personio:planerio",
+   "probe:personio:planeriohq",
+   "probe:lever:planerio",
+   "probe:lever:planeriohq",
+   "probe:workable:planerio",
+   "probe:workable:planeriohq",
+   "probe:greenhouse:planerio",
+   "probe:greenhouse:planeriohq",
+   "probe:teamtailor:planerio",
+   "probe:teamtailor:planeriohq"
+  ]
+ },
+ "cara-care": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:caracare",
+   "probe:personio:cara-care",
+   "probe:workable:caracare",
+   "probe:workable:cara-care",
+   "probe:ashby:caracare",
+   "probe:ashby:cara-care",
+   "probe:greenhouse:caracare",
+   "probe:greenhouse:cara-care",
+   "probe:lever:caracare",
+   "probe:lever:cara-care",
+   "probe:teamtailor:caracare",
+   "probe:teamtailor:cara-care",
+   "probe:recruitee:caracare",
+   "probe:recruitee:cara-care"
+  ]
+ },
+ "third-space-learning": {
+  "status": "not-found",
+  "tried": [
+   "site:workable:thirdspacelearning",
+   "probe:workable:thirdspacelearning",
+   "probe:workable:third-space-learning",
+   "probe:teamtailor:thirdspacelearning",
+   "probe:teamtailor:third-space-learning",
+   "probe:recruitee:thirdspacelearning",
+   "probe:recruitee:third-space-learning",
+   "probe:lever:thirdspacelearning",
+   "probe:lever:third-space-learning",
+   "probe:personio:thirdspacelearning",
+   "probe:personio:third-space-learning",
+   "probe:greenhouse:thirdspacelearning",
+   "probe:greenhouse:third-space-learning",
+   "probe:ashby:thirdspacelearning",
+   "probe:ashby:third-space-learning"
+  ]
+ },
+ "kroo": {
+  "status": "not-found",
+  "tried": [
+   "site:workable:j",
+   "probe:recruitee:kroo",
+   "probe:recruitee:kroohq",
+   "probe:greenhouse:kroo",
+   "probe:greenhouse:kroohq",
+   "probe:lever:kroo",
+   "probe:lever:kroohq",
+   "probe:ashby:kroo",
+   "probe:ashby:kroohq",
+   "probe:personio:kroo",
+   "probe:personio:kroohq",
+   "probe:workable:kroo",
+   "probe:workable:kroohq",
+   "probe:teamtailor:kroo",
+   "probe:teamtailor:kroohq"
+  ]
+ },
+ "packhelp": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:packhelp",
+   "probe:recruitee:packhelphq",
+   "probe:ashby:packhelp",
+   "probe:ashby:packhelphq",
+   "probe:personio:packhelp",
+   "probe:personio:packhelphq",
+   "probe:workable:packhelp",
+   "probe:workable:packhelphq",
+   "probe:greenhouse:packhelp",
+   "probe:greenhouse:packhelphq",
+   "probe:lever:packhelp",
+   "probe:lever:packhelphq",
+   "probe:teamtailor:packhelp",
+   "probe:teamtailor:packhelphq"
+  ]
+ },
+ "ready-player-me": {
+  "status": "not-found",
+  "tried": [
+   "probe:workable:readyplayerme",
+   "probe:workable:ready-player-me",
+   "probe:teamtailor:readyplayerme",
+   "probe:teamtailor:ready-player-me",
+   "probe:personio:readyplayerme",
+   "probe:personio:ready-player-me",
+   "probe:lever:readyplayerme",
+   "probe:lever:ready-player-me",
+   "probe:recruitee:readyplayerme",
+   "probe:recruitee:ready-player-me",
+   "probe:ashby:readyplayerme",
+   "probe:ashby:ready-player-me",
+   "probe:greenhouse:readyplayerme",
+   "probe:greenhouse:ready-player-me"
+  ]
+ },
+ "clarisse": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:clarisse",
+   "probe:teamtailor:clarissehq",
+   "probe:recruitee:clarisse",
+   "probe:recruitee:clarissehq",
+   "probe:personio:clarisse",
+   "probe:personio:clarissehq",
+   "probe:greenhouse:clarisse",
+   "probe:greenhouse:clarissehq",
+   "probe:ashby:clarisse",
+   "probe:ashby:clarissehq",
+   "probe:workable:clarisse",
+   "probe:workable:clarissehq",
+   "probe:lever:clarisse",
+   "probe:lever:clarissehq"
+  ]
+ },
+ "brand24": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:brand24",
+   "probe:recruitee:brand24hq",
+   "probe:teamtailor:brand24",
+   "probe:teamtailor:brand24hq",
+   "probe:personio:brand24",
+   "probe:personio:brand24hq",
+   "probe:workable:brand24",
+   "probe:workable:brand24hq",
+   "probe:greenhouse:brand24",
+   "probe:greenhouse:brand24hq",
+   "probe:lever:brand24",
+   "probe:lever:brand24hq",
+   "probe:ashby:brand24",
+   "probe:ashby:brand24hq"
+  ]
+ },
+ "cord": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:cord",
+   "probe:ashby:cordhq",
+   "probe:lever:cord",
+   "probe:lever:cordhq",
+   "probe:recruitee:cord",
+   "probe:recruitee:cordhq",
+   "probe:greenhouse:cord",
+   "probe:greenhouse:cordhq",
+   "probe:teamtailor:cord",
+   "probe:teamtailor:cordhq",
+   "probe:workable:cord",
+   "probe:workable:cordhq",
+   "probe:personio:cord",
+   "probe:personio:cordhq"
+  ]
+ },
+ "unibuddy": {
+  "status": "not-found",
+  "tried": [
+   "probe:workable:unibuddy",
+   "probe:workable:unibuddyhq",
+   "probe:recruitee:unibuddy",
+   "probe:recruitee:unibuddyhq",
+   "probe:personio:unibuddy",
+   "probe:personio:unibuddyhq",
+   "probe:ashby:unibuddy",
+   "probe:ashby:unibuddyhq",
+   "probe:lever:unibuddy",
+   "probe:lever:unibuddyhq",
+   "probe:greenhouse:unibuddy",
+   "probe:greenhouse:unibuddyhq",
+   "probe:teamtailor:unibuddy",
+   "probe:teamtailor:unibuddyhq"
+  ]
+ },
+ "ravelin": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:ravelin",
+   "probe:lever:ravelinhq",
+   "probe:teamtailor:ravelin",
+   "probe:teamtailor:ravelinhq",
+   "probe:ashby:ravelin",
+   "probe:ashby:ravelinhq",
+   "probe:workable:ravelin",
+   "probe:workable:ravelinhq",
+   "probe:greenhouse:ravelin",
+   "probe:greenhouse:ravelinhq",
+   "probe:recruitee:ravelin",
+   "probe:recruitee:ravelinhq",
+   "probe:personio:ravelin",
+   "probe:personio:ravelinhq"
+  ]
+ },
+ "jiminny": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:jiminny",
+   "probe:recruitee:jiminnyhq",
+   "probe:workable:jiminny",
+   "probe:workable:jiminnyhq",
+   "probe:lever:jiminny",
+   "probe:lever:jiminnyhq",
+   "probe:greenhouse:jiminny",
+   "probe:greenhouse:jiminnyhq",
+   "probe:ashby:jiminny",
+   "probe:ashby:jiminnyhq",
+   "probe:personio:jiminny",
+   "probe:personio:jiminnyhq",
+   "probe:teamtailor:jiminny",
+   "probe:teamtailor:jiminnyhq"
+  ]
+ },
+ "isomorphic": {
+  "status": "ok",
+  "platform": "greenhouse",
+  "slug": "isomorphiclabs",
+  "via": "slug-probe",
+  "open_roles": 38
+ },
+ "juniper": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:juniper",
+   "probe:personio:juniperhealth",
+   "probe:ashby:juniper",
+   "probe:ashby:juniperhealth",
+   "probe:workable:juniper",
+   "probe:workable:juniperhealth",
+   "probe:greenhouse:juniper",
+   "probe:greenhouse:juniperhealth",
+   "probe:recruitee:juniper",
+   "probe:recruitee:juniperhealth",
+   "probe:lever:juniper",
+   "probe:lever:juniperhealth",
+   "probe:teamtailor:juniper",
+   "probe:teamtailor:juniperhealth"
+  ]
+ },
+ "sorare": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "sorare",
+  "via": "slug-probe",
+  "open_roles": 3
+ },
+ "sana-labs": {
+  "status": "not-found",
+  "tried": [
+   "site:ashby:sana-roles",
+   "probe:ashby:sanalabs",
+   "probe:ashby:sana-labs",
+   "probe:workable:sanalabs",
+   "probe:workable:sana-labs",
+   "probe:teamtailor:sanalabs",
+   "probe:teamtailor:sana-labs",
+   "probe:personio:sanalabs",
+   "probe:personio:sana-labs",
+   "probe:greenhouse:sanalabs",
+   "probe:greenhouse:sana-labs",
+   "probe:lever:sanalabs",
+   "probe:lever:sana-labs",
+   "probe:recruitee:sanalabs",
+   "probe:recruitee:sana-labs"
+  ]
+ },
+ "cleanlab": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:cleanlab",
+   "probe:ashby:cleanlabhq",
+   "probe:lever:cleanlab",
+   "probe:lever:cleanlabhq",
+   "probe:personio:cleanlab",
+   "probe:personio:cleanlabhq",
+   "probe:recruitee:cleanlab",
+   "probe:recruitee:cleanlabhq",
+   "probe:greenhouse:cleanlab",
+   "probe:greenhouse:cleanlabhq",
+   "probe:teamtailor:cleanlab",
+   "probe:teamtailor:cleanlabhq",
+   "probe:workable:cleanlab",
+   "probe:workable:cleanlabhq"
+  ]
+ },
+ "bit2me": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:bit2me",
+   "probe:personio:bit2mehq",
+   "probe:workable:bit2me",
+   "probe:workable:bit2mehq",
+   "probe:recruitee:bit2me",
+   "probe:recruitee:bit2mehq",
+   "probe:teamtailor:bit2me",
+   "probe:teamtailor:bit2mehq",
+   "probe:lever:bit2me",
+   "probe:lever:bit2mehq",
+   "probe:ashby:bit2me",
+   "probe:ashby:bit2mehq",
+   "probe:greenhouse:bit2me",
+   "probe:greenhouse:bit2mehq"
+  ]
+ },
+ "doctorflix": {
+  "status": "ok",
+  "platform": "personio",
+  "slug": "doctorflix",
+  "via": "slug-probe",
+  "open_roles": 9
+ },
+ "zama": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:zama",
+   "probe:lever:zamahq",
+   "probe:greenhouse:zama",
+   "probe:greenhouse:zamahq",
+   "probe:workable:zama",
+   "probe:workable:zamahq",
+   "probe:teamtailor:zama",
+   "probe:teamtailor:zamahq",
+   "probe:personio:zama",
+   "probe:personio:zamahq",
+   "probe:recruitee:zama",
+   "probe:recruitee:zamahq",
+   "probe:ashby:zama",
+   "probe:ashby:zamahq"
+  ]
+ },
+ "hivebrite": {
+  "status": "not-found",
+  "tried": [
+   "site:teamtailor:hivebrite",
+   "seed:teamtailor:hivebrite",
+   "probe:greenhouse:hivebrite",
+   "probe:greenhouse:hivebritehq",
+   "probe:ashby:hivebrite",
+   "probe:ashby:hivebritehq",
+   "probe:personio:hivebrite",
+   "probe:personio:hivebritehq",
+   "probe:lever:hivebrite",
+   "probe:lever:hivebritehq",
+   "probe:workable:hivebrite",
+   "probe:workable:hivebritehq",
+   "probe:teamtailor:hivebrite",
+   "probe:teamtailor:hivebritehq",
+   "probe:recruitee:hivebrite",
+   "probe:recruitee:hivebritehq"
+  ]
+ },
+ "klearly": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:klearly",
+   "probe:teamtailor:klearlyhq",
+   "probe:personio:klearly",
+   "probe:personio:klearlyhq",
+   "probe:greenhouse:klearly",
+   "probe:greenhouse:klearlyhq",
+   "probe:recruitee:klearly",
+   "probe:recruitee:klearlyhq",
+   "probe:ashby:klearly",
+   "probe:ashby:klearlyhq",
+   "probe:workable:klearly",
+   "probe:workable:klearlyhq",
+   "probe:lever:klearly",
+   "probe:lever:klearlyhq"
+  ]
+ },
+ "insurama": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:insurama",
+   "probe:recruitee:insuramahq",
+   "probe:lever:insurama",
+   "probe:lever:insuramahq",
+   "probe:ashby:insurama",
+   "probe:ashby:insuramahq",
+   "probe:greenhouse:insurama",
+   "probe:greenhouse:insuramahq",
+   "probe:personio:insurama",
+   "probe:personio:insuramahq",
+   "probe:teamtailor:insurama",
+   "probe:teamtailor:insuramahq",
+   "probe:workable:insurama",
+   "probe:workable:insuramahq"
+  ]
+ },
+ "last-app": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:lastapp",
+   "probe:teamtailor:last-app",
+   "probe:greenhouse:lastapp",
+   "probe:greenhouse:last-app",
+   "probe:lever:lastapp",
+   "probe:lever:last-app",
+   "probe:ashby:lastapp",
+   "probe:ashby:last-app",
+   "probe:workable:lastapp",
+   "probe:workable:last-app",
+   "probe:recruitee:lastapp",
+   "probe:recruitee:last-app",
+   "probe:personio:lastapp",
+   "probe:personio:last-app"
+  ]
+ },
+ "voy": {
+  "status": "ok",
+  "platform": "greenhouse",
+  "slug": "voy",
+  "via": "slug-probe",
+  "open_roles": 62
+ },
+ "screenloop": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:screenloop",
+   "probe:recruitee:screenloophq",
+   "probe:lever:screenloop",
+   "probe:lever:screenloophq",
+   "probe:teamtailor:screenloop",
+   "probe:teamtailor:screenloophq",
+   "probe:personio:screenloop",
+   "probe:personio:screenloophq",
+   "probe:greenhouse:screenloop",
+   "probe:greenhouse:screenloophq",
+   "probe:ashby:screenloop",
+   "probe:ashby:screenloophq",
+   "probe:workable:screenloop",
+   "probe:workable:screenloophq"
+  ]
+ },
+ "uncapped": {
+  "status": "not-found",
+  "tried": [
+   "site:workable:uncapped",
+   "probe:teamtailor:uncapped",
+   "probe:teamtailor:weareuncapped",
+   "probe:ashby:uncapped",
+   "probe:ashby:weareuncapped",
+   "probe:greenhouse:uncapped",
+   "probe:greenhouse:weareuncapped",
+   "probe:recruitee:uncapped",
+   "probe:recruitee:weareuncapped",
+   "probe:workable:uncapped",
+   "probe:workable:weareuncapped",
+   "probe:lever:uncapped",
+   "probe:lever:weareuncapped",
+   "probe:personio:uncapped",
+   "probe:personio:weareuncapped"
+  ]
+ },
+ "lanes-planes": {
+  "status": "ok",
+  "platform": "greenhouse",
+  "slug": "lanesplanes",
+  "via": "slug-probe",
+  "open_roles": 20
+ },
+ "troop": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:troop",
+   "probe:recruitee:trooptravel",
+   "probe:lever:troop",
+   "probe:lever:trooptravel",
+   "probe:ashby:troop",
+   "probe:ashby:trooptravel",
+   "probe:personio:troop",
+   "probe:personio:trooptravel",
+   "probe:greenhouse:troop",
+   "probe:greenhouse:trooptravel",
+   "probe:teamtailor:troop",
+   "probe:teamtailor:trooptravel",
+   "probe:workable:troop",
+   "probe:workable:trooptravel"
+  ]
+ },
+ "barkyn": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:barkyn",
+   "probe:personio:barkynhq",
+   "probe:teamtailor:barkyn",
+   "probe:teamtailor:barkynhq",
+   "probe:greenhouse:barkyn",
+   "probe:greenhouse:barkynhq",
+   "probe:recruitee:barkyn",
+   "probe:recruitee:barkynhq",
+   "probe:ashby:barkyn",
+   "probe:ashby:barkynhq",
+   "probe:lever:barkyn",
+   "probe:lever:barkynhq",
+   "probe:workable:barkyn",
+   "probe:workable:barkynhq"
+  ]
+ },
+ "ontruck": {
+  "status": "not-found",
+  "tried": [
+   "probe:workable:ontruck",
+   "probe:workable:ontruckhq",
+   "probe:recruitee:ontruck",
+   "probe:recruitee:ontruckhq",
+   "probe:personio:ontruck",
+   "probe:personio:ontruckhq",
+   "probe:ashby:ontruck",
+   "probe:ashby:ontruckhq",
+   "probe:teamtailor:ontruck",
+   "probe:teamtailor:ontruckhq",
+   "probe:greenhouse:ontruck",
+   "probe:greenhouse:ontruckhq",
+   "probe:lever:ontruck",
+   "probe:lever:ontruckhq"
+  ]
+ },
+ "ironhack": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:ironhack",
+   "probe:lever:ironhackhq",
+   "probe:teamtailor:ironhack",
+   "probe:teamtailor:ironhackhq",
+   "probe:recruitee:ironhack",
+   "probe:recruitee:ironhackhq",
+   "probe:workable:ironhack",
+   "probe:workable:ironhackhq",
+   "probe:ashby:ironhack",
+   "probe:ashby:ironhackhq",
+   "probe:greenhouse:ironhack",
+   "probe:greenhouse:ironhackhq",
+   "probe:personio:ironhack",
+   "probe:personio:ironhackhq"
+  ]
+ },
+ "aplanet": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:aplanet",
+   "probe:ashby:aplanethq",
+   "probe:teamtailor:aplanet",
+   "probe:teamtailor:aplanethq",
+   "probe:greenhouse:aplanet",
+   "probe:greenhouse:aplanethq",
+   "probe:recruitee:aplanet",
+   "probe:recruitee:aplanethq",
+   "probe:workable:aplanet",
+   "probe:workable:aplanethq",
+   "probe:personio:aplanet",
+   "probe:personio:aplanethq",
+   "probe:lever:aplanet",
+   "probe:lever:aplanethq"
+  ]
+ },
+ "rabot-energy": {
+  "status": "not-found",
+  "tried": [
+   "probe:workable:rabotenergy",
+   "probe:workable:rabot-energy",
+   "probe:lever:rabotenergy",
+   "probe:lever:rabot-energy",
+   "probe:teamtailor:rabotenergy",
+   "probe:teamtailor:rabot-energy",
+   "probe:ashby:rabotenergy",
+   "probe:ashby:rabot-energy",
+   "probe:greenhouse:rabotenergy",
+   "probe:greenhouse:rabot-energy",
+   "probe:recruitee:rabotenergy",
+   "probe:recruitee:rabot-energy",
+   "probe:personio:rabotenergy",
+   "probe:personio:rabot-energy"
+  ]
+ },
+ "heyteam": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:heyteam",
+   "probe:personio:heyteamhq",
+   "probe:recruitee:heyteam",
+   "probe:recruitee:heyteamhq",
+   "probe:lever:heyteam",
+   "probe:lever:heyteamhq",
+   "probe:ashby:heyteam",
+   "probe:ashby:heyteamhq",
+   "probe:workable:heyteam",
+   "probe:workable:heyteamhq",
+   "probe:greenhouse:heyteam",
+   "probe:greenhouse:heyteamhq",
+   "probe:teamtailor:heyteam",
+   "probe:teamtailor:heyteamhq"
+  ]
+ },
+ "thepower": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:thepower",
+   "probe:greenhouse:thepowermba",
+   "probe:ashby:thepower",
+   "probe:ashby:thepowermba",
+   "probe:recruitee:thepower",
+   "probe:recruitee:thepowermba",
+   "probe:personio:thepower",
+   "probe:personio:thepowermba",
+   "probe:lever:thepower",
+   "probe:lever:thepowermba",
+   "probe:workable:thepower",
+   "probe:workable:thepowermba",
+   "probe:teamtailor:thepower",
+   "probe:teamtailor:thepowermba"
+  ]
+ },
+ "ai-coustics": {
+  "status": "not-found",
+  "tried": [
+   "probe:workable:aicoustics",
+   "probe:workable:ai-coustics",
+   "probe:recruitee:aicoustics",
+   "probe:recruitee:ai-coustics",
+   "probe:lever:aicoustics",
+   "probe:lever:ai-coustics",
+   "probe:personio:aicoustics",
+   "probe:personio:ai-coustics",
+   "probe:greenhouse:aicoustics",
+   "probe:greenhouse:ai-coustics",
+   "probe:ashby:aicoustics",
+   "probe:ashby:ai-coustics",
+   "probe:teamtailor:aicoustics",
+   "probe:teamtailor:ai-coustics"
+  ]
+ },
+ "heretics": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:heretics",
+   "probe:lever:teamheretics",
+   "probe:ashby:heretics",
+   "probe:ashby:teamheretics",
+   "probe:workable:heretics",
+   "probe:workable:teamheretics",
+   "probe:recruitee:heretics",
+   "probe:recruitee:teamheretics",
+   "probe:teamtailor:heretics",
+   "probe:teamtailor:teamheretics",
+   "probe:greenhouse:heretics",
+   "probe:greenhouse:teamheretics",
+   "probe:personio:heretics",
+   "probe:personio:teamheretics"
+  ]
+ },
+ "causa-prima": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "causaprima",
+  "via": "site",
+  "open_roles": 11
+ },
+ "mirai-risktech": {
+  "status": "ok",
+  "platform": "personio",
+  "slug": "mirai",
+  "via": "site",
+  "open_roles": 13
+ },
+ "prosper-ai": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "prosper-ai",
+  "via": "site",
+  "open_roles": 12
+ },
+ "amenitiz": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "amenitiz",
+  "via": "site",
+  "open_roles": 25
+ },
+ "kintai": {
+  "status": "ok",
+  "platform": "personio",
+  "slug": "kintai",
+  "via": "slug-probe",
+  "open_roles": 2
+ },
+ "valeria": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "valeriahr",
+  "via": "slug-probe",
+  "open_roles": 2
+ },
+ "remuner": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:remuner",
+   "probe:teamtailor:remunerhq",
+   "probe:lever:remuner",
+   "probe:lever:remunerhq",
+   "probe:recruitee:remuner",
+   "probe:recruitee:remunerhq",
+   "probe:personio:remuner",
+   "probe:personio:remunerhq",
+   "probe:ashby:remuner",
+   "probe:ashby:remunerhq",
+   "probe:greenhouse:remuner",
+   "probe:greenhouse:remunerhq"
+  ]
+ },
+ "vidext": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:vidext",
+   "probe:lever:videxthq",
+   "probe:recruitee:vidext",
+   "probe:recruitee:videxthq",
+   "probe:teamtailor:vidext",
+   "probe:teamtailor:videxthq",
+   "probe:greenhouse:vidext",
+   "probe:greenhouse:videxthq",
+   "probe:ashby:vidext",
+   "probe:ashby:videxthq",
+   "probe:personio:vidext",
+   "probe:personio:videxthq"
+  ]
+ },
+ "nutrium": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "nutrium",
+  "via": "slug-probe",
+  "open_roles": 7
+ },
+ "turingdream": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:turingdream",
+   "probe:lever:turingdreamhq",
+   "probe:personio:turingdream",
+   "probe:personio:turingdreamhq",
+   "probe:greenhouse:turingdream",
+   "probe:greenhouse:turingdreamhq",
+   "probe:ashby:turingdream",
+   "probe:ashby:turingdreamhq",
+   "probe:recruitee:turingdream",
+   "probe:recruitee:turingdreamhq",
+   "probe:teamtailor:turingdream",
+   "probe:teamtailor:turingdreamhq"
+  ]
+ },
+ "brainr": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:brainr",
+   "probe:lever:brainrhq",
+   "probe:teamtailor:brainr",
+   "probe:teamtailor:brainrhq",
+   "probe:personio:brainr",
+   "probe:personio:brainrhq",
+   "probe:recruitee:brainr",
+   "probe:recruitee:brainrhq",
+   "probe:ashby:brainr",
+   "probe:ashby:brainrhq",
+   "probe:greenhouse:brainr",
+   "probe:greenhouse:brainrhq"
+  ]
+ },
+ "health-force": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:healthforce",
+   "probe:lever:health-force",
+   "probe:personio:healthforce",
+   "probe:personio:health-force",
+   "probe:greenhouse:healthforce",
+   "probe:greenhouse:health-force",
+   "probe:teamtailor:healthforce",
+   "probe:teamtailor:health-force",
+   "probe:recruitee:healthforce",
+   "probe:recruitee:health-force",
+   "probe:ashby:healthforce",
+   "probe:ashby:health-force"
+  ]
+ },
+ "slng": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:slng",
+   "probe:lever:slnghq",
+   "probe:personio:slng",
+   "probe:personio:slnghq",
+   "probe:ashby:slng",
+   "probe:ashby:slnghq",
+   "probe:recruitee:slng",
+   "probe:recruitee:slnghq",
+   "probe:greenhouse:slng",
+   "probe:greenhouse:slnghq",
+   "probe:teamtailor:slng",
+   "probe:teamtailor:slnghq"
+  ]
+ },
+ "fermat": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:fermat",
+   "probe:lever:fermathq",
+   "probe:ashby:fermat",
+   "probe:ashby:fermathq",
+   "probe:greenhouse:fermat",
+   "probe:greenhouse:fermathq",
+   "probe:personio:fermat",
+   "probe:personio:fermathq",
+   "probe:recruitee:fermat",
+   "probe:recruitee:fermathq",
+   "probe:teamtailor:fermat",
+   "probe:teamtailor:fermathq"
+  ]
+ },
+ "nebuly": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "nebuly",
+  "via": "site",
+  "open_roles": 14
+ },
+ "zepo-intelligence": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:zepointelligence",
+   "probe:recruitee:zepo-intelligence",
+   "probe:lever:zepointelligence",
+   "probe:lever:zepo-intelligence",
+   "probe:teamtailor:zepointelligence",
+   "probe:teamtailor:zepo-intelligence",
+   "probe:ashby:zepointelligence",
+   "probe:ashby:zepo-intelligence",
+   "probe:personio:zepointelligence",
+   "probe:personio:zepo-intelligence",
+   "probe:greenhouse:zepointelligence",
+   "probe:greenhouse:zepo-intelligence"
+  ]
+ },
+ "afori": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:afori",
+   "probe:lever:aforihq",
+   "probe:greenhouse:afori",
+   "probe:greenhouse:aforihq",
+   "probe:ashby:afori",
+   "probe:ashby:aforihq",
+   "probe:personio:afori",
+   "probe:personio:aforihq",
+   "probe:recruitee:afori",
+   "probe:recruitee:aforihq",
+   "probe:teamtailor:afori",
+   "probe:teamtailor:aforihq"
+  ]
+ },
+ "supersonik": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:supersonik",
+   "probe:greenhouse:supersonikhq",
+   "probe:lever:supersonik",
+   "probe:lever:supersonikhq",
+   "probe:personio:supersonik",
+   "probe:personio:supersonikhq",
+   "probe:ashby:supersonik",
+   "probe:ashby:supersonikhq",
+   "probe:teamtailor:supersonik",
+   "probe:teamtailor:supersonikhq",
+   "probe:recruitee:supersonik",
+   "probe:recruitee:supersonikhq"
+  ]
+ },
+ "anyformat": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:anyformat",
+   "probe:teamtailor:anyformathq",
+   "probe:ashby:anyformat",
+   "probe:ashby:anyformathq",
+   "probe:recruitee:anyformat",
+   "probe:recruitee:anyformathq",
+   "probe:lever:anyformat",
+   "probe:lever:anyformathq",
+   "probe:personio:anyformat",
+   "probe:personio:anyformathq",
+   "probe:greenhouse:anyformat",
+   "probe:greenhouse:anyformathq"
+  ]
+ },
+ "workfully": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:workfully",
+   "probe:personio:workfullyhq",
+   "probe:recruitee:workfully",
+   "probe:recruitee:workfullyhq",
+   "probe:lever:workfully",
+   "probe:lever:workfullyhq",
+   "probe:ashby:workfully",
+   "probe:ashby:workfullyhq",
+   "probe:greenhouse:workfully",
+   "probe:greenhouse:workfullyhq",
+   "probe:teamtailor:workfully",
+   "probe:teamtailor:workfullyhq"
+  ]
+ },
+ "serenis": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "serenis",
+  "via": "site",
+  "open_roles": 3
+ },
+ "orbio": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:orbio",
+   "probe:ashby:orbioai",
+   "probe:lever:orbio",
+   "probe:lever:orbioai",
+   "probe:personio:orbio",
+   "probe:personio:orbioai",
+   "probe:teamtailor:orbio",
+   "probe:teamtailor:orbioai",
+   "probe:recruitee:orbio",
+   "probe:recruitee:orbioai",
+   "probe:greenhouse:orbio",
+   "probe:greenhouse:orbioai"
+  ]
+ },
+ "sybilion": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:sybilion",
+   "probe:ashby:sybilionhq",
+   "probe:personio:sybilion",
+   "probe:personio:sybilionhq",
+   "probe:lever:sybilion",
+   "probe:lever:sybilionhq",
+   "probe:recruitee:sybilion",
+   "probe:recruitee:sybilionhq",
+   "probe:teamtailor:sybilion",
+   "probe:teamtailor:sybilionhq",
+   "probe:greenhouse:sybilion",
+   "probe:greenhouse:sybilionhq"
+  ]
+ },
+ "dost": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:dost",
+   "probe:ashby:mydost",
+   "probe:personio:dost",
+   "probe:personio:mydost",
+   "probe:greenhouse:dost",
+   "probe:greenhouse:mydost",
+   "probe:lever:dost",
+   "probe:lever:mydost",
+   "probe:teamtailor:dost",
+   "probe:teamtailor:mydost",
+   "probe:recruitee:dost",
+   "probe:recruitee:mydost"
+  ]
+ },
+ "digitail": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:digitail",
+   "probe:teamtailor:digitailhq",
+   "probe:lever:digitail",
+   "probe:lever:digitailhq",
+   "probe:recruitee:digitail",
+   "probe:recruitee:digitailhq",
+   "probe:greenhouse:digitail",
+   "probe:greenhouse:digitailhq",
+   "probe:personio:digitail",
+   "probe:personio:digitailhq",
+   "probe:ashby:digitail",
+   "probe:ashby:digitailhq"
+  ]
+ },
+ "galtea": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:galtea",
+   "probe:teamtailor:galteahq",
+   "probe:personio:galtea",
+   "probe:personio:galteahq",
+   "probe:ashby:galtea",
+   "probe:ashby:galteahq",
+   "probe:lever:galtea",
+   "probe:lever:galteahq",
+   "probe:greenhouse:galtea",
+   "probe:greenhouse:galteahq",
+   "probe:recruitee:galtea",
+   "probe:recruitee:galteahq"
+  ]
+ },
+ "viktor": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "viktor",
+  "via": "seed-list",
+  "open_roles": 22
+ },
+ "grai": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "grai",
+  "via": "site",
+  "open_roles": 5
+ },
+ "murphy": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "murphy",
+  "via": "slug-probe",
+  "open_roles": 65
+ },
+ "duvo": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "duvo",
+  "via": "site",
+  "open_roles": 16
+ },
+ "supernova": {
+  "status": "unsupported",
+  "platform": "bamboohr",
+  "slug": "supernova",
+  "tried": [
+   "site:bamboohr:supernova"
+  ]
+ },
+ "delfos-energy": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:delfosenergy",
+   "probe:teamtailor:delfos-energy",
+   "probe:personio:delfosenergy",
+   "probe:personio:delfos-energy",
+   "probe:lever:delfosenergy",
+   "probe:lever:delfos-energy",
+   "probe:greenhouse:delfosenergy",
+   "probe:greenhouse:delfos-energy",
+   "probe:ashby:delfosenergy",
+   "probe:ashby:delfos-energy",
+   "probe:recruitee:delfosenergy",
+   "probe:recruitee:delfos-energy"
+  ]
+ },
+ "halotech": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:halotech",
+   "probe:ashby:halotechs",
+   "probe:greenhouse:halotech",
+   "probe:greenhouse:halotechs",
+   "probe:lever:halotech",
+   "probe:lever:halotechs",
+   "probe:recruitee:halotech",
+   "probe:recruitee:halotechs",
+   "probe:teamtailor:halotech",
+   "probe:teamtailor:halotechs",
+   "probe:personio:halotech",
+   "probe:personio:halotechs"
+  ]
+ },
+ "optimitive": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:optimitive",
+   "probe:greenhouse:optimitivehq",
+   "probe:ashby:optimitive",
+   "probe:ashby:optimitivehq",
+   "probe:recruitee:optimitive",
+   "probe:recruitee:optimitivehq",
+   "probe:lever:optimitive",
+   "probe:lever:optimitivehq",
+   "probe:teamtailor:optimitive",
+   "probe:teamtailor:optimitivehq",
+   "probe:personio:optimitive",
+   "probe:personio:optimitivehq"
+  ]
+ },
+ "lyzer": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:lyzer",
+   "probe:recruitee:lyzerhq",
+   "probe:personio:lyzer",
+   "probe:personio:lyzerhq",
+   "probe:lever:lyzer",
+   "probe:lever:lyzerhq",
+   "probe:ashby:lyzer",
+   "probe:ashby:lyzerhq",
+   "probe:teamtailor:lyzer",
+   "probe:teamtailor:lyzerhq",
+   "probe:greenhouse:lyzer",
+   "probe:greenhouse:lyzerhq"
+  ]
+ },
+ "balance": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:balance",
+   "probe:recruitee:metodobalance",
+   "probe:teamtailor:balance",
+   "probe:teamtailor:metodobalance",
+   "probe:personio:balance",
+   "probe:personio:metodobalance",
+   "probe:lever:balance",
+   "probe:lever:metodobalance",
+   "probe:ashby:balance",
+   "probe:ashby:metodobalance",
+   "probe:greenhouse:balance",
+   "probe:greenhouse:metodobalance"
+  ]
+ },
+ "spotlite": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:spotlite",
+   "probe:teamtailor:spotlitedata",
+   "probe:recruitee:spotlite",
+   "probe:recruitee:spotlitedata",
+   "probe:lever:spotlite",
+   "probe:lever:spotlitedata",
+   "probe:greenhouse:spotlite",
+   "probe:greenhouse:spotlitedata",
+   "probe:personio:spotlite",
+   "probe:personio:spotlitedata",
+   "probe:ashby:spotlite",
+   "probe:ashby:spotlitedata"
+  ]
+ },
+ "spiko": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "spiko",
+  "via": "site",
+  "open_roles": 21
+ },
+ "musiversal": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:musiversal",
+   "probe:personio:musiversalhq",
+   "probe:teamtailor:musiversal",
+   "probe:teamtailor:musiversalhq",
+   "probe:recruitee:musiversal",
+   "probe:recruitee:musiversalhq",
+   "probe:lever:musiversal",
+   "probe:lever:musiversalhq",
+   "probe:greenhouse:musiversal",
+   "probe:greenhouse:musiversalhq",
+   "probe:ashby:musiversal",
+   "probe:ashby:musiversalhq"
+  ]
+ },
+ "vocca": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "vocca",
+  "via": "site",
+  "open_roles": 20
+ },
+ "nexos-ai": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "nexos-ai",
+  "via": "slug-probe",
+  "open_roles": 6
+ },
+ "qbeast": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:qbeast",
+   "probe:personio:qbeasthq",
+   "probe:greenhouse:qbeast",
+   "probe:greenhouse:qbeasthq",
+   "probe:teamtailor:qbeast",
+   "probe:teamtailor:qbeasthq",
+   "probe:lever:qbeast",
+   "probe:lever:qbeasthq",
+   "probe:recruitee:qbeast",
+   "probe:recruitee:qbeasthq",
+   "probe:ashby:qbeast",
+   "probe:ashby:qbeasthq"
+  ]
+ },
+ "zynap": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:zynap",
+   "probe:ashby:zynaphq",
+   "probe:teamtailor:zynap",
+   "probe:teamtailor:zynaphq",
+   "probe:personio:zynap",
+   "probe:personio:zynaphq",
+   "probe:lever:zynap",
+   "probe:lever:zynaphq",
+   "probe:greenhouse:zynap",
+   "probe:greenhouse:zynaphq",
+   "probe:recruitee:zynap",
+   "probe:recruitee:zynaphq"
+  ]
+ },
+ "webel": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:webel",
+   "probe:recruitee:appwebel",
+   "probe:personio:webel",
+   "probe:personio:appwebel",
+   "probe:greenhouse:webel",
+   "probe:greenhouse:appwebel",
+   "probe:ashby:webel",
+   "probe:ashby:appwebel",
+   "probe:lever:webel",
+   "probe:lever:appwebel",
+   "probe:teamtailor:webel",
+   "probe:teamtailor:appwebel"
+  ]
+ },
+ "reckon-ai": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:reckonai",
+   "probe:greenhouse:reckon-ai",
+   "probe:teamtailor:reckonai",
+   "probe:teamtailor:reckon-ai",
+   "probe:lever:reckonai",
+   "probe:lever:reckon-ai",
+   "probe:recruitee:reckonai",
+   "probe:recruitee:reckon-ai",
+   "probe:ashby:reckonai",
+   "probe:ashby:reckon-ai",
+   "probe:personio:reckonai",
+   "probe:personio:reckon-ai"
+  ]
+ },
+ "adcities": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:adcities",
+   "probe:greenhouse:adcitieshq",
+   "probe:ashby:adcities",
+   "probe:ashby:adcitieshq",
+   "probe:recruitee:adcities",
+   "probe:recruitee:adcitieshq",
+   "probe:teamtailor:adcities",
+   "probe:teamtailor:adcitieshq",
+   "probe:lever:adcities",
+   "probe:lever:adcitieshq",
+   "probe:personio:adcities",
+   "probe:personio:adcitieshq"
+  ]
+ },
+ "omnia": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:omnia",
+   "probe:teamtailor:useomnia",
+   "probe:personio:omnia",
+   "probe:personio:useomnia",
+   "probe:recruitee:omnia",
+   "probe:recruitee:useomnia",
+   "probe:ashby:omnia",
+   "probe:ashby:useomnia",
+   "probe:greenhouse:omnia",
+   "probe:greenhouse:useomnia",
+   "probe:lever:omnia",
+   "probe:lever:useomnia"
+  ]
+ },
+ "biorce": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:biorce",
+   "probe:greenhouse:biorcehq",
+   "probe:personio:biorce",
+   "probe:personio:biorcehq",
+   "probe:recruitee:biorce",
+   "probe:recruitee:biorcehq",
+   "probe:ashby:biorce",
+   "probe:ashby:biorcehq",
+   "probe:lever:biorce",
+   "probe:lever:biorcehq",
+   "probe:teamtailor:biorce",
+   "probe:teamtailor:biorcehq"
+  ]
+ },
+ "titan-os": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:titanos",
+   "probe:greenhouse:titan-os",
+   "probe:personio:titanos",
+   "probe:personio:titan-os",
+   "probe:ashby:titanos",
+   "probe:ashby:titan-os",
+   "probe:teamtailor:titanos",
+   "probe:teamtailor:titan-os",
+   "probe:recruitee:titanos",
+   "probe:recruitee:titan-os",
+   "probe:lever:titanos",
+   "probe:lever:titan-os"
+  ]
+ },
+ "pivot": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "Pivot",
+  "via": "site",
+  "open_roles": 5
+ },
+ "frank": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:frank",
+   "probe:greenhouse:frankinsurance",
+   "probe:teamtailor:frank",
+   "probe:teamtailor:frankinsurance",
+   "probe:lever:frank",
+   "probe:lever:frankinsurance",
+   "probe:ashby:frank",
+   "probe:ashby:frankinsurance",
+   "probe:recruitee:frank",
+   "probe:recruitee:frankinsurance",
+   "probe:personio:frank",
+   "probe:personio:frankinsurance"
+  ]
+ },
+ "cleafy": {
+  "status": "not-found",
+  "tried": [
+   "site:workable:cleafy",
+   "probe:teamtailor:cleafy",
+   "probe:teamtailor:cleafyhq",
+   "probe:ashby:cleafy",
+   "probe:ashby:cleafyhq",
+   "probe:greenhouse:cleafy",
+   "probe:greenhouse:cleafyhq",
+   "probe:lever:cleafy",
+   "probe:lever:cleafyhq",
+   "probe:recruitee:cleafy",
+   "probe:recruitee:cleafyhq",
+   "probe:personio:cleafy",
+   "probe:personio:cleafyhq"
+  ]
+ },
+ "parallel": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "beparallel",
+  "via": "site",
+  "open_roles": 15
+ },
+ "octo-health": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:octohealth",
+   "probe:teamtailor:octo-health",
+   "probe:ashby:octohealth",
+   "probe:ashby:octo-health",
+   "probe:recruitee:octohealth",
+   "probe:recruitee:octo-health",
+   "probe:lever:octohealth",
+   "probe:lever:octo-health",
+   "probe:personio:octohealth",
+   "probe:personio:octo-health",
+   "probe:greenhouse:octohealth",
+   "probe:greenhouse:octo-health"
+  ]
+ },
+ "designverse": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:designverse",
+   "probe:recruitee:designversehq",
+   "probe:ashby:designverse",
+   "probe:ashby:designversehq",
+   "probe:teamtailor:designverse",
+   "probe:teamtailor:designversehq",
+   "probe:personio:designverse",
+   "probe:personio:designversehq",
+   "probe:greenhouse:designverse",
+   "probe:greenhouse:designversehq",
+   "probe:lever:designverse",
+   "probe:lever:designversehq"
+  ]
+ },
+ "escape": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "escape",
+  "via": "site",
+  "open_roles": 6
+ },
+ "augusta-labs": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:augustalabs",
+   "probe:teamtailor:augusta-labs",
+   "probe:lever:augustalabs",
+   "probe:lever:augusta-labs",
+   "probe:personio:augustalabs",
+   "probe:personio:augusta-labs",
+   "probe:recruitee:augustalabs",
+   "probe:recruitee:augusta-labs",
+   "probe:ashby:augustalabs",
+   "probe:ashby:augusta-labs",
+   "probe:greenhouse:augustalabs",
+   "probe:greenhouse:augusta-labs"
+  ]
+ },
+ "syllotips": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:syllotips",
+   "probe:recruitee:syllotipshq",
+   "probe:greenhouse:syllotips",
+   "probe:greenhouse:syllotipshq",
+   "probe:lever:syllotips",
+   "probe:lever:syllotipshq",
+   "probe:personio:syllotips",
+   "probe:personio:syllotipshq",
+   "probe:ashby:syllotips",
+   "probe:ashby:syllotipshq",
+   "probe:teamtailor:syllotips",
+   "probe:teamtailor:syllotipshq"
+  ]
+ },
+ "usawa-care": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:usawacare",
+   "probe:teamtailor:usawa-care",
+   "probe:greenhouse:usawacare",
+   "probe:greenhouse:usawa-care",
+   "probe:lever:usawacare",
+   "probe:lever:usawa-care",
+   "probe:recruitee:usawacare",
+   "probe:recruitee:usawa-care",
+   "probe:personio:usawacare",
+   "probe:personio:usawa-care",
+   "probe:ashby:usawacare",
+   "probe:ashby:usawa-care"
+  ]
+ },
+ "vibe": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "vibe",
+  "via": "site",
+  "open_roles": 22
+ },
+ "delos": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:delos",
+   "probe:ashby:deloshq",
+   "probe:recruitee:delos",
+   "probe:recruitee:deloshq",
+   "probe:teamtailor:delos",
+   "probe:teamtailor:deloshq",
+   "probe:lever:delos",
+   "probe:lever:deloshq",
+   "probe:personio:delos",
+   "probe:personio:deloshq",
+   "probe:greenhouse:delos",
+   "probe:greenhouse:deloshq"
+  ]
+ },
+ "optiak": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:optiak",
+   "probe:recruitee:optiakhq",
+   "probe:ashby:optiak",
+   "probe:ashby:optiakhq",
+   "probe:teamtailor:optiak",
+   "probe:teamtailor:optiakhq",
+   "probe:personio:optiak",
+   "probe:personio:optiakhq",
+   "probe:lever:optiak",
+   "probe:lever:optiakhq",
+   "probe:greenhouse:optiak",
+   "probe:greenhouse:optiakhq"
+  ]
+ },
+ "restate": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "restate",
+  "via": "site",
+  "open_roles": 4
+ },
+ "allobrain": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:allobrain",
+   "probe:personio:allobrainhq",
+   "probe:lever:allobrain",
+   "probe:lever:allobrainhq",
+   "probe:teamtailor:allobrain",
+   "probe:teamtailor:allobrainhq",
+   "probe:recruitee:allobrain",
+   "probe:recruitee:allobrainhq",
+   "probe:greenhouse:allobrain",
+   "probe:greenhouse:allobrainhq",
+   "probe:ashby:allobrain",
+   "probe:ashby:allobrainhq"
+  ]
+ },
+ "ygo": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "ygo",
+  "via": "site",
+  "open_roles": 3
+ },
+ "humanos": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:humanos",
+   "probe:personio:humanoshq",
+   "probe:greenhouse:humanos",
+   "probe:greenhouse:humanoshq",
+   "probe:ashby:humanos",
+   "probe:ashby:humanoshq",
+   "probe:lever:humanos",
+   "probe:lever:humanoshq",
+   "probe:teamtailor:humanos",
+   "probe:teamtailor:humanoshq",
+   "probe:recruitee:humanos",
+   "probe:recruitee:humanoshq"
+  ]
+ },
+ "cato": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:cato",
+   "probe:teamtailor:get-cato",
+   "probe:lever:cato",
+   "probe:lever:get-cato",
+   "probe:greenhouse:cato",
+   "probe:greenhouse:get-cato",
+   "probe:personio:cato",
+   "probe:personio:get-cato",
+   "probe:ashby:cato",
+   "probe:ashby:get-cato",
+   "probe:recruitee:cato",
+   "probe:recruitee:get-cato"
+  ]
+ },
+ "integral": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "integral-de",
+  "via": "site",
+  "open_roles": 17
+ },
+ "zeliq": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:zeliq",
+   "probe:lever:zeliqhq",
+   "probe:ashby:zeliq",
+   "probe:ashby:zeliqhq",
+   "probe:greenhouse:zeliq",
+   "probe:greenhouse:zeliqhq",
+   "probe:personio:zeliq",
+   "probe:personio:zeliqhq",
+   "probe:teamtailor:zeliq",
+   "probe:teamtailor:zeliqhq",
+   "probe:recruitee:zeliq",
+   "probe:recruitee:zeliqhq"
+  ]
+ },
+ "kheops": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:kheops",
+   "probe:personio:kheopshq",
+   "probe:lever:kheops",
+   "probe:lever:kheopshq",
+   "probe:greenhouse:kheops",
+   "probe:greenhouse:kheopshq",
+   "probe:ashby:kheops",
+   "probe:ashby:kheopshq",
+   "probe:recruitee:kheops",
+   "probe:recruitee:kheopshq",
+   "probe:teamtailor:kheops",
+   "probe:teamtailor:kheopshq"
+  ]
+ },
+ "cosmico": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:cosmico",
+   "probe:recruitee:wearecosmico",
+   "probe:greenhouse:cosmico",
+   "probe:greenhouse:wearecosmico",
+   "probe:lever:cosmico",
+   "probe:lever:wearecosmico",
+   "probe:personio:cosmico",
+   "probe:personio:wearecosmico",
+   "probe:ashby:cosmico",
+   "probe:ashby:wearecosmico",
+   "probe:teamtailor:cosmico",
+   "probe:teamtailor:wearecosmico"
+  ]
+ },
+ "mister-ia": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:misteria",
+   "probe:lever:mister-ia",
+   "probe:personio:misteria",
+   "probe:personio:mister-ia",
+   "probe:ashby:misteria",
+   "probe:ashby:mister-ia",
+   "probe:greenhouse:misteria",
+   "probe:greenhouse:mister-ia",
+   "probe:teamtailor:misteria",
+   "probe:teamtailor:mister-ia",
+   "probe:recruitee:misteria",
+   "probe:recruitee:mister-ia"
+  ]
+ },
+ "bookline": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:bookline",
+   "probe:teamtailor:booklinehq",
+   "probe:personio:bookline",
+   "probe:personio:booklinehq",
+   "probe:ashby:bookline",
+   "probe:ashby:booklinehq",
+   "probe:greenhouse:bookline",
+   "probe:greenhouse:booklinehq",
+   "probe:lever:bookline",
+   "probe:lever:booklinehq",
+   "probe:recruitee:bookline",
+   "probe:recruitee:booklinehq"
+  ]
+ },
+ "copla": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:copla",
+   "probe:greenhouse:coplahq",
+   "probe:recruitee:copla",
+   "probe:recruitee:coplahq",
+   "probe:ashby:copla",
+   "probe:ashby:coplahq",
+   "probe:lever:copla",
+   "probe:lever:coplahq",
+   "probe:teamtailor:copla",
+   "probe:teamtailor:coplahq",
+   "probe:personio:copla",
+   "probe:personio:coplahq"
+  ]
+ },
+ "wealthcome": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:wealthcome",
+   "probe:personio:wealthcomehq",
+   "probe:lever:wealthcome",
+   "probe:lever:wealthcomehq",
+   "probe:recruitee:wealthcome",
+   "probe:recruitee:wealthcomehq",
+   "probe:ashby:wealthcome",
+   "probe:ashby:wealthcomehq",
+   "probe:teamtailor:wealthcome",
+   "probe:teamtailor:wealthcomehq",
+   "probe:greenhouse:wealthcome",
+   "probe:greenhouse:wealthcomehq"
+  ]
+ },
+ "soplaya": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:soplaya",
+   "probe:personio:soplayahq",
+   "probe:teamtailor:soplaya",
+   "probe:teamtailor:soplayahq",
+   "probe:lever:soplaya",
+   "probe:lever:soplayahq",
+   "probe:recruitee:soplaya",
+   "probe:recruitee:soplayahq",
+   "probe:greenhouse:soplaya",
+   "probe:greenhouse:soplayahq",
+   "probe:ashby:soplaya",
+   "probe:ashby:soplayahq"
+  ]
+ },
+ "smartness": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:smartness",
+   "probe:greenhouse:smartnesshq",
+   "probe:ashby:smartness",
+   "probe:ashby:smartnesshq",
+   "probe:personio:smartness",
+   "probe:personio:smartnesshq",
+   "probe:teamtailor:smartness",
+   "probe:teamtailor:smartnesshq",
+   "probe:lever:smartness",
+   "probe:lever:smartnesshq",
+   "probe:recruitee:smartness",
+   "probe:recruitee:smartnesshq"
+  ]
+ },
+ "dojo-ai": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:dojoai",
+   "probe:recruitee:dojo-ai",
+   "probe:ashby:dojoai",
+   "probe:ashby:dojo-ai",
+   "probe:greenhouse:dojoai",
+   "probe:greenhouse:dojo-ai",
+   "probe:personio:dojoai",
+   "probe:personio:dojo-ai",
+   "probe:teamtailor:dojoai",
+   "probe:teamtailor:dojo-ai",
+   "probe:lever:dojoai",
+   "probe:lever:dojo-ai"
+  ]
+ },
+ "goodweek": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:goodweek",
+   "probe:lever:goodweekhq",
+   "probe:recruitee:goodweek",
+   "probe:recruitee:goodweekhq",
+   "probe:personio:goodweek",
+   "probe:personio:goodweekhq",
+   "probe:teamtailor:goodweek",
+   "probe:teamtailor:goodweekhq",
+   "probe:greenhouse:goodweek",
+   "probe:greenhouse:goodweekhq",
+   "probe:ashby:goodweek",
+   "probe:ashby:goodweekhq"
+  ]
+ },
+ "hope-care": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:hopecare",
+   "probe:personio:hope-care",
+   "probe:teamtailor:hopecare",
+   "probe:teamtailor:hope-care",
+   "probe:ashby:hopecare",
+   "probe:ashby:hope-care",
+   "probe:recruitee:hopecare",
+   "probe:recruitee:hope-care",
+   "probe:greenhouse:hopecare",
+   "probe:greenhouse:hope-care",
+   "probe:lever:hopecare",
+   "probe:lever:hope-care"
+  ]
+ },
+ "kombo": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "Kombo",
+  "via": "site",
+  "open_roles": 18
+ },
+ "webyn": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:webyn",
+   "probe:ashby:webynhq",
+   "probe:lever:webyn",
+   "probe:lever:webynhq",
+   "probe:recruitee:webyn",
+   "probe:recruitee:webynhq",
+   "probe:teamtailor:webyn",
+   "probe:teamtailor:webynhq",
+   "probe:personio:webyn",
+   "probe:personio:webynhq",
+   "probe:greenhouse:webyn",
+   "probe:greenhouse:webynhq"
+  ]
+ },
+ "pillar": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:pillar",
+   "probe:greenhouse:pillarhq",
+   "probe:lever:pillar",
+   "probe:lever:pillarhq",
+   "probe:ashby:pillar",
+   "probe:ashby:pillarhq",
+   "probe:recruitee:pillar",
+   "probe:recruitee:pillarhq",
+   "probe:teamtailor:pillar",
+   "probe:teamtailor:pillarhq",
+   "probe:personio:pillar",
+   "probe:personio:pillarhq"
+  ]
+ },
+ "bunch": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "bunch",
+  "via": "slug-probe",
+  "open_roles": 28
+ },
+ "secfix": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "secfix",
+  "via": "site",
+  "open_roles": 18
+ },
+ "spread": {
+  "status": "ok",
+  "platform": "personio",
+  "slug": "spread-gmbh",
+  "via": "site",
+  "open_roles": 8
+ },
+ "partspace": {
+  "status": "ok",
+  "platform": "personio",
+  "slug": "partspace",
+  "via": "site",
+  "open_roles": 6
+ },
+ "tundr": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:tundr",
+   "probe:greenhouse:tundrhq",
+   "probe:lever:tundr",
+   "probe:lever:tundrhq",
+   "probe:teamtailor:tundr",
+   "probe:teamtailor:tundrhq",
+   "probe:recruitee:tundr",
+   "probe:recruitee:tundrhq",
+   "probe:ashby:tundr",
+   "probe:ashby:tundrhq",
+   "probe:personio:tundr",
+   "probe:personio:tundrhq"
+  ]
+ },
+ "acoru": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:acoru",
+   "probe:teamtailor:acoruhq",
+   "probe:recruitee:acoru",
+   "probe:recruitee:acoruhq",
+   "probe:ashby:acoru",
+   "probe:ashby:acoruhq",
+   "probe:personio:acoru",
+   "probe:personio:acoruhq",
+   "probe:lever:acoru",
+   "probe:lever:acoruhq",
+   "probe:greenhouse:acoru",
+   "probe:greenhouse:acoruhq"
+  ]
+ },
+ "didit": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:didit",
+   "probe:greenhouse:didithq",
+   "probe:personio:didit",
+   "probe:personio:didithq",
+   "probe:teamtailor:didit",
+   "probe:teamtailor:didithq",
+   "probe:recruitee:didit",
+   "probe:recruitee:didithq",
+   "probe:lever:didit",
+   "probe:lever:didithq",
+   "probe:ashby:didit",
+   "probe:ashby:didithq"
+  ]
+ },
+ "visiolab": {
+  "status": "ok",
+  "platform": "personio",
+  "slug": "visiolab",
+  "via": "site",
+  "open_roles": 3
+ },
+ "lemonedge": {
+  "status": "unsupported",
+  "platform": "bamboohr",
+  "slug": "lemonedge",
+  "tried": [
+   "site:bamboohr:lemonedge"
+  ]
+ },
+ "voyfai": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "voyfai",
+  "via": "slug-probe",
+  "open_roles": 5
+ },
+ "alinia-ai": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:aliniaai",
+   "probe:ashby:alinia-ai",
+   "probe:greenhouse:aliniaai",
+   "probe:greenhouse:alinia-ai",
+   "probe:teamtailor:aliniaai",
+   "probe:teamtailor:alinia-ai",
+   "probe:lever:aliniaai",
+   "probe:lever:alinia-ai",
+   "probe:recruitee:aliniaai",
+   "probe:recruitee:alinia-ai",
+   "probe:personio:aliniaai",
+   "probe:personio:alinia-ai"
+  ]
+ },
+ "magentic": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "magentic",
+  "via": "slug-probe",
+  "open_roles": 5
+ },
+ "isometric": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "isometric",
+  "via": "site",
+  "open_roles": 7
+ },
+ "hackuity": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:hackuity",
+   "probe:personio:hackuityhq",
+   "probe:greenhouse:hackuity",
+   "probe:greenhouse:hackuityhq",
+   "probe:ashby:hackuity",
+   "probe:ashby:hackuityhq",
+   "probe:teamtailor:hackuity",
+   "probe:teamtailor:hackuityhq",
+   "probe:lever:hackuity",
+   "probe:lever:hackuityhq",
+   "probe:recruitee:hackuity",
+   "probe:recruitee:hackuityhq"
+  ]
+ },
+ "prelude": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "prelude",
+  "via": "slug-probe",
+  "open_roles": 12
+ },
+ "granter": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:granter",
+   "probe:recruitee:granterhq",
+   "probe:greenhouse:granter",
+   "probe:greenhouse:granterhq",
+   "probe:lever:granter",
+   "probe:lever:granterhq",
+   "probe:ashby:granter",
+   "probe:ashby:granterhq",
+   "probe:teamtailor:granter",
+   "probe:teamtailor:granterhq",
+   "probe:personio:granter",
+   "probe:personio:granterhq"
+  ]
+ },
+ "fleek": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "fleek",
+  "via": "site",
+  "open_roles": 6
+ },
+ "jutro-medical": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:jutromedical",
+   "probe:personio:jutro-medical",
+   "probe:ashby:jutromedical",
+   "probe:ashby:jutro-medical",
+   "probe:teamtailor:jutromedical",
+   "probe:teamtailor:jutro-medical",
+   "probe:recruitee:jutromedical",
+   "probe:recruitee:jutro-medical",
+   "probe:greenhouse:jutromedical",
+   "probe:greenhouse:jutro-medical",
+   "probe:lever:jutromedical",
+   "probe:lever:jutro-medical"
+  ]
+ },
+ "reveni": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:reveni",
+   "probe:teamtailor:revenihq",
+   "probe:personio:reveni",
+   "probe:personio:revenihq",
+   "probe:greenhouse:reveni",
+   "probe:greenhouse:revenihq",
+   "probe:recruitee:reveni",
+   "probe:recruitee:revenihq",
+   "probe:ashby:reveni",
+   "probe:ashby:revenihq",
+   "probe:lever:reveni",
+   "probe:lever:revenihq"
+  ]
+ },
+ "solidroad": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "solidroad",
+  "via": "site",
+  "open_roles": 9
+ },
+ "doctor-one": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:doctorone",
+   "probe:recruitee:doctor-one",
+   "probe:ashby:doctorone",
+   "probe:ashby:doctor-one",
+   "probe:teamtailor:doctorone",
+   "probe:teamtailor:doctor-one",
+   "probe:personio:doctorone",
+   "probe:personio:doctor-one",
+   "probe:greenhouse:doctorone",
+   "probe:greenhouse:doctor-one",
+   "probe:lever:doctorone",
+   "probe:lever:doctor-one"
+  ]
+ },
+ "heydiga": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:heydiga",
+   "probe:greenhouse:heydigahq",
+   "probe:teamtailor:heydiga",
+   "probe:teamtailor:heydigahq",
+   "probe:recruitee:heydiga",
+   "probe:recruitee:heydigahq",
+   "probe:personio:heydiga",
+   "probe:personio:heydigahq",
+   "probe:ashby:heydiga",
+   "probe:ashby:heydigahq",
+   "probe:lever:heydiga",
+   "probe:lever:heydigahq"
+  ]
+ },
+ "merytu": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:merytu",
+   "probe:recruitee:merytuhq",
+   "probe:personio:merytu",
+   "probe:personio:merytuhq",
+   "probe:greenhouse:merytu",
+   "probe:greenhouse:merytuhq",
+   "probe:teamtailor:merytu",
+   "probe:teamtailor:merytuhq",
+   "probe:lever:merytu",
+   "probe:lever:merytuhq",
+   "probe:ashby:merytu",
+   "probe:ashby:merytuhq"
+  ]
+ },
+ "primo": {
+  "status": "ok",
+  "platform": "recruitee",
+  "slug": "primo",
+  "via": "slug-probe",
+  "open_roles": 3
+ },
+ "tract": {
+  "status": "unsupported",
+  "platform": "bamboohr",
+  "slug": "tract",
+  "tried": [
+   "site:bamboohr:tract"
+  ]
+ },
+ "duna": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "duna",
+  "via": "site",
+  "open_roles": 12
+ },
+ "wultra": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:wultra",
+   "probe:greenhouse:wultrahq",
+   "probe:lever:wultra",
+   "probe:lever:wultrahq",
+   "probe:recruitee:wultra",
+   "probe:recruitee:wultrahq",
+   "probe:teamtailor:wultra",
+   "probe:teamtailor:wultrahq",
+   "probe:personio:wultra",
+   "probe:personio:wultrahq",
+   "probe:ashby:wultra",
+   "probe:ashby:wultrahq"
+  ]
+ },
+ "oneleet": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "oneleet",
+  "via": "site",
+  "open_roles": 11
+ },
+ "glartek": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:glartek",
+   "probe:recruitee:glartekhq",
+   "probe:ashby:glartek",
+   "probe:ashby:glartekhq",
+   "probe:greenhouse:glartek",
+   "probe:greenhouse:glartekhq",
+   "probe:lever:glartek",
+   "probe:lever:glartekhq",
+   "probe:personio:glartek",
+   "probe:personio:glartekhq",
+   "probe:teamtailor:glartek",
+   "probe:teamtailor:glartekhq"
+  ]
+ },
+ "veridion": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:veridion",
+   "probe:ashby:veridionhq",
+   "probe:greenhouse:veridion",
+   "probe:greenhouse:veridionhq",
+   "probe:teamtailor:veridion",
+   "probe:teamtailor:veridionhq",
+   "probe:lever:veridion",
+   "probe:lever:veridionhq",
+   "probe:personio:veridion",
+   "probe:personio:veridionhq",
+   "probe:recruitee:veridion",
+   "probe:recruitee:veridionhq"
+  ]
+ },
+ "denarius": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:denarius",
+   "probe:greenhouse:denariushq",
+   "probe:recruitee:denarius",
+   "probe:recruitee:denariushq",
+   "probe:teamtailor:denarius",
+   "probe:teamtailor:denariushq",
+   "probe:personio:denarius",
+   "probe:personio:denariushq",
+   "probe:ashby:denarius",
+   "probe:ashby:denariushq",
+   "probe:lever:denarius",
+   "probe:lever:denariushq"
+  ]
+ },
+ "silverflow": {
+  "status": "ok",
+  "platform": "personio",
+  "slug": "silverflow",
+  "via": "site",
+  "open_roles": 2
+ },
+ "insify": {
+  "status": "ok",
+  "platform": "lever",
+  "slug": "insify",
+  "via": "site",
+  "open_roles": 16
+ },
+ "choice": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:choice",
+   "probe:teamtailor:choiceqr",
+   "probe:greenhouse:choice",
+   "probe:greenhouse:choiceqr",
+   "probe:ashby:choice",
+   "probe:ashby:choiceqr",
+   "probe:recruitee:choice",
+   "probe:recruitee:choiceqr",
+   "probe:lever:choice",
+   "probe:lever:choiceqr",
+   "probe:personio:choice",
+   "probe:personio:choiceqr"
+  ]
+ },
+ "validio": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "validio",
+  "via": "site",
+  "open_roles": 18
+ },
+ "kabilio": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:kabilio",
+   "probe:teamtailor:kabiliohq",
+   "probe:greenhouse:kabilio",
+   "probe:greenhouse:kabiliohq",
+   "probe:ashby:kabilio",
+   "probe:ashby:kabiliohq",
+   "probe:personio:kabilio",
+   "probe:personio:kabiliohq",
+   "probe:lever:kabilio",
+   "probe:lever:kabiliohq",
+   "probe:recruitee:kabilio",
+   "probe:recruitee:kabiliohq"
+  ]
+ },
+ "datapizza": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:datapizza",
+   "probe:teamtailor:datapizzahq",
+   "probe:recruitee:datapizza",
+   "probe:recruitee:datapizzahq",
+   "probe:greenhouse:datapizza",
+   "probe:greenhouse:datapizzahq",
+   "probe:personio:datapizza",
+   "probe:personio:datapizzahq",
+   "probe:ashby:datapizza",
+   "probe:ashby:datapizzahq",
+   "probe:lever:datapizza",
+   "probe:lever:datapizzahq"
+  ]
+ },
+ "spektr": {
+  "status": "ok",
+  "platform": "greenhouse",
+  "slug": "spektr",
+  "via": "site",
+  "open_roles": 12
+ },
+ "tandem-health": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "tandem-health",
+  "via": "site",
+  "open_roles": 77
+ },
+ "getwhy": {
+  "status": "unsupported",
+  "platform": "bamboohr",
+  "slug": "getwhy",
+  "tried": [
+   "site:bamboohr:getwhy"
+  ]
+ },
+ "kestra": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "kestra",
+  "via": "slug-probe",
+  "open_roles": 4
+ },
+ "equixly": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:equixly",
+   "probe:recruitee:equixlyhq",
+   "probe:ashby:equixly",
+   "probe:ashby:equixlyhq",
+   "probe:greenhouse:equixly",
+   "probe:greenhouse:equixlyhq",
+   "probe:teamtailor:equixly",
+   "probe:teamtailor:equixlyhq",
+   "probe:personio:equixly",
+   "probe:personio:equixlyhq",
+   "probe:lever:equixly",
+   "probe:lever:equixlyhq"
+  ]
+ },
+ "pandektes": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "pandektes",
+  "via": "site",
+  "open_roles": 9
+ },
+ "complir": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "complir",
+  "via": "site",
+  "open_roles": 1
+ },
+ "getvocal": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:getvocal",
+   "probe:lever:getvocalhq",
+   "probe:teamtailor:getvocal",
+   "probe:teamtailor:getvocalhq",
+   "probe:greenhouse:getvocal",
+   "probe:greenhouse:getvocalhq",
+   "probe:ashby:getvocal",
+   "probe:ashby:getvocalhq",
+   "probe:recruitee:getvocal",
+   "probe:recruitee:getvocalhq",
+   "probe:personio:getvocal",
+   "probe:personio:getvocalhq"
+  ]
+ },
+ "unleash": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "unleash-amby",
+  "via": "site",
+  "open_roles": 5
+ },
+ "scrapad": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:scrapad",
+   "probe:recruitee:scrapadhq",
+   "probe:greenhouse:scrapad",
+   "probe:greenhouse:scrapadhq",
+   "probe:ashby:scrapad",
+   "probe:ashby:scrapadhq",
+   "probe:teamtailor:scrapad",
+   "probe:teamtailor:scrapadhq",
+   "probe:personio:scrapad",
+   "probe:personio:scrapadhq",
+   "probe:lever:scrapad",
+   "probe:lever:scrapadhq"
+  ]
+ },
+ "qovery": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:qovery",
+   "probe:lever:qoveryhq",
+   "probe:ashby:qovery",
+   "probe:ashby:qoveryhq",
+   "probe:teamtailor:qovery",
+   "probe:teamtailor:qoveryhq",
+   "probe:greenhouse:qovery",
+   "probe:greenhouse:qoveryhq",
+   "probe:recruitee:qovery",
+   "probe:recruitee:qoveryhq",
+   "probe:personio:qovery",
+   "probe:personio:qoveryhq"
+  ]
+ },
+ "creem": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "creem",
+  "via": "site",
+  "open_roles": 3
+ },
+ "easol": {
+  "status": "ok",
+  "platform": "lever",
+  "slug": "easol",
+  "via": "slug-probe",
+  "open_roles": 7
+ },
+ "polars": {
+  "status": "ok",
+  "platform": "recruitee",
+  "slug": "polars",
+  "via": "slug-probe",
+  "open_roles": 3
+ },
+ "goodvest": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:goodvest",
+   "probe:personio:goodvesthq",
+   "probe:recruitee:goodvest",
+   "probe:recruitee:goodvesthq",
+   "probe:greenhouse:goodvest",
+   "probe:greenhouse:goodvesthq",
+   "probe:teamtailor:goodvest",
+   "probe:teamtailor:goodvesthq",
+   "probe:ashby:goodvest",
+   "probe:ashby:goodvesthq",
+   "probe:lever:goodvest",
+   "probe:lever:goodvesthq"
+  ]
+ },
+ "allo": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:allo",
+   "probe:ashby:allohq",
+   "probe:recruitee:allo",
+   "probe:recruitee:allohq",
+   "probe:personio:allo",
+   "probe:personio:allohq",
+   "probe:lever:allo",
+   "probe:lever:allohq",
+   "probe:greenhouse:allo",
+   "probe:greenhouse:allohq",
+   "probe:teamtailor:allo",
+   "probe:teamtailor:allohq"
+  ]
+ },
+ "tendos": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:tendos",
+   "probe:greenhouse:tendoshq",
+   "probe:teamtailor:tendos",
+   "probe:teamtailor:tendoshq",
+   "probe:ashby:tendos",
+   "probe:ashby:tendoshq",
+   "probe:recruitee:tendos",
+   "probe:recruitee:tendoshq",
+   "probe:personio:tendos",
+   "probe:personio:tendoshq",
+   "probe:lever:tendos",
+   "probe:lever:tendoshq"
+  ]
+ },
+ "atira": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "atira",
+  "via": "slug-probe",
+  "open_roles": 9
+ },
+ "deblock": {
+  "status": "not-found",
+  "tried": [
+   "site:workable:deblock",
+   "probe:personio:deblock",
+   "probe:personio:deblockhq",
+   "probe:greenhouse:deblock",
+   "probe:greenhouse:deblockhq",
+   "probe:teamtailor:deblock",
+   "probe:teamtailor:deblockhq",
+   "probe:recruitee:deblock",
+   "probe:recruitee:deblockhq",
+   "probe:lever:deblock",
+   "probe:lever:deblockhq",
+   "probe:ashby:deblock",
+   "probe:ashby:deblockhq"
+  ]
+ },
+ "synera": {
+  "status": "ok",
+  "platform": "recruitee",
+  "slug": "synera",
+  "via": "slug-probe",
+  "open_roles": 13
+ },
+ "zero": {
+  "status": "ok",
+  "platform": "recruitee",
+  "slug": "zero",
+  "via": "slug-probe",
+  "open_roles": 17
+ },
+ "interloom": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:interloom",
+   "probe:lever:interloomhq",
+   "probe:greenhouse:interloom",
+   "probe:greenhouse:interloomhq",
+   "probe:ashby:interloom",
+   "probe:ashby:interloomhq",
+   "probe:personio:interloom",
+   "probe:personio:interloomhq",
+   "probe:recruitee:interloom",
+   "probe:recruitee:interloomhq",
+   "probe:teamtailor:interloom",
+   "probe:teamtailor:interloomhq"
+  ]
+ },
+ "oska-health": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:oskahealth",
+   "probe:lever:oska-health",
+   "probe:greenhouse:oskahealth",
+   "probe:greenhouse:oska-health",
+   "probe:recruitee:oskahealth",
+   "probe:recruitee:oska-health",
+   "probe:ashby:oskahealth",
+   "probe:ashby:oska-health",
+   "probe:teamtailor:oskahealth",
+   "probe:teamtailor:oska-health",
+   "probe:personio:oskahealth",
+   "probe:personio:oska-health"
+  ]
+ },
+ "deepslate": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "deepslate",
+  "via": "slug-probe",
+  "open_roles": 5
+ },
+ "performativ": {
+  "status": "ok",
+  "platform": "teamtailor",
+  "slug": "performativ",
+  "via": "slug-probe",
+  "open_roles": 14
+ },
+ "mika": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:mika",
+   "probe:teamtailor:getmika",
+   "probe:lever:mika",
+   "probe:lever:getmika",
+   "probe:greenhouse:mika",
+   "probe:greenhouse:getmika",
+   "probe:recruitee:mika",
+   "probe:recruitee:getmika",
+   "probe:personio:mika",
+   "probe:personio:getmika",
+   "probe:ashby:mika",
+   "probe:ashby:getmika"
+  ]
+ },
+ "arrakis": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:arrakis",
+   "probe:ashby:arrakistechnologies",
+   "probe:recruitee:arrakis",
+   "probe:recruitee:arrakistechnologies",
+   "probe:lever:arrakis",
+   "probe:lever:arrakistechnologies",
+   "probe:personio:arrakis",
+   "probe:personio:arrakistechnologies",
+   "probe:greenhouse:arrakis",
+   "probe:greenhouse:arrakistechnologies",
+   "probe:teamtailor:arrakis",
+   "probe:teamtailor:arrakistechnologies"
+  ]
+ },
+ "zerorisk": {
+  "status": "ok",
+  "platform": "ashby",
+  "slug": "zerorisk",
+  "via": "slug-probe",
+  "open_roles": 2
+ },
+ "procuros": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:procuros",
+   "probe:personio:procuroshq",
+   "probe:greenhouse:procuros",
+   "probe:greenhouse:procuroshq",
+   "probe:lever:procuros",
+   "probe:lever:procuroshq",
+   "probe:teamtailor:procuros",
+   "probe:teamtailor:procuroshq",
+   "probe:ashby:procuros",
+   "probe:ashby:procuroshq",
+   "probe:recruitee:procuros",
+   "probe:recruitee:procuroshq"
+  ]
+ },
+ "syte": {
+  "status": "not-found",
+  "tried": [
+   "probe:lever:syte",
+   "probe:lever:sytehq",
+   "probe:recruitee:syte",
+   "probe:recruitee:sytehq",
+   "probe:personio:syte",
+   "probe:personio:sytehq",
+   "probe:ashby:syte",
+   "probe:ashby:sytehq",
+   "probe:greenhouse:syte",
+   "probe:greenhouse:sytehq",
+   "probe:teamtailor:syte",
+   "probe:teamtailor:sytehq"
+  ]
+ },
+ "finst": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:finst",
+   "probe:ashby:finsthq",
+   "probe:lever:finst",
+   "probe:lever:finsthq",
+   "probe:teamtailor:finst",
+   "probe:teamtailor:finsthq",
+   "probe:recruitee:finst",
+   "probe:recruitee:finsthq",
+   "probe:greenhouse:finst",
+   "probe:greenhouse:finsthq",
+   "probe:personio:finst",
+   "probe:personio:finsthq"
+  ]
+ },
+ "medly-ai": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:medlyai",
+   "probe:ashby:medly-ai",
+   "probe:lever:medlyai",
+   "probe:lever:medly-ai",
+   "probe:teamtailor:medlyai",
+   "probe:teamtailor:medly-ai",
+   "probe:personio:medlyai",
+   "probe:personio:medly-ai",
+   "probe:greenhouse:medlyai",
+   "probe:greenhouse:medly-ai",
+   "probe:recruitee:medlyai",
+   "probe:recruitee:medly-ai"
+  ]
+ },
+ "tensorx": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:tensorx",
+   "probe:ashby:tensorxhq",
+   "probe:teamtailor:tensorx",
+   "probe:teamtailor:tensorxhq",
+   "probe:recruitee:tensorx",
+   "probe:recruitee:tensorxhq",
+   "probe:greenhouse:tensorx",
+   "probe:greenhouse:tensorxhq",
+   "probe:lever:tensorx",
+   "probe:lever:tensorxhq",
+   "probe:personio:tensorx",
+   "probe:personio:tensorxhq"
+  ]
+ },
+ "axle-energy": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:axleenergy",
+   "probe:personio:axle-energy",
+   "probe:greenhouse:axleenergy",
+   "probe:greenhouse:axle-energy",
+   "probe:ashby:axleenergy",
+   "probe:ashby:axle-energy",
+   "probe:recruitee:axleenergy",
+   "probe:recruitee:axle-energy",
+   "probe:teamtailor:axleenergy",
+   "probe:teamtailor:axle-energy",
+   "probe:lever:axleenergy",
+   "probe:lever:axle-energy"
+  ]
+ },
+ "lawx": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:lawx",
+   "probe:personio:lawxhq",
+   "probe:teamtailor:lawx",
+   "probe:teamtailor:lawxhq",
+   "probe:ashby:lawx",
+   "probe:ashby:lawxhq",
+   "probe:lever:lawx",
+   "probe:lever:lawxhq",
+   "probe:greenhouse:lawx",
+   "probe:greenhouse:lawxhq",
+   "probe:recruitee:lawx",
+   "probe:recruitee:lawxhq"
+  ]
+ },
+ "pubx": {
+  "status": "not-found",
+  "tried": [
+   "probe:ashby:pubx",
+   "probe:ashby:pubxhq",
+   "probe:personio:pubx",
+   "probe:personio:pubxhq",
+   "probe:teamtailor:pubx",
+   "probe:teamtailor:pubxhq",
+   "probe:greenhouse:pubx",
+   "probe:greenhouse:pubxhq",
+   "probe:lever:pubx",
+   "probe:lever:pubxhq",
+   "probe:recruitee:pubx",
+   "probe:recruitee:pubxhq"
+  ]
+ },
+ "hyperlayer": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:hyperlayer",
+   "probe:recruitee:hyperlayerhq",
+   "probe:personio:hyperlayer",
+   "probe:personio:hyperlayerhq",
+   "probe:ashby:hyperlayer",
+   "probe:ashby:hyperlayerhq",
+   "probe:greenhouse:hyperlayer",
+   "probe:greenhouse:hyperlayerhq",
+   "probe:teamtailor:hyperlayer",
+   "probe:teamtailor:hyperlayerhq",
+   "probe:lever:hyperlayer",
+   "probe:lever:hyperlayerhq"
+  ]
+ },
+ "sprive": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:sprive",
+   "probe:teamtailor:sprivehq",
+   "probe:ashby:sprive",
+   "probe:ashby:sprivehq",
+   "probe:lever:sprive",
+   "probe:lever:sprivehq",
+   "probe:recruitee:sprive",
+   "probe:recruitee:sprivehq",
+   "probe:personio:sprive",
+   "probe:personio:sprivehq",
+   "probe:greenhouse:sprive",
+   "probe:greenhouse:sprivehq"
+  ]
+ },
+ "azoma": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:azoma",
+   "probe:personio:azomahq",
+   "probe:greenhouse:azoma",
+   "probe:greenhouse:azomahq",
+   "probe:teamtailor:azoma",
+   "probe:teamtailor:azomahq",
+   "probe:ashby:azoma",
+   "probe:ashby:azomahq",
+   "probe:lever:azoma",
+   "probe:lever:azomahq",
+   "probe:recruitee:azoma",
+   "probe:recruitee:azomahq"
+  ]
+ },
+ "circuit-mind": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:circuitmind",
+   "probe:teamtailor:circuit-mind",
+   "probe:recruitee:circuitmind",
+   "probe:recruitee:circuit-mind",
+   "probe:personio:circuitmind",
+   "probe:personio:circuit-mind",
+   "probe:greenhouse:circuitmind",
+   "probe:greenhouse:circuit-mind",
+   "probe:ashby:circuitmind",
+   "probe:ashby:circuit-mind",
+   "probe:lever:circuitmind",
+   "probe:lever:circuit-mind"
+  ]
+ },
+ "seapoint": {
+  "status": "not-found",
+  "tried": [
+   "site:workable:seapoint",
+   "probe:recruitee:seapoint",
+   "probe:recruitee:seapointhq",
+   "probe:ashby:seapoint",
+   "probe:ashby:seapointhq",
+   "probe:personio:seapoint",
+   "probe:personio:seapointhq",
+   "probe:lever:seapoint",
+   "probe:lever:seapointhq",
+   "probe:greenhouse:seapoint",
+   "probe:greenhouse:seapointhq",
+   "probe:teamtailor:seapoint",
+   "probe:teamtailor:seapointhq"
+  ]
+ },
+ "bits": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:bits",
+   "probe:personio:bitshq",
+   "probe:recruitee:bits",
+   "probe:recruitee:bitshq",
+   "probe:greenhouse:bits",
+   "probe:greenhouse:bitshq",
+   "probe:lever:bits",
+   "probe:lever:bitshq",
+   "probe:teamtailor:bits",
+   "probe:teamtailor:bitshq",
+   "probe:ashby:bits",
+   "probe:ashby:bitshq"
+  ]
+ },
+ "lette": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:lette",
+   "probe:greenhouse:lettehq",
+   "probe:lever:lette",
+   "probe:lever:lettehq",
+   "probe:ashby:lette",
+   "probe:ashby:lettehq",
+   "probe:personio:lette",
+   "probe:personio:lettehq",
+   "probe:teamtailor:lette",
+   "probe:teamtailor:lettehq",
+   "probe:recruitee:lette",
+   "probe:recruitee:lettehq"
+  ]
+ },
+ "mindgard": {
+  "status": "not-found",
+  "tried": [
+   "probe:personio:mindgard",
+   "probe:personio:mindgardhq",
+   "probe:recruitee:mindgard",
+   "probe:recruitee:mindgardhq",
+   "probe:greenhouse:mindgard",
+   "probe:greenhouse:mindgardhq",
+   "probe:ashby:mindgard",
+   "probe:ashby:mindgardhq",
+   "probe:lever:mindgard",
+   "probe:lever:mindgardhq",
+   "probe:teamtailor:mindgard",
+   "probe:teamtailor:mindgardhq"
+  ]
+ },
+ "clearops": {
+  "status": "not-found",
+  "tried": [
+   "site:personio:clearops",
+   "probe:lever:clearops",
+   "probe:lever:clearopshq",
+   "probe:recruitee:clearops",
+   "probe:recruitee:clearopshq",
+   "probe:personio:clearops",
+   "probe:personio:clearopshq",
+   "probe:ashby:clearops",
+   "probe:ashby:clearopshq",
+   "probe:teamtailor:clearops",
+   "probe:teamtailor:clearopshq",
+   "probe:greenhouse:clearops",
+   "probe:greenhouse:clearopshq"
+  ]
+ },
+ "orq-ai": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:orqai",
+   "probe:greenhouse:orq-ai",
+   "probe:recruitee:orqai",
+   "probe:recruitee:orq-ai",
+   "probe:personio:orqai",
+   "probe:personio:orq-ai",
+   "probe:ashby:orqai",
+   "probe:ashby:orq-ai",
+   "probe:teamtailor:orqai",
+   "probe:teamtailor:orq-ai",
+   "probe:lever:orqai",
+   "probe:lever:orq-ai"
+  ]
+ },
+ "neno": {
+  "status": "not-found",
+  "tried": [
+   "site:ashby:neno",
+   "probe:recruitee:neno",
+   "probe:recruitee:nenohq",
+   "probe:lever:neno",
+   "probe:lever:nenohq",
+   "probe:ashby:neno",
+   "probe:ashby:nenohq",
+   "probe:greenhouse:neno",
+   "probe:greenhouse:nenohq",
+   "probe:personio:neno",
+   "probe:personio:nenohq",
+   "probe:teamtailor:neno",
+   "probe:teamtailor:nenohq"
+  ]
+ },
+ "risk-ledger": {
+  "status": "ok",
+  "platform": "greenhouse",
+  "slug": "riskledger",
+  "via": "slug-probe",
+  "open_roles": 9
+ },
+ "grasp": {
+  "status": "not-found",
+  "tried": [
+   "probe:recruitee:grasp",
+   "probe:recruitee:grasp-ai",
+   "probe:ashby:grasp",
+   "probe:ashby:grasp-ai",
+   "probe:lever:grasp",
+   "probe:lever:grasp-ai",
+   "probe:greenhouse:grasp",
+   "probe:greenhouse:grasp-ai",
+   "probe:personio:grasp",
+   "probe:personio:grasp-ai",
+   "probe:teamtailor:grasp",
+   "probe:teamtailor:grasp-ai"
+  ]
+ },
+ "claimlane": {
+  "status": "not-found",
+  "tried": [
+   "probe:teamtailor:claimlane",
+   "probe:teamtailor:claimlanehq",
+   "probe:personio:claimlane",
+   "probe:personio:claimlanehq",
+   "probe:recruitee:claimlane",
+   "probe:recruitee:claimlanehq",
+   "probe:greenhouse:claimlane",
+   "probe:greenhouse:claimlanehq",
+   "probe:ashby:claimlane",
+   "probe:ashby:claimlanehq",
+   "probe:lever:claimlane",
+   "probe:lever:claimlanehq"
+  ]
+ },
+ "marker": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:marker",
+   "probe:greenhouse:markerhq",
+   "probe:recruitee:marker",
+   "probe:recruitee:markerhq",
+   "probe:personio:marker",
+   "probe:personio:markerhq",
+   "probe:ashby:marker",
+   "probe:ashby:markerhq",
+   "probe:lever:marker",
+   "probe:lever:markerhq",
+   "probe:teamtailor:marker",
+   "probe:teamtailor:markerhq"
+  ]
+ },
+ "promptwatch": {
+  "status": "not-found",
+  "tried": [
+   "site:recruitee:promptwatch",
+   "probe:ashby:promptwatch",
+   "probe:ashby:promptwatchhq",
+   "probe:personio:promptwatch",
+   "probe:personio:promptwatchhq",
+   "probe:lever:promptwatch",
+   "probe:lever:promptwatchhq",
+   "probe:recruitee:promptwatch",
+   "probe:recruitee:promptwatchhq",
+   "probe:greenhouse:promptwatch",
+   "probe:greenhouse:promptwatchhq",
+   "probe:teamtailor:promptwatch",
+   "probe:teamtailor:promptwatchhq"
+  ]
+ },
+ "comparables-ai": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:comparablesai",
+   "probe:greenhouse:comparables-ai",
+   "probe:recruitee:comparablesai",
+   "probe:recruitee:comparables-ai",
+   "probe:personio:comparablesai",
+   "probe:personio:comparables-ai",
+   "probe:ashby:comparablesai",
+   "probe:ashby:comparables-ai",
+   "probe:lever:comparablesai",
+   "probe:lever:comparables-ai",
+   "probe:teamtailor:comparablesai",
+   "probe:teamtailor:comparables-ai"
+  ]
+ },
+ "sumary": {
+  "status": "not-found",
+  "tried": [
+   "probe:greenhouse:sumary",
+   "probe:greenhouse:sumaryhq",
+   "probe:ashby:sumary",
+   "probe:ashby:sumaryhq",
+   "probe:personio:sumary",
+   "probe:personio:sumaryhq",
+   "probe:recruitee:sumary",
+   "probe:recruitee:sumaryhq",
+   "probe:lever:sumary",
+   "probe:lever:sumaryhq",
+   "probe:teamtailor:sumary",
+   "probe:teamtailor:sumaryhq"
+  ]
+ }
+}
